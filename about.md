@@ -28,7 +28,3 @@ At an early age, I developed a love for coding from editing HTML on MySpace and 
 
 I am a huge sports fanatic. I play golf, basketball, tennis whenever I get the chance. Also, I am a dedicated Denver Broncos and Miami Heat fan.
 
-
-
-
-I am lucky to live in Hawaii: the weather is great and the ocean is no more than a 20-minute drive away. In my free time, I play guitar and make YouTube videos to make people laugh.
