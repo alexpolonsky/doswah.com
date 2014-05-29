@@ -49,7 +49,7 @@ I added these lines in the `post-receive` file I just created and opened
 
     {% highlight html linenos %}
     #!/bin/sh
-#GIT_WORK_TREE=/path/to/webapp git checkout -f master
+GIT_WORK_TREE=/path/to/webapp git checkout -f master
     {% endhighlight %}
 
 For my case, `path/to/webapp` for me was `/home/doswah/webapps/joshuatrivera`. Then I needed to provide the necessary permissions so the post-receive script can write to the appropriate file. So after creating the `post-receive` file, type
