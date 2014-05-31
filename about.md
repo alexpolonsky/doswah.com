@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About Doswah
 tagline: Who Am I? 
-tags: [about, Jekyll, theme, responsive]
+tags: [about, doswah, Jekyll, theme, responsive]
 modified: 5-29-2014
 comments: false
 image:
