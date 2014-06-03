@@ -22,6 +22,4 @@ I am a recent Computer Engineering graduate from the University of Hawaii at Man
 
 ## More about me 
 
-I am a huge sports fanatic. I play golf (<i>+15 handicap</i>), basketball(<i>Point Guard wannabe</i>), tennis(<i>I know the rules</i>)  whenever I get the chance. In addition to being active, I root for the Denver Broncos and Miami Heat.
-
-In also am a huge fan of hiking, musicals, Childish Gambino, life hacks, and Doctor Who.
+I am a huge fan of sports. I play golf (<i>+15 handicap</i>), basketball (<i>5'2" Point Guard</i>), and Disc Golf (<i>2-time Nuke Disc Champion</i>). In addition, I root for the Denver Broncos and Miami Heat. I'm also am a huge fan of hiking, musicals, Childish Gambino, life hacks, and Doctor Who.
