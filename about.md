@@ -14,17 +14,14 @@ image:
 
 ## Who I Am
 
-First things first, <i>Doswah</i> is not my real name. It is my blogger handle derived from a filipino accent (go figure). My real name is [Joshua Rivera](http://joshuatrivera.com) and go by <i>Doswah</i> to my friends and family.
+<i>Doswah</i> is not my real name, it is my blogger handle derived from saying my first name in a filipino accent. My real name is [Joshua Rivera](http://joshuatrivera.com)
  
 ## What I do
 
-I am a recent Computer Engineering graduate from the University of Hawaii at Manoa aspiring to code as good as [Kenny Luong](http://kennyluong.com).
+I am a recent Computer Engineering graduate from the University of Hawaii at Manoa. I aspire to code as good as [Kenny Luong](http://kennyluong.com), be better at everything than everyone like [Jake Tsuyemura](http://jaketsuyemura.com), and keep pace with [Matthew Inouye](http://mkinouye.com).
 
-## Why do what I do 
+## More about me 
 
-At an early age, I developed a love for coding from editing HTML on MySpace and finding cool ways to hack my video games. Since then, I have always been interested in new technology.
+I am a huge sports fanatic. I play golf (<i>+15 handicap</i>), basketball(<i>Point Guard wannabe</i>), tennis(<i>I know the rules</i>)  whenever I get the chance. In addition to being active, I root for the Denver Broncos and Miami Heat.
 
-## For lolz
-
-I am a huge sports fanatic. I play golf, basketball, tennis whenever I get the chance. Also, I am a dedicated Denver Broncos and Miami Heat fan.
-
+In also am a huge fan of hiking, musicals, Childish Gambino, life hacks, and Doctor Who.
