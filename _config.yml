@@ -8,7 +8,7 @@ disqus_shortname:
 owner:
   name:           Joshua T. Rivera 
   avatar:         bio-photo.jpg
-  bio:            "Tech Talk\nLifestyle\nSports Debates"
+  bio:            "Tech Talk, Lifestyle, & Sports Debates"
   email:          doswah@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: doswah
@@ -24,7 +24,7 @@ owner:
   steam:
   dribbble:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: 
+  google_plus: 114578016273192306559
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-51460545-1
