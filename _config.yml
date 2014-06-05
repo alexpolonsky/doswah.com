@@ -1,4 +1,4 @@
-title:           Doswah Delivered
+title:           Doswah
 description:     Life is a story.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url: 		 http://doswah.com
@@ -6,7 +6,7 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Doswah 
+  name:           Joshua T. Rivera 
   avatar:         bio-photo.jpg
   bio:            "Computer Engineering graduate entering the software development world."
   email:          doswah@gmail.com
@@ -41,7 +41,7 @@ links:
     url: /posts/
 #  - title: Theme Setup
 #    url: /theme-setup/
-  - title: Joshua T Rivera
+  - title: JoshuaTRivera.com
     url: http://joshuatrivera.com
     external: true
 
