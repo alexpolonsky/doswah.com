@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: About Doswah
-tagline: Who Am I? 
+title: About Me
+tagline: Get to know me before I get to know you.
 tags: [about, doswah, Jekyll, theme, responsive]
 modified: 5-29-2014
 comments: false

@@ -1,5 +1,5 @@
 title:           Doswah
-description:     Life is a story.
+description:     Life is a story. Make it a great one.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url: 		 http://doswah.com
 disqus_shortname:
@@ -8,17 +8,17 @@ disqus_shortname:
 owner:
   name:           Joshua T. Rivera 
   avatar:         bio-photo.jpg
-  bio:            "Computer Engineering graduate entering the software development world."
+  bio:            "Tech Talk\nLifestyle\nSports Debates"
   email:          doswah@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: doswah
   facebook: doswah
   github: doswah
   stackoverflow:
-  linkedin:  
+  linkedin: joshua-rivera/57/89/769
   instagram: doswah
   lastfm:
-  tumblr: doswah
+  tumblr: 
   pinterest:
   foursquare:
   steam:
