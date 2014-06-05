@@ -12,13 +12,13 @@ Having [Kenny](http://blog.kennyluong.com) tell me about his ability to make loc
 
 First I created a local respository titled `joshuatrivera` and initalized a git repository with a `index.html` file.
 
-    {% raw %}
+    {% highlight css %}
     $ mkdir joshuatrivera && cd joshuatrivera
     $ git init
     $ echo "Hello, world!" > index.html
     $ git add index.html
     $ git commit -m "First commit"
-    {% endraw %}
+    {% endhighlight %}
 
 ### Performing the Web Host Setup
 
