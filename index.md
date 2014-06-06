@@ -1,9 +1,9 @@
 ---
 layout: home
-description: "The Jekyll theme by designer Michael Rose for doswah.com."
+description: "My personal website!"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: texture-feature-01.jpg
-  credit: Hike2Grind
-  creditlink: http://hike2grind.com
+  credit: 
+  creditlink: 
 ---
