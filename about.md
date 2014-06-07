@@ -24,6 +24,6 @@ I spend my time being a freelance website developer and learning how to develop 
 
 I am a huge fan of sports. I play golf (<i>+15 handicap</i>), basketball (<i>5'2" Point Guard</i>), and Disc Golf (<i>2-time Nuke Disc Champion</i>). In addition, I root for the Denver Broncos and Miami Heat. I'm also am a huge fan of [hiking](http://hike2grind.com), musicals, Childish Gambino, life hacks, and Doctor Who. I even play guitar in my free time, but I'll save that for <i>later</i>.
 
-## Motivation (<i>somehwat</i>)
+## Motivation (<i>sort of</i>)
 I aspire to code as good as [Kenny Luong](http://kennyluong.com), be better at everything than everyone like [Jake Tsuyemura](http://jaketsuyemura.com), and keep pace with [Matthew Inouye](http://mkinouye.com).
 
