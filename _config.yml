@@ -42,6 +42,7 @@ links:
     url: /posts/
   - title: Resume
     url: http://dl.dropboxusercontent.com/u/27716941/JoshuaTRivera.pdf 
+    external: true
   - title: Portfolio
     url: /portfolio/
   - title: JoshuaTRivera.com

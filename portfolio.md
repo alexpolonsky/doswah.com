@@ -33,6 +33,7 @@ To receive an undergraduate B.S. degree in Computer Engineering from the Univers
 
 An active computing interface to combat sedentary work lifestyle. I designed a Windows desktop application in Python using the Tkinter GUI Library. I also developed an android application for visualizing motion sensor data. **Development Tools:** *Python, Java, C, Git, Eclipse, Python, PostgeSQL.*
 
+
 ---
 
 ![Micromouse]({{ site.url }}/images/Portfolio/micromouse.jpg)
@@ -40,6 +41,7 @@ An active computing interface to combat sedentary work lifestyle. I designed a W
 
 ### Micromouse
 An autonomous robot designed to solve a 16x16 maze. I oversaw building an autonomous robot. I developed a motor and sensory control system for a PIC microcontroller. This project overall broadened my knowledge of embedded hardware and software. **Development Tools:** *C, Git, MPLAB X, PickIt 3, UNIT Testing.*
+
 
 ---
 
