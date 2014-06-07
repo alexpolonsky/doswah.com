@@ -1,6 +1,7 @@
 title:           Doswah
 description:     Life is a story. Make it a great one.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
+#url:
 url: 		 http://doswah.com
 disqus_shortname:
 
@@ -41,8 +42,8 @@ links:
     url: /posts/
   - title: Resume
     url: http://dl.dropboxusercontent.com/u/27716941/JoshuaTRivera.pdf 
-#  - title: Theme Setup
-#    url: /theme-setup/
+  - title: Portfolio
+    url: /portfolio/
   - title: JoshuaTRivera.com
     url: http://joshuatrivera.com
     external: true
