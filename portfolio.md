@@ -31,7 +31,7 @@ To receive an undergraduate B.S. degree in Computer Engineering from the Univers
 
 ### ChairActive
 
-An active computing interface to combat sedentary work lifestyle. I designed a Windows desktop application in Python using the Tkinter GUI Library. I also developed an android application for visualizing motion sensor data. **Development Tools:** *Python, Java, C, Git, Eclipse, Python, PostgeSQL.*
+An active computing interface to combat sedentary work lifestyle using motion-sensing devices and interactive software. I designed a Windows desktop application in Python using the Tkinter GUI Library. I also developed an android application for visualizing motion sensor data. **Development Tools:** *Python, Java, C, Git, Eclipse, Python, PostgeSQL.*
 
 
 ---
