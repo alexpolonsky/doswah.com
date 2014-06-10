@@ -12,13 +12,14 @@ Having [Kenny](http://blog.kennyluong.com) tell me about his ability to make loc
 
 First I created a local respository titled `joshuatrivera` and initalized a git repository with a `index.html` file.
 
-{% raw %}
-$ mkdir joshuatrivera && cd joshuatrivera
+{% highlight html %}
+$ mkdir joshuatrivera 
+$ cd joshuatrivera
 $ git init
 $ echo "Hello, world!" > index.html
 $ git add index.html
 $ git commit -m "First commit"
-{% endraw %}
+{% endhighlight %}
 
 ### Performing the Web Host Setup
 
@@ -32,18 +33,19 @@ Under applications I created an Application named `Git` with the App Category `G
 
 When I ssh into my WebFaction and visit the `webapps` folder,  I see the two applications I created `Git` and `joshuatrivera`. Then I created a bare .git folder within the git app to generate the post-receive files used to update files in `joshuatrivera`.
 
-    {% raw %}
-    $ cd git/reps
-    $ mkdir joshuatrivera.git && cd joshuatrivera.git
-    $ git init --bare
-    {% endraw %}
+    {% highlight html %}
+$ cd git/reps
+$ mkdir joshuatrivera.git 
+$ cd joshuatrivera.git
+$ git init --bare
+    {% endhighlight %}
 
 This creates the necessary files and folders for our git setup. Inside the `joshuatrivera.git` folder we just created, there is a `hooks` folder where you will create a file named `post-receive` where the scripts will go.
 
-    {% raw %}
-    $ cd hooks
-    $ vi post-receive
-    {% endraw %}
+    {% highlight html %}
+$ cd hooks
+$ vi post-receive
+    {% endhighlight %}
 
 I added these lines in the `post-receive` file I just created and opened
 
@@ -54,18 +56,18 @@ GIT_WORK_TREE=/path/to/webapp git checkout -f master
 
 For my case, `path/to/webapp` for me was `/home/doswah/webapps/joshuatrivera`. Then I needed to provide the necessary permissions so the post-receive script can write to the appropriate file. So after creating the `post-receive` file, type
 
-    {% raw %}
+    {% highlight html %}
     $ chmod +x post-receive
-    {% endraw %}
+    {% endhighlight %}
 
 ### Connect To Post-Receive File Through SSH
 
 After that setup in our WebFaction setup, now we need to create the functionality I wanted on my local machine. I created a remote to the .git repository I made in WebFaction.
 
-    {% raw %}
+    {% highlight html %}
     $ git remote add joshuatrivera ssh://<webfaction_login>/home/doswah/webapps/git/repos/joshuatrivera.git
-    $ git push joshuatrivera +master:refs/heads/master
-    {% endraw %}
+$ git push joshuatrivera +master:refs/heads/master
+    {% endhighlight %}
 
 In my case, my `<webfaction_login>` is `doswah@web351.webfaction.com` . Now the files I push through the git push command will appear in the `joshuatrivera` application.
 
@@ -73,9 +75,9 @@ In my case, my `<webfaction_login>` is `doswah@web351.webfaction.com` . Now the 
 
 Finally. Now when I make changes on my local machine, to update this to the WebFaction server I can just run
 
-    {% raw %}
+    {% highlight html %}
     $ git push joshuatrivera
-    {% endraw %}
+    {% endhighlight %}
  
 This transfers any pushed commits from my local repository where the `post-receive` hook will update `joshuatrivera` for me!
 
@@ -83,7 +85,7 @@ This transfers any pushed commits from my local repository where the `post-recei
 
 I then setup a GitHub repository then added a remote. Since I created a commit already, I made a commit to the master.
 
-    {% raw %}
-    $ git remote add origin git@github.com:Doswah/joshuatrivera.com.git
-    $ git push -u origin master
-    {% endraw %}
+    {% highlight html %}
+$ git remote add origin git@github.com:Doswah/joshuatrivera.com.git
+$ git push -u origin master
+    {% endhighlight %}
