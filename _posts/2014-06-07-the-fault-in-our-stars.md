@@ -61,8 +61,8 @@ The film works with the light-hearted and entertaining scenes such as virgin ven
 * "Okay? Okay. OMG stop flirting with me!" 
 * Quotes, metaphors, and math theories galore!
 
-### Watch if you crave a philosophical romantic drama (and a tear here or there).
-### Don't watch if you want a action-filled flick or not a fan of dramas.
+### Watch if you crave a fresh and philosophical romantic drama (and maybe a tear here or there).
+
 ---
 
 ## Discussion
