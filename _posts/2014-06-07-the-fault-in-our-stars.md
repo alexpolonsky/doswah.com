@@ -46,22 +46,23 @@ I have *not* read the book and this is purely my reaction of just the film. Here
 
 The film's main characters: Hazel (Woodley) and Gus (Elgort) have great chemistry and their strong performances allow the viewer to really buy into their emotions and struggles. The characters attitudes towards life and death keep you strapped on an relentless two hour emotional roller-coaster. Throughout the entire film, the director utilizes lucid scene transitions, maneuvers with a coherent storytelling speed,  and executes the heart-warming (*and especially the heart-breaking*) segments of Hazel's narrative beautifully.
 <br><br>
-I felt there were missing back stories or deeper meanings in addition to the film having a hint of predictablity. After discussing with readers of the book, the movie did not accomplish sensitive themes as much as the book did, so I desire to read the book now (*one day*). The film unravels a romance between a girl living in the moment and a boy living in his dream who gives his all relentlessly for the girl he loves. This formula, the struggling girl meets perfect guy, is lovingly set up, but the film's heavy themes could have been expanded on for us who did not read the book to get a deeper understanding of the characters. Nonetheless, the balance of what is included in the film works wonderfully.
+I felt there were missing back stories or deeper meanings in addition to the film having a hint of predictablity. After discussing with readers of the book, the movie did not accomplish sensitive themes as much as the book did, so I desire to read the book now (*one day*). The film unravels a romance between a girl living in the moment and a boy living in his dream who gives his all relentlessly for the girl he loves. This formula, the struggling girl meets the perfect guy, is charmingly set up, but the film's heavy themes could have been expanded on for us who did not read the book to get a deeper understanding of the characters. Why is Augustus the perfect guy from the beginning? Nonetheless, the balance of what is included in the film works wonderfully.
 <br><br>
-The film works with the light-hearted and entertaining scenes. From the throwing eggs at Issac's ex-girlfriend's car, to Issac destroying basketball trophies (*oh Issac*), to Gus' virgin venn diagram. Though nice, the film thrives on sensitive issues. What makes this movie sincere and intimate about these sensitive issues is that the film does not sugarcoat the awful obstacles the charachters encounter. It was enlightening to see how Hazel handled with herself when she meets her favorite author and how Augustus dealed with his tragic health conditions.
+The film works with the light-hearted and entertaining scenes such as virgin venn diagram. Though nice, the film thrives on sensitive issues. What makes this movie sincere and intimate about these sensitive issues is that the film does not sugarcoat the awful obstacles the characters encounter. Above all, it was enlightening to see character growth with beleivable reactions for example how Hazel handled with herself when she meets her favorite author and how Augustus helped his friend Issac in impactful way.
 <br><br>
 ![Dinner]({{ site.url }}/images/TFIOS/dinner.jpg)
 {: .image-pull-left}
 
 ### The Verdict
 
-<i>An incredibly touching,  well-executed film filled with tearjerking moments thanks to powerful performances and a relentless story with timeless thoughts about love, life, and courage that proves a teenage romantic drama can be a small infinty worth every minute.
+<i> The Fault In Our Stars is an incredibly touching,  well-executed film filled with tearjerking moments thanks to powerful performances and a relentless story with timeless thoughts about love, life, and courage that proves a teenage romantic drama can be a small infinty worth every moment.
 
 * I realize why girls "wait" for their Augustus Waters 
 * "Okay? Okay. OMG stop flirting with me!" 
 * Quotes, metaphors, and math theories galore!
 
-### Watch it!
+### Watch if you crave a philosophical romantic drama (and a tear here or there).
+### Don't watch if you want a action-filled flick or not a fan of dramas.
 ---
 
 ## Discussion
@@ -74,13 +75,17 @@ Within the first few scenes, you meet Augustus Waters. Shortly after getting Haz
 ![Metaphor]({{ site.url }}/images/TFIOS/metaphor.jpg)
 {: .image-pull-left}
 <br>
-This was a way for Gus to tell himself that he has control over his fate (up to a certain extent). We all have control over our fate to a certain degree. I found this powerful because our attitude toward of life can make the biggests of impacts. It's an idea I hope to never forget.
+This was a way for Gus to tell himself that he has control over his fate (up to a certain extent). We all have control over our fate to a certain degree. I found this powerful because our attitude toward of life can make the biggests of impacts. Metaphors give us the positive power to things just by looking at something in a creative way.
 
 ### 2. Our Little Infinity
 
-Later in the film, when Gus summons Hazel and Issac to a church so he can listen to their eulogies they prepared for him, Hazel recites a touching piece that represnted her love for Gus. She highlighted: *"Some infinities are bigger than other infinities."* I interpreted this part of her eulogy as Hazel explaining there are an infinite amount of numbers (0.1, 0.11, 0.12) between two domains. Whether it is from 0 to 1 or 0 to a million. The fact is the infinity between 0 and a million is greater than the infinity between  0 to 1. Hazel and Gus' relationship has time set than other couples, but she sees it as an infinity. She acknowledges that she is thankful Gus gave her "forever" (an infinity) within their number of days.
+Later in the film, when Gus summons Hazel and Issac to a church so he can listen to their eulogies they prepared for him, Hazel recites a touching piece that represnted her love for Gus. She highlighted: *"Some infinities are bigger than other infinities."* I interpreted this part of her eulogy as Hazel explaining there are an infinite amount of numbers (0.1, 0.11, 0.12) between two domains. Whether it is from 0 to 1 or 0 to a million. The fact is the infinity between 0 and a million is greater than the infinity between  0 to 1. Hazel and Gus' relationship is time set shorter than other couples, but she 'chooses' to seeit as an infinity. She acknowledges that she is thankful Gus gave her "forever" (an infinity) within their number of days.
 <br><br>
-When I think about it, we all have number sets. For every aspect of our life. We can choose to wish we have more numbers or we can make a number set feel like an infinity. With the latter, anything can be an infinity. Life. Love. Even a movie. Powerful stuff from a writer than they *used* to like.
+When I think about it, we all have number sets. For every aspect of our life. We can choose to wish we have more numbers or we can make a number set feel like an infinity. With the latter, anything can be an infinity. Life. Love. Even a Doctor.
+
+### 3. Who Is August Waters?
+
+
 
 
 **More thoughts coming soon!** including: Augustus Waters, The Inevitability of Human Oblivion, and more metaphors!

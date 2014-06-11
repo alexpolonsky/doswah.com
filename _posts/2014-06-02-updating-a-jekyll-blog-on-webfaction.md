@@ -37,7 +37,7 @@ Next I set up a bare git repository where we will put our git hook as seen here.
 {% highlight html %}
 $ cd webapps/git/repos/
 $ mkdir doswah.git
-$ cd dosawh.git
+$ cd doswah.git
 $ git init bare
 {% endhighlight %}
 
