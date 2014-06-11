@@ -67,7 +67,7 @@ The film works with the light-hearted and entertaining scenes such as virgin ven
 
 ## Discussion
 
-The film succeeds in capturing my attention through clever quotes and scenes with impactful meanings. I may have not understood these compltetly, but I'm just writing how I feel about them. There were so many, but here are some of my favorites:
+The film succeeds in capturing my attention through clever quotes and scenes with impactful meanings. I may have not understood these completely, **I'm just writing how I feel about them**. There were so many, but here are some of my favorites:
 
 ### 1. Metaphors
 Within the first few scenes, you meet Augustus Waters. Shortly after getting Hazel to watch a movie with him, Gus places a cigarette in his mouth much to Hazel's disgust. He tells her *"It's a metaphor, see. You put the killing thing right between your teeth but you don't give it the power to do it's killing."*
@@ -81,14 +81,23 @@ This was a way for Gus to tell himself that he has control over his fate (up to 
 
 Later in the film, when Gus summons Hazel and Issac to a church so he can listen to their eulogies they prepared for him, Hazel recites a touching piece that represnted her love for Gus. She highlighted: *"Some infinities are bigger than other infinities."* I interpreted this part of her eulogy as Hazel explaining there are an infinite amount of numbers (0.1, 0.11, 0.12) between two domains. Whether it is from 0 to 1 or 0 to a million. The fact is the infinity between 0 and a million is greater than the infinity between  0 to 1. Hazel and Gus' relationship is time set shorter than other couples, but she 'chooses' to seeit as an infinity. She acknowledges that she is thankful Gus gave her "forever" (an infinity) within their number of days.
 <br><br>
-When I think about it, we all have number sets. For every aspect of our life. We can choose to wish we have more numbers or we can make a number set feel like an infinity. With the latter, anything can be an infinity. Life. Love. Even a Doctor.
+When I think about it, we all have number sets. For every aspect of our life. We can choose to wish we have more numbers or we can make a number set feel like an infinity. With the latter, anything can be an infinity. Life. Love. Or a juicy 12 oz steak. Mmm.
 
 ### 3. Who Is August Waters?
 
+My friend [Jordyn](http://jordynchung.tumblr.com) shared this post with me from her Tumblr:
 
+> There are 313 pages... We don't meet Augustus until page 8... He does not speak until page 11... He leaves us on page 261... That is 253 pages from when we meet him until he leaves... And within those 253 pages... He is physically in 172 of them... And that is all it took. 172 pages for us to fall in love with Augustus Waters. And none of us will be the same again...
 
+Considering I read this before watching the film. I thought to myself: *what* the hell is this guy? Is he the *perfect* man? Well not exactly. After watching the film, he was the personification of passion. His relentless full-court press attempts for Hazel's heart is an instinct of his principles. He is a cancer patient who knows where he stands in this world and it shapes who he is on his own terms by looking into reasons how he lives his life.
+<br><br>
+Augustus immediately shows interest in Hazel shortly after their discusion on the 'Inevitablility of Human Oblivion' at the support group.  Hazel is agitated and he clashes with someone who is as confident with their ideals as him. Like I mentioned in the review, she lives in the moment and he lives in a dream. Their conviction is their attraction When they finally digest each other, they bring out the most of each other's strengths.
+<br><br>
+Augutus is a suvivor and aplies the ideas of heroism and courage from his video games to his life. Generally people adore heroes and feed from courage. With that notion, he became fixated with timeless legacy. But in his last scenes, Hazel comforts him that her care should be enough. Showing him and all of us, there's contentment with being in love with a single person.
+<br><br>
+Augutus' character uncovered that such great heights are fulfilling. Unfortunately they involve persistent courage and an outragrous amount of thought, hence, why Augutus Waters is a character in a book. Though fictional, you can pick out what made him to be believable. In turn, giving us hope and guidance to a higher quality way to <strike>cope with</strike> live our lives.
 
-**More thoughts coming soon!** including: Augustus Waters, The Inevitability of Human Oblivion, and more metaphors!
+More comi- 
 {: .notice}
 
 
