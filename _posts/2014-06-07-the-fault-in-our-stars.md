@@ -97,7 +97,3 @@ Augutus is a survivor and applies the ideas of heroism and courage from his vide
 <br><br>
 Augutus' character uncovered that such great heights are fulfilling. Unfortunately they involve persistent courage and an outrageous amount of thought, hence, why Augutus Waters is a character in a book. Though fictional, you can pick out what made him to be believable; giving us role model to a quality way to <strike>cope with</strike> live our lives.
 
-More comi- 
-{: .notice}
-
-
