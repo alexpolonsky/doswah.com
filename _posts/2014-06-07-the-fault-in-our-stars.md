@@ -27,10 +27,10 @@ share: true
 ![MoviePoster]({{ site.url }}/images/TFIOS/fault-in-our-stars-poster.jpg)
 {: .image-pull-left}
 <br>
-I recently watched the Josh Boone directed *The Fault In Our Stars* with my friends on opening night and I decided to write a review and discussison. If you plan to watch the film with no knowledge about it, do not read on. The film stars Shailene Woodley and Ansel Elgort as the teenage duo Hazel Lancaster and Augustus (Gus) Waters. This highly anticipated book-to-film adaptation is a fresh installment that stands out in a plethora of romantic dramas over the years. One thing is for sure, the film's tagline lives up it's name. This definitely *one sick love story.*
+I recently watched the *The Fault In Our Stars* with my friends on opening night and I decided to write a my reactions. The film stars Shailene Woodley and Ansel Elgort as the teenage duo Hazel Lancaster and Augustus (Gus) Waters. This highly anticipated book-to-film adaptation is a fresh installment that stands out in a plethora of romantic dramas over the years. One thing is for sure, the film's tagline lives up it's name. This definitely *one sick love story.*
 
 
-**Warning:** Spoilers from the film ahead! 
+**Warning:** There are spoilers from the film! *Do not* read on if you plan to watch the movie without knowing about the story. If you do read on, please share your comments with me at the bottom.
 {: .notice}
 
 ## Review 
