@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lanikai Pillboxes Hike"
-description: "A trail with phenomenal panoramic views of East O'ahu.
+description: "A trail with phenomenal panoramic views of East O'ahu."
 modified: 2014-06-12 15:04:55 -1000
 category: [lifesstyle]
 tags: [hikes, lifestyle]
