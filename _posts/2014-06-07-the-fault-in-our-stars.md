@@ -3,7 +3,6 @@ layout: post
 title: "The Fault In Our Stars: Metaphors and Misery"
 description: "My thoughts on the film adaptation of John Green's bestseller."
 modified: 2014-06-07 23:46:33 -1000
-category: [movie, thoughts]
 tags: [okay, fault in our stars, tfios, john green, josh boone]
 image:
   feature: 

@@ -3,7 +3,6 @@ layout: post
 title: "Updating a Jekyll Blog on Webfaction"
 description: "Generating a local site then using rsync to update a static-only site."
 modified: 2014-06-02 12:26:59 -1000
-category: [webdev]
 tags: [jekyll, blog, webfaction, git]
 image:
   feature: 
