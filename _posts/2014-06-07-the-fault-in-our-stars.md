@@ -67,7 +67,7 @@ The film works with the light-hearted and entertaining scenes (*the virgin venn 
 
 ## Discussion
 
-The film succeeds in capturing my attention through clever quotes and scenes with impactful meanings. I may have not understood these completely, **I'm just writing how I feel about them**. There were so many, but here are some of my favorites:
+The film succeeds in capturing my attention through clever quotes and scenes with meaning. I may have a complete understanding, just remember that **I'm just writing how I feel about them**. There were so many, but here are some of my favorites:
 
 ### 1. Metaphors
 Within the first few scenes, you meet Augustus Waters. Shortly after getting Hazel to watch a movie with him, Gus places a cigarette in his mouth much to Hazel's disgust. He tells her *"It's a metaphor, see. You put the killing thing right between your teeth but you don't give it the power to do it's killing."*
@@ -75,7 +75,7 @@ Within the first few scenes, you meet Augustus Waters. Shortly after getting Haz
 ![Metaphor]({{ site.url }}/images/TFIOS/metaphor.jpg)
 {: .image-pull-left}
 <br>
-This was a way for Gus to tell himself that he has control over his fate (up to a certain extent). We all have control over our fate to a certain degree. I found this powerful because our attitude toward of life can make the biggest of impacts. Metaphors give us the positive power to things just by looking at something in a creative way. Personally, I keep mementos to remind myself of people and events that impact me and remind me to do good. 
+This was a way for Gus to tell himself that he has control over his fate (up to a certain extent). We all have control over our fate to a certain degree. I found this powerful because our attitude toward of life can make the biggest of impacts. Metaphors give us the positive power to things just by looking at something in a creative way. Personally, I keep mementos to remind myself of people and events that changed me and remind me to do good. 
 
 ### 2. Our Little Infinity
 
