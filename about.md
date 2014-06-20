@@ -7,9 +7,9 @@ tags: [about, doswah, Jekyll, theme, responsive]
 modified: 5-29-2014
 comments: false
 image:
-  feature: texture-feature-02.jpg
-  credit: IEEE Student Branch at the University of Hawaii at Manoa 
-  creditlink: http://ieeeatuhm.com
+  feature:
+  credit: 
+  creditlink:
 ---
 
 ## Who I Am
