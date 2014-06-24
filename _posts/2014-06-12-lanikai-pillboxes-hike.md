@@ -11,5 +11,5 @@ share: true
 
 I recently completed the Lanikai Pillbox hike for the first time with Rachel. Here's to completing more hikes this summer!
 <br><br>
-[Visit my post at Hike2Grind to view my experience](http://hike2grind.com/?p=44).
+[Visit my Hike2Grind post to view my experience](http://hike2grind.com/?p=44).
 
