@@ -3,8 +3,6 @@ layout: post
 title: "Rank 'Em:  Disney Channel Original Movies"
 description: "My power rankings of DCOMs. From the coming-of-age movies to the darn right wacky."
 modified: 2014-06-25 09:33:40 -1000
-category: []
-tags: [movie]
 comments: true
 share: 
 ---
