@@ -4,7 +4,7 @@ title: "Rank 'Em:  Disney Channel Original Movies"
 description: "My power rankings of DCOMs. From the coming-of-age movies to the darn right wacky."
 modified: 2014-06-25 09:33:40 -1000
 comments: true
-share: 
+share: true 
 ---
 
 I recently stumbled upon a [BuzzFeed article](http://www.buzzfeed.com/jaimieetkin/the-definitive-ranking-of-disney-channel-original-movies?bffbent) ranking all Disney Channel Original Movies. At an early age, I have been a fan of these quirky, weird, underdog characters and stories.  They are filled with self-fulfilling moments, meaningful relationships, and inspirational stories (sometimes no-brainers). Since I'm turning 24 today, I've compiled a list of my top 24. I haven’t watched all the DCOMs so if you think I’m missing something from this list or got it wrong, please let me know in the comments below!
