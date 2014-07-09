@@ -43,11 +43,13 @@ I have *not* read the book and this is purely my reaction of just the film. Here
 
 ### All The Feels
 
-The film's main characters: Hazel (Woodley) and Gus (Elgort) have great chemistry and their strong performances allow the viewer to really buy into their emotions and struggles. The characters attitudes towards life and death keep you strapped on an relentless two hour emotional roller-coaster. Throughout the entire film, the director utilizes lucid scene transitions, maneuvers with a coherent storytelling speed,  and executes the heart-warming (*and especially the heart-breaking*) segments of Hazel's narrative beautifully. I enjoy films that doesn't confuse you with parallel stories (like *Lord of the Rings* or *Star Wars*). 
+The film's main characters: Hazel (Woodley) and Gus (Elgort) have great chemistry and their strong performances allow the viewer to really buy into their emotions and struggles. The character's attitudes towards life and death is an emotional roller-coaster. Throughout the film, the director maneuvers with a linear and coherent story to capture the heart-warming (*and the heart-breaking*) moments of Hazel's narrative. 
 <br><br>
-Unfortunately, I felt there were missing back stories or deeper meanings. In addition, there were minor hints in the story that made the ending predictable. After discussing with readers of the book, the movie did not accomplish sensitive themes the book did, so I now I have the desire to read the book (*one day*). The film unravels a romance between a girl living in the moment and a boy living in his dream. This formula: the struggling girl meets the perfect guy, is charmingly set up, but the film's heavy themes could have been expanded on for us who did not read the book to get a deeper understanding of the characters. Why is Augustus the perfect guy from the beginning? But I stopped asking all these questions halfway through the movie because the balance of the film works so well.
+I felt there were missing back stories for the main characters that could have helped the film. After discussing with the book-readers, the movie did not accomplish sensitive themes the book did, so I now I have the desire to read the popular book one day. 
 <br><br>
-The film works with light-hearted and entertaining scenes (*the virgin venn diagram XD*). These scenes were nice but the film thrives on not sugarcoating the awful obstacles the characters encounter. Above all, the moments that hit you were the enlightening scenes where you see gripping character growth: Hazel handling with herself when she meets her favorite author, Hazel's parents making their future life plans, and Augustus helping his friend Isaac in impactful way.
+Back to my missing back story thought. In the unraveling of a romance between a girl living in the moment and a boy living in his dream; the formula: the struggling girl meets the perfect guy does not tackle the film's heavy themes of the side effects of dying. Why is Augustus the perfect guy from the beginning? But I stopped asking all these questions halfway through the movie because the balance of the film works so well.
+<br><br>
+The film works with light-hearted and entertaining scenes (*the virgin venn diagram XD*). Nonetheless, the moments that hit you were the enlightening character growth: Hazel handling with herself when she meets her favorite author, Hazel's parents making their future life plans, and Augustus helping his friend Isaac in impactful way.
 <br><br>
 ![Dinner]({{ site.url }}/images/TFIOS/dinner.jpg)
 {: .image-pull-left}
@@ -86,7 +88,7 @@ So. We can choose to wish we have more numbers or we can perceive a set feel lik
 
 ### 3. Who Is August Waters?
 
-My friend [Jordyn](http://jordynchung.tumblr.com) shared this post with me from her Tumblr:
+*EDIT: I realized I spelt Augustus as August I elected not to change it because I thought it was funny.* My friend [Jordyn](http://jordynchung.tumblr.com) shared this post with me from her Tumblr:
 
 > There are 313 pages... We don't meet Augustus until page 8... He does not speak until page 11... He leaves us on page 261... That is 253 pages from when we meet him until he leaves... And within those 253 pages... He is physically in 172 of them... And that is all it took. 172 pages for us to fall in love with Augustus Waters. And none of us will be the same again...
 
