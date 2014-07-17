@@ -45,6 +45,8 @@ links:
     external: true
   - title: Portfolio
     url: /portfolio/
+  - title: Links
+    url: /links/
   - title: JoshuaTRivera.com
     url: http://joshuatrivera.com
     external: true
