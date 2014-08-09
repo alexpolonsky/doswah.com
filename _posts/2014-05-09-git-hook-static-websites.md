@@ -34,7 +34,7 @@ Under applications I created an Application named `Git` with the App Category `G
 When I ssh into my WebFaction and visit the `webapps` folder,  I see the two applications I created `Git` and `joshuatrivera`. Then I created a bare .git folder within the git app to generate the post-receive files used to update files in `joshuatrivera`.
 
     {% highlight html %}
-$ cd git/reps
+$ cd git/repos
 $ mkdir joshuatrivera.git 
 $ cd joshuatrivera.git
 $ git init --bare
