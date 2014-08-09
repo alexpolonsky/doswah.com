@@ -39,8 +39,9 @@ An active computing interface to combat sedentary work lifestyle using motion-se
 ![Micromouse]({{ site.url }}/images/Portfolio/micromouse.jpg)
 {:.image-pull-right}
 
-### Micromouse
+### [Micromouse](http://joshuatrivera.com/micromouse.php)
 An autonomous robot designed to solve a 16x16 maze. I oversaw building an autonomous robot. I developed a motor and sensory control system for a PIC microcontroller. This project overall broadened my knowledge of embedded hardware and software. **Development Tools:** *C, Git, MPLAB X, PickIt 3, UNIT Testing.*
+
 
 
 ---
