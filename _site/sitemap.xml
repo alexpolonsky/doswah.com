@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc></loc>
+    </url>
+    
+    
+    <url>
+        <loc>/404.html</loc>
+    </url>
+    
+    <url>
+        <loc>/about/</loc>
+    </url>
+    
+    <url>
+        <loc>/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>/links/</loc>
+    </url>
+    
+    <url>
+        <loc>/portfolio/</loc>
+    </url>
+    
+    <url>
+        <loc>/posts/</loc>
+    </url>
+    
+    <url>
+        <loc>/sitemap.xml</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>/%5B%5D/first-take-website-php-modules/</loc>
+    </url>
+    
+    <url>
+        <loc>/DCOM-rank/</loc>
+    </url>
+    
+    <url>
+        <loc>/lanikai-pillboxes-hike/</loc>
+    </url>
+    
+    <url>
+        <loc>/the-fault-in-our-stars/</loc>
+    </url>
+    
+    <url>
+        <loc>/updating-a-jekyll-blog-on-webfaction/</loc>
+    </url>
+    
+    <url>
+        <loc>/git-hook-static-websites/</loc>
+    </url>
+    
+</urlset>

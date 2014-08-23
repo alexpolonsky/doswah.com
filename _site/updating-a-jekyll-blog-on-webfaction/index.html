@@ -1,0 +1,288 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Updating a Jekyll Blog on Webfaction &#8211; Doswah</title>
+<meta name="description" content="Generating a local site then using rsync to update a static-only site.">
+<meta name="keywords" content="jekyll, blog, webfaction, git">
+<!-- Twitter Cards -->
+	
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:image" content=
+			
+				
+						"/images/"
+				
+			
+		>
+	
+	<meta name="twitter:title" content="Updating a Jekyll Blog on Webfaction">
+	<meta name="twitter:description" content="Generating a local site then using rsync to update a static-only site.">
+	<meta name="twitter:creator" content="@doswah">
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Updating a Jekyll Blog on Webfaction">
+<meta property="og:description" content="Generating a local site then using rsync to update a static-only site.">
+<meta property="og:url" content="/updating-a-jekyll-blog-on-webfaction/">
+<meta property="og:site_name" content="Doswah">
+
+
+
+
+
+<link rel="canonical" href="/updating-a-jekyll-blog-on-webfaction/">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Doswah Feed">
+<link rel="author" href="http://plus.google.com/+114578016273192306559?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google Webfonts -->
+<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.min.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="">Doswah</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				<li><a href="/about/" >About</a></li>
+		        
+				<li><a href="/posts/" >Posts</a></li>
+		        
+				<li><a href="http://dl.dropboxusercontent.com/u/27716941/Joshua_Rivera_Resume.pdf" target="_blank">Resume</a></li>
+		        
+				<li><a href="/portfolio/" >Portfolio</a></li>
+		        
+				<li><a href="/links/" >Links</a></li>
+		        
+				<li><a href="http://joshuatrivera.com" target="_blank">JoshuaTRivera.com</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+	<img src="/images/bio-photo.jpg" class="bio-photo" alt="Joshua T. Rivera bio photo"></a>
+
+<h3>Joshua T. Rivera</h3>
+<p>My thoughts on Code, Tech, Lifestyle, & Sports</p>
+<a href="http://twitter.com/doswah" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
+<a href="http://facebook.com/doswah" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
+<a href="https://plus.google.com/114578016273192306559?rel=author" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
+<a href="http://linkedin.com/pub/joshua-rivera/57/89/769" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>
+<a href="http://instagram.com/doswah" class="author-social" target="_blank"><i class="icon-instagram"></i> Instagram</a>
+
+<a href="http://github.com/doswah" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
+
+
+
+
+
+
+
+  </div>
+  <article>
+    <div class="headline-wrap">
+      
+        <h1><a href="/updating-a-jekyll-blog-on-webfaction/" rel="bookmark" title="Updating a Jekyll Blog on Webfaction">Updating a Jekyll Blog on Webfaction</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <p>After assembling <a href="http://joshuatrivera.com">joshuatrivera.com</a> I figured it would be a good idea to figure out the best way to operate a blogging site using a git hook like in my <a href="http://doswha.com/git-hook-static-websites">earlier post</a>.
+<br /><br />
+After several searches I discovered Jekyll was a great option when it comes to creative website control, because <em>everyone</em> likes control. Since I host on WebFaction, I needed a smart way to deploy a Jekyll Blog. After hours of scratching my head, I stubmled upon this <a href="http://www.garron.me/en/blog/host-your-jekyll-blog-on-webfaction.html">tutorial from Guillermo Garron</a>. 
+<br /><br />
+Essentially this process is to generate my site locally then rsync to a static-only site created on WebFaction. I performed the following instruction to install the software on the WebFaction servers by installing the gems and updating the path through the bashrc file:</p>
+
+<p class="notice"><strong>Important!</strong> In the tutorial, it is not mentioned to install the ‘therubyracer’ gem. But you do need to install it.</p>
+
+<div class="highlight"><pre><code class="html">$ export GEM_HOME=$HOME/gems
+$ source ./bashrc
+$ gem2.0 install jekyll
+$ gem2.0 install RedCloth
+$ gem2.0 install therubyracer
+$ export PATH=$HOME/gems/bin:$PATH
+$ source .bashrc</code></pre></div>
+
+<p>Next I set up a bare git repository where we will put our git hook as seen here.</p>
+
+<div class="highlight"><pre><code class="html">$ cd webapps/git/repos/
+$ mkdir doswah.git
+$ cd doswah.git
+$ git init bare</code></pre></div>
+
+<p>Afterwards, I created a ‘post-update’ file in the hooks folder.</p>
+
+<div class="highlight"><pre><code class="html">$ cd hooks
+$ vi post-update</code></pre></div>
+
+<p>It should have these following lines. For your specific project you will need to edit line 3 and change the path of ‘REPOSITORY_DIR’ to your project .git folder you just created. On line 12, you must edit the last path to where your web application is. In my case, it is in the ‘webapps’ folder. In all other instances you see ‘doswah’ change it to your username.</p>
+
+<div class="highlight"><pre><code class="html"><span class="lineno"> 1</span> #!/bin/bash
+<span class="lineno"> 2</span> # Declare variables
+<span class="lineno"> 3</span> REPOSITORY_DIR=&quot;/home/doswah/git/repos/doswah.git&quot;
+<span class="lineno"> 4</span> DEPLOY_FIR=&quot;/home/doswah/tmp/jekyll-tmp&quot;
+<span class="lineno"> 5</span> DEPLOY_TMP_DIR=$(mktemp /home/doswah/tmp/jekyll.deploy.XXXXX)
+<span class="lineno"> 6</span> rm -f $DEPLOY_TMP_DIR
+<span class="lineno"> 7</span> git clone $REPOSITORY_DIR $DEPLOY_TMP_DIR
+<span class="lineno"> 8</span> cd $DEPLOY_TMP_DIR
+<span class="lineno"> 9</span> jekyll build -d $DEPLOY_DIR
+<span class="lineno">10</span> rm -rf $DEPLOY_TMP_DIR
+<span class="lineno">11</span> cd /
+<span class="lineno">12</span> rsync -vrz -checksum -e ssh -delete $DEPLOY_DIR /home/doswah/webapps/doswah</code></pre></div>
+
+<p>After that is done. You can create your git remote on your machine locally.</p>
+
+<div class="highlight"><pre><code class="html">$ git remote add webfaction doswah@web351.webfaction.com:/home/doswah/git/repos/doswah.git
+$ git push doswah</code></pre></div>
+
+
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          
+	<img src="/images/bio-photo.jpg" class="bio-photo" alt="Joshua T. Rivera bio photo"></a>
+
+<h3>Joshua T. Rivera</h3>
+<p>My thoughts on Code, Tech, Lifestyle, & Sports</p>
+<a href="http://twitter.com/doswah" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
+<a href="http://facebook.com/doswah" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
+<a href="https://plus.google.com/114578016273192306559?rel=author" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
+<a href="http://linkedin.com/pub/joshua-rivera/57/89/769" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>
+<a href="http://instagram.com/doswah" class="author-social" target="_blank"><i class="icon-instagram"></i> Instagram</a>
+
+<a href="http://github.com/doswah" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
+
+
+
+
+
+
+
+        </div>
+        <p class="byline"><strong>Updating a Jekyll Blog on Webfaction</strong> was published on <time datetime="2014-06-02T00:00:00-10:00">June 02, 2014</time> and last modified on <time datetime="2014-06-02">June 02, 2014</time> by <a href="/about" title="About Joshua T. Rivera">Joshua T. Rivera</a>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="/%5B%5D/first-take-website-php-modules/" title="First Take: Website PHP Modules">First Take: Website PHP Modules</a></li>
+    
+      <li><a href="/DCOM-rank/" title="Rank 'Em:  Disney Channel Original Movies">Rank 'Em:  Disney Channel Original Movies</a></li>
+    
+      <li><a href="/lanikai-pillboxes-hike/" title="Lanikai Pillboxes Hike">Lanikai Pillboxes Hike</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  <footer>
+    <span>&copy; 2014 Joshua T. Rivera</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-51460545-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+  
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'doswah'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+	        
+
+</body>
+</html>
