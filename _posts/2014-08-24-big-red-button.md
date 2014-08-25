@@ -47,8 +47,7 @@ Mouse.begin();
 {% endhighlight %}
 
 After connecting the NO pin to a digital input on the Arduino Micro, I setup the Arduino so 
-whenever the big red button is pressed, I can emulate a particular mouse click. For this case,
-I triggered in the left-click. 
+whenever the big red button is pressed, I can emulate a particular mouse click. For this program, I triggered a mouse left-click by adding:
 
 {% highlight html %}
 if (clickState == HIGH) {
@@ -63,5 +62,5 @@ It's as simple as that. Even the doctor himself thinks it's cool.
 	<figcaption>Doctor Who</figcaption>
 </figure>
 
-The processes is pretty straight-forward. There are many USB functions you could set up such as 
+The process is pretty straight-forward. There are many USB functions you could set up such as 
 mouse movement or triggering keyboard keys. So the possibilites are endless! I'll post a circuit schematic and video soon.
