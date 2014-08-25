@@ -14,7 +14,7 @@ image:
 
 ## Who I Am
 
-You probably guessed: <i>Doswah</i> is not my real name. It is my blogger handle derived from saying my first name in a filipino accent. My real name is [Joshua Rivera](http://joshuatrivera.com). I am a recent Computer Engineering graduate from the University of Hawaii at Manoa. I am a fan of technology, creative user experiences, and bringing fresh and exciting ideas to life. 
+<i>Doswah</i> is my blogger handle derived from saying my first name in a filipino accent. My real name is [Joshua Rivera](http://joshuatrivera.com). I am a recent Computer Engineering graduate from the University of Hawaii at Manoa. I am a fan of technology, creative user experiences, and bringing fresh and exciting ideas to life. 
 
 ## What I Do
 
