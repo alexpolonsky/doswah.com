@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-08-09T01:25:17-10:00</updated>
+<updated>2014-08-24T21:57:28-10:00</updated>
 <id>/</id>
 <author>
   <name>Joshua T. Rivera</name>
@@ -14,7 +14,73 @@
 
 
 <entry>
-  <title type="html"><![CDATA[First Take: Website PHP Modules]]></title>
+  <title type="html"><![CDATA[Why Is There Never A Big Red Button?]]></title>
+  <link rel="alternate" type="text/html" href="/%5B%5D/big-red-button/" />
+  <id>/%5B%5D/big-red-button</id>
+  <updated>2014-08-24 19:58:26 -1000T00:00:00-00:00</updated>
+  <published>2014-08-24T00:00:00-10:00</published>
+  
+  <author>
+    <name>Joshua T. Rivera</name>
+    <uri></uri>
+    <email>doswah@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;We all want the obvious answer. 
+When faced with a decision, we want that big red button because we all like
+to emphasize the moment. There’s just something sexy about it. 
+It’s simplicity and boldness makes decision making easier; even for a Time Lord.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/images/Button/doctor-who.png&quot; /&gt;
+	&lt;figcaption&gt;Doctor Who&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;a-photobooth-trigger&quot;&gt;A Photobooth Trigger&lt;/h2&gt;
+
+&lt;p&gt;An application of such a button is to take pictures with a photobooth. 
+You’re about to take a selfie with your best friends. It’s going to be epic, so why not?
+&lt;br /&gt;&lt;br /&gt;
+The idea is to use a button paired with an &lt;a href=&quot;http://arduino.cc/en/Main/ArduinoBoardMicro&quot;&gt;Arduino Micro&lt;/a&gt; 
+to emulate a mouse click to start a Photobooth application. The Micro is the perfect microprocessor because of it’s size and the built-in USB communication. So after ordering a 
+&lt;a href=&quot;http://www.karlssonrobotics.com/cart/big-dome-push-button-red/&quot;&gt;dome button from Karlsson Robotics&lt;/a&gt;
+I began designing.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/images/Button/button.jpg&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;By using the Karlsson Robotics &lt;a href=&quot;http://play.karlssonrobotics.com/tutorials/circuits/wire-big-dome-button/&quot;&gt;tutorial&lt;/a&gt;, 
+I understood the reasoning behind a normally open (NO) or normally closed (NC) switch. 
+In terms of digital logic, a NO switches from a 0 to 1 and a NC switches from a 1 to 0.
+&lt;br /&gt;&lt;br /&gt;
+Since the button uses a LED, the operating voltage of 5V the Arduino operates at can be used
+to power the button as well. To initialize the mouse button functionality is as simple as
+adding this to the setup function:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;pinMode(mouseButton, INPUT);
+Mouse.begin();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;After connecting the NO pin to a digital input on the Arduino Micro, I setup the Arduino so 
+whenever the big red button is pressed, I can emulate a particular mouse click. For this case,
+I triggered in the left-click. &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;if (clickState == HIGH) {
+    Mouse.press(MOUSE_LEFT); 
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;figure&gt;
+And that&#39;s it. Even the doctor thinks it cool.
+	&lt;img src=&quot;http://28.media.tumblr.com/tumblr_lofhnlEdGv1qmm6ylo1_500.gif&quot; /&gt;
+	&lt;figcaption&gt;Doctor Who&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The processes is pretty straight-forward. There are many USB functions you could set up such as 
+mouse movement or triggering keyboard keys. So the possibilites are endless! I’ll post a circuit schematic and video soon.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/%5B%5D/big-red-button/&quot;&gt;Why Is There Never A Big Red Button?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[First Take: Webpage PHP Modules]]></title>
   <link rel="alternate" type="text/html" href="/%5B%5D/first-take-website-php-modules/" />
   <id>/%5B%5D/first-take-website-php-modules</id>
   <updated>2014-08-09 00:31:48 -1000T00:00:00-00:00</updated>
@@ -74,11 +140,11 @@ Now to include the navigation bar in my index.php page, I just need to have:&lt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;?&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;php&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;modules/menubar.php&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;?&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;That’s it. This method helps my pages become modular and makes reading my webpage code easier for me.&lt;/p&gt;
+&lt;p&gt;That’s it. Pretty awesome right? This method helps my pages become modular and makes reading my webpage code easier for me.&lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Remember!&lt;/strong&gt; Rename &lt;em&gt;both&lt;/em&gt; your module snippet and webpage to a .php file&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/%5B%5D/first-take-website-php-modules/&quot;&gt;First Take: Website PHP Modules&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%5B%5D/first-take-website-php-modules/&quot;&gt;First Take: Webpage PHP Modules&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
