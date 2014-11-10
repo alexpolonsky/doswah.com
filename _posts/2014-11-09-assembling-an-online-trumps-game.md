@@ -34,7 +34,7 @@ rules over the years).
 	<figcaption>Typical deal setup for Trumps</figcaption>
 </figure>
 
-The game consists of a 4 player, 2 vs. 2 system. In the figure above, Hands **A** & **C** are 
+The game consists of a 4-player, 2 vs. 2 system. In the figure above, Hands **A** & **C** are 
 teammates and vice-versa, Hands **B** & **D** are teammates. With 52 cards in a deck, each lettered
 player is dealt 12 cards and 4 cards are placed at the center of the table called the *Kit* 
 (12+12+12+12+4=52).
@@ -42,20 +42,15 @@ player is dealt 12 cards and 4 cards are placed at the center of the table calle
 ### Bidding War
 
 Once the hands are dealt, *the player **left** of the dealer makes a "bid" to 1) win the kit 
-and 2) declare what suit trumps is*. Each player has the chance to bid with the dealer getting 
-to bid last. A player can overbid the previous bid by bidding a higher number. 
+2) declare what suit trumps is and 3) Designate how many packs the other team must make to win*. 
+Each player has the chance to bid with the dealer getting to bid last. A player can overbid 
+the previous bid by bidding a higher number. 
 
 <br>
 
-In accordance to 
-a bidding number, each bid declares either **LOW** or **HIGH**. *A LOW bid 
-over-rules a HIGH bid.* For example, player A starts the bidding at "4 HIGH", if the following player bids "4 LOW" and
-they now hold the current winning bid.
-
-<br>
-
-A **LOW** bid declares lower valued cards in a suit are stronger in the game, while vice-versa, 
-a **HIGH** bid declares higher valued cards in a suit are stronger. In all cases, the Ace card 
+In accordance to the bidding number, each bid is either **LOW** or **HIGH**. A **LOW** bid declares 
+lower valued cards in a suit are stronger in the game, while vice-versa, a **HIGH** bid declares 
+higher valued cards in a suit are stronger. In all games, the ACE card 
 is the strongest card of the suit. In the following table, the higher the card is in the table, 
 the stronger it is during the game.
 
@@ -95,12 +90,30 @@ the stronger it is during the game.
       <td style="text-align: center">6</td>
       <td style="text-align: center">8</td>
     </tr>
+     <tr>
+      <td style="text-align: center">.</td>
+      <td style="text-align: center">.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">.</td>
+      <td style="text-align: center">.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">.</td>
+      <td style="text-align: center">.</td>
+    </tr>
   </tbody>
 </table>
 
 <br>
 
-To explain the bidding system again, the winning bid determines how much packs the other 
+*It's important to note: a LOW bid over-rules a HIGH bid.* For example, consider Player A starts 
+the bidding at *4 HIGH*. If the following player bids *4 LOW*, then
+he or she now holds the current winning bid.
+
+<br>
+
+As I mentioned earlier, the winning bid determines how much packs the other 
 team needs to make to win the game. Here is what each bidding number represents.
 
 **Packs** are considered as a round where all four players contribute a card in play. Since 
@@ -148,7 +161,7 @@ each player has 12-cards, there are 12 rounds or "packs".
 
 <br>
 Once a player wins the bid he or she uses the "Kit" to add/remove cards to improve their 
-12-card hand. Once that happens, the player declares what "trumps" is and then the game
+12-card hand. Once that's done, the player declares what "trumps" is and then the game
 begins.
 
 ## How Trumps Works
@@ -161,13 +174,14 @@ who throws first for the next round. Now introducing trumps. "Trumps" represent 
 overpowers cards from the other three suits. 
 <br><br>
 In a game, the player who throws first declares the suit "in play". Each player must throw 
-the suit in play. In the scenario where a person does not have the suit in play, they can 
-throw a stronger card, the trump, to win the pack. According to rules, the trump suit cannot 
-be played unless previously used in the above scenario.
+the suit in play. When a person does not have the suit in play, they can 
+throw a trump, to better their chances to win the pack. According to the rules, the trump suit cannot 
+be used to start a round unless previous scenario occurs (due to lack of "in play" suit in someone's hand). This is commonly referred to as "Breaking Trumps".
 <br><br>
-Those are the basic rules of Trumps. Let's run through a few examples
+Those are the basic rules of Trumps. Let's examine a few rounds.
 
-## Example Game of Trumps 
+## An Example Game of Trumps 
+
 The great Christian Damo ([@HenryHanakahi](https://twitter.com/HenryHanakahi)) taught me 
 that introducing a scenario is a productive way to explain people new things. So let's consider
 this scenario.
@@ -191,10 +205,9 @@ Now since player C won the bid, he starts the game of by throwing a suit. This i
 	<img src="/images/trumps/trumps-hand-1.png">
 </figure>
 
-What we can say happen is that after Player C threw, Player D could not beat
-the 4 of HEARTS. Next Player A throws a 9 of HEARTS because he
-assumes the 4 of HEARTS his partner threw will win. Now Player B throws the 2 of HEARTS, thus winning a pack 
-for his team. Just a taste of how rough this game can be. Since Player B won, he will start the next round.
+Player C throws and declares HEARTS as the suit in play. Player D could not beat the 4 of HEARTS so he throws any heart, in this scenario he throws the 6 of HEARTS. 
+Next Player A throws a 9 of HEARTS because heassumes the 4 of HEARTS his partner threw will win. 
+Now Player B throws the 2 of HEARTS, resulting in his team winning a pack. Just a taste of how rough this game can be. Since Player B won, he will start the next round.
 
 1. Player B throws 7 of DIAMONDS
 2. Player C throws ACE of DIAMONDS
@@ -205,12 +218,11 @@ for his team. Just a taste of how rough this game can be. Since Player B won, he
 	<img src="/images/trumps/trumps-hand-2.png">
 </figure>
 
-After Player B declares DIAMONDS as the suit in play, Player C 
-attempts to win the hand by playing the ACE of DIAMONDS (the strongest number of a suit). It appears 
+Player B declares DIAMONDS as the suit in play. Player C attempts to win the hand by playing the ACE of DIAMONDS (the strongest number of a suit). It appears 
 Player D does not have any DIAMONDS in his hand so Player D is entitled to throw a "trump" card. 
 Like I mentioned earlier, the trumps suit overpowers any of the other three suits. So although 
 Player C threw an ACE, Player D's 10 of SPADES is stronger since it is a "trump". Unfortunately for 
-Player A, he cannot throw a trump to beat Player D's 10 of SPADES because he still has DIAMONDS. 
+Player A, he cannot throw a trump to beat Player D's 10 of SPADES because he or she still has DIAMONDS. 
 As a reminder since the first player, Player B, started out with a DIAMOND, everyone must throw a 
 DIAMOND unless they don't have any.
 
