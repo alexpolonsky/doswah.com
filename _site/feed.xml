@@ -4,13 +4,315 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-08-24T21:57:28-10:00</updated>
+<updated>2014-11-09T21:20:27-10:00</updated>
 <id>/</id>
 <author>
   <name>Joshua T. Rivera</name>
   <uri>/</uri>
   <email>doswah@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Online Trumps Game - Part I: What Is Trumps?]]></title>
+  <link rel="alternate" type="text/html" href="/%5B%22coding%22%5D/assembling-an-online-trumps-game/" />
+  <id>/%5B%22coding%22%5D/assembling-an-online-trumps-game</id>
+  <updated>2014-11-09 17:08:28 -1000T00:00:00-00:00</updated>
+  <published>2014-11-09T00:00:00-10:00</published>
+  
+  <author>
+    <name>Joshua T. Rivera</name>
+    <uri></uri>
+    <email>doswah@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Starting in my high school days and going through my college years, I played a card game 
+so invigorating where cleverness and wit are needed to stand
+victorious at the end. No, not &lt;em&gt;Magic: The Gathering&lt;/em&gt;. I’m talking about &lt;strong&gt;Trumps&lt;/strong&gt;.
+&lt;br /&gt;&lt;br /&gt;
+Creating an online trumps game would allow my
+college buddies and I to play the game we spent hours playing in between homework breaks.
+Back then, we played to get away from the work. If this game came to fruition, it can
+become a way for people to come together, no matter where they are in the world (as long
+as they have Wi-Fi).&lt;/p&gt;
+
+&lt;h2 id=&quot;the-setup--pre-game&quot;&gt;The Setup / Pre-Game&lt;/h2&gt;
+
+&lt;p&gt;To picture what a trumps game would look like, this post is  to lay down the basis of the game’s
+rules and flowchart to clarify any inconsistencies (since the game has spawned unique 
+rules over the years).&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/trumps/trumps-deal.png&quot; /&gt;
+	&lt;figcaption&gt;Typical deal setup for Trumps&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The game consists of a 4 player, 2 vs. 2 system. In the figure above, Hands &lt;strong&gt;A&lt;/strong&gt; &amp;amp; &lt;strong&gt;C&lt;/strong&gt; are 
+teammates and vice-versa, Hands &lt;strong&gt;B&lt;/strong&gt; &amp;amp; &lt;strong&gt;D&lt;/strong&gt; are teammates. With 52 cards in a deck, each lettered
+player is dealt 12 cards and 4 cards are placed at the center of the table called the &lt;em&gt;Kit&lt;/em&gt; 
+(12+12+12+12+4=52).&lt;/p&gt;
+
+&lt;h3 id=&quot;bidding-war&quot;&gt;Bidding War&lt;/h3&gt;
+
+&lt;p&gt;Once the hands are dealt, &lt;em&gt;the player &lt;strong&gt;left&lt;/strong&gt; of the dealer makes a “bid” to 1) win the kit 
+and 2) declare what suit trumps is&lt;/em&gt;. Each player has the chance to bid with the dealer getting 
+to bid last. A player can overbid the previous bid by bidding a higher number. &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In accordance to 
+a bidding number, each bid declares either &lt;strong&gt;LOW&lt;/strong&gt; or &lt;strong&gt;HIGH&lt;/strong&gt;. &lt;em&gt;A LOW bid 
+over-rules a HIGH bid.&lt;/em&gt; For example, player A starts the bidding at “4 HIGH”, if the following player bids “4 LOW” and
+they now hold the current winning bid.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;LOW&lt;/strong&gt; bid declares lower valued cards in a suit are stronger in the game, while vice-versa, 
+a &lt;strong&gt;HIGH&lt;/strong&gt; bid declares higher valued cards in a suit are stronger. In all cases, the Ace card 
+is the strongest card of the suit. In the following table, the higher the card is in the table, 
+the stronger it is during the game.&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;When LOW bid wins&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;When HIGH bid wins&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ACE&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ACE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;KING&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;QUEEN&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;JACK&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;To explain the bidding system again, the winning bid determines how much packs the other 
+team needs to make to win the game. Here is what each bidding number represents.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Packs&lt;/strong&gt; are considered as a round where all four players contribute a card in play. Since 
+each player has 12-cards, there are 12 rounds or “packs”.&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Winning Bid&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;# of Packs Other Team Needs To Win&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Once a player wins the bid he or she uses the “Kit” to add/remove cards to improve their 
+12-card hand. Once that happens, the player declares what “trumps” is and then the game
+begins.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-trumps-works&quot;&gt;How Trumps Works&lt;/h2&gt;
+
+&lt;p&gt;I explained the quite troublesome setup for a trumps game, but now we to get into the fun. 
+&lt;br /&gt;&lt;br /&gt;
+Each round, a player adds one card to the pile and person who adds the strongest card wins a 
+pack for their team. When a person wins a pack for their team, they become the person 
+who throws first for the next round. Now introducing trumps. “Trumps” represent the &lt;strong&gt;suit&lt;/strong&gt; that 
+overpowers cards from the other three suits. 
+&lt;br /&gt;&lt;br /&gt;
+In a game, the player who throws first declares the suit “in play”. Each player must throw 
+the suit in play. In the scenario where a person does not have the suit in play, they can 
+throw a stronger card, the trump, to win the pack. According to rules, the trump suit cannot 
+be played unless previously used in the above scenario.
+&lt;br /&gt;&lt;br /&gt;
+Those are the basic rules of Trumps. Let’s run through a few examples&lt;/p&gt;
+
+&lt;h2 id=&quot;example-game-of-trumps&quot;&gt;Example Game of Trumps&lt;/h2&gt;
+&lt;p&gt;The great Christian Damo (&lt;a href=&quot;https://twitter.com/HenryHanakahi&quot;&gt;@HenryHanakahi&lt;/a&gt;) taught me 
+that introducing a scenario is a productive way to explain people new things. So let’s consider
+this scenario.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Players A &amp;amp; C are a team (so, players B &amp;amp; D are a team).&lt;/li&gt;
+  &lt;li&gt;Player C wins the bid at &lt;strong&gt;4 LOW&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Player C declares trumps as &lt;strong&gt;SPADES&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Images for card faces in the following scenarios are provided by &lt;a href=&quot;http://was.fm/assets:textures:playing_cards&quot;&gt;was.fm&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now since player C won the bid, he starts the game of by throwing a suit. This is what happens…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Player C throws 4 of HEARTS&lt;/li&gt;
+  &lt;li&gt;Player D throws 6 of HEARTS&lt;/li&gt;
+  &lt;li&gt;Player A throws 9 of HEARTS&lt;/li&gt;
+  &lt;li&gt;Player B throws 2 of HEARTS&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/trumps/trumps-hand-1.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;What we can say happen is that after Player C threw, Player D could not beat
+the 4 of HEARTS. Next Player A throws a 9 of HEARTS because he
+assumes the 4 of HEARTS his partner threw will win. Now Player B throws the 2 of HEARTS, thus winning a pack 
+for his team. Just a taste of how rough this game can be. Since Player B won, he will start the next round.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Player B throws 7 of DIAMONDS&lt;/li&gt;
+  &lt;li&gt;Player C throws ACE of DIAMONDS&lt;/li&gt;
+  &lt;li&gt;Player D throws 10 of SPADES&lt;/li&gt;
+  &lt;li&gt;Player A throws 9 of DIAMONDS&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/trumps/trumps-hand-2.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After Player B declares DIAMONDS as the suit in play, Player C 
+attempts to win the hand by playing the ACE of DIAMONDS (the strongest number of a suit). It appears 
+Player D does not have any DIAMONDS in his hand so Player D is entitled to throw a “trump” card. 
+Like I mentioned earlier, the trumps suit overpowers any of the other three suits. So although 
+Player C threw an ACE, Player D’s 10 of SPADES is stronger since it is a “trump”. Unfortunately for 
+Player A, he cannot throw a trump to beat Player D’s 10 of SPADES because he still has DIAMONDS. 
+As a reminder since the first player, Player B, started out with a DIAMOND, everyone must throw a 
+DIAMOND unless they don’t have any.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This has been a basic introduction into how the game of trumps works. Next post I plan introduce 
+how to organize a card deck in a coding viewpoint using classes. Also I will discuss the language and 
+technology stack I could use for the game. I am at an early stage and have a lot to plan and 
+research. Until next time.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/%5B%22coding%22%5D/assembling-an-online-trumps-game/&quot;&gt;Online Trumps Game - Part I: What Is Trumps?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on November 09, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Ed Sheeran: The one-man act]]></title>
+  <link rel="alternate" type="text/html" href="/%5B%5D/ed-sheeran-live/" />
+  <id>/%5B%5D/ed-sheeran-live</id>
+  <updated>2014-09-01 18:31:46 -1000T00:00:00-00:00</updated>
+  <published>2014-09-01T00:00:00-10:00</published>
+  
+  <author>
+    <name>Joshua T. Rivera</name>
+    <uri></uri>
+    <email>doswah@gmail.com</email>
+  </author>
+  <content type="html">&lt;figure&gt;
+	&lt;img src=&quot;/images/ed-sheeran/concert-3.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Las Vegas. The Chelsea at The Cosmopolitan in Las Vegas. A stop on Ed Sheeran’s &lt;em&gt;Multiply&lt;/em&gt; tour. 
+Rudimental opened up performing hits: &lt;em&gt;Free&lt;/em&gt;, &lt;em&gt;Waiting All Night&lt;/em&gt;, &lt;em&gt;Feel The Love&lt;/em&gt;, and &lt;em&gt;Not Giving In&lt;/em&gt;. 
+Definitely check these guys out, they were loud, upbeat, and knew how to party.
+&lt;br /&gt;&lt;br /&gt; 
+The chants grew… “Ed! Ed! Ed!” He walks out with a grin and says… 
+“Hey, I’m Ed. My job is to entertain you for the next two hours. It’s your job to 
+be entertained. Well… for the next two hours.” 
+&lt;br /&gt;&lt;br /&gt;
+An Ed Sheeran show is simple. No dancers, no background singers, no band, but instead, two microphones, 
+a loop pedal, and his guitar. His setlist composed of his hits first two albums, &lt;em&gt;+&lt;/em&gt; (Plus) and &lt;em&gt;x&lt;/em&gt; (Multiply).&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/ed-sheeran/concert-2.png&quot; /&gt;
+	&lt;figcaption&gt;&quot;Thinking Out Loud&quot; goes well with a blue lightshow&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-setlist&quot;&gt;The Setlist&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I’m a Mess &lt;/li&gt;
+  &lt;li&gt;Lego House &lt;/li&gt;
+  &lt;li&gt;Don’t &lt;/li&gt;
+  &lt;li&gt;Drunk &lt;/li&gt;
+  &lt;li&gt;Take It Back &lt;/li&gt;
+  &lt;li&gt;One &lt;/li&gt;
+  &lt;li&gt;Bloodstream &lt;/li&gt;
+  &lt;li&gt;Tenerife Sea &lt;/li&gt;
+  &lt;li&gt;Runaway / Everybody (Backstreet Boys) &lt;/li&gt;
+  &lt;li&gt;Thinking Out Loud &lt;/li&gt;
+  &lt;li&gt;Hit Me Baby One More Time (Britney Spears) / Give Me Love &lt;/li&gt;
+  &lt;li&gt;I See Fire &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;encore&quot;&gt;Encore&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Don’t Need Me&lt;/li&gt;
+  &lt;li&gt;The A-Team&lt;/li&gt;
+  &lt;li&gt;Sing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/ed-sheeran/concert-1.png&quot; /&gt;
+	&lt;figcaption&gt;Ed climbs onto a speaker to get the crowd to sing along to &quot;A-Team&quot;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It was a great concert considering it was a one-man show. Loud acoustics and beat-boxing compiled 
+into a great show that ranks as one of the best concerts I have been to. Lastly, here is a clip 
+from the concert of “Thinking Out Loud.” Enjoy.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;340&quot; src=&quot;//www.youtube.com/embed/USH66UfcvFE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/%5B%5D/ed-sheeran-live/&quot;&gt;Ed Sheeran: The one-man act&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on September 01, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -27,8 +329,8 @@
   </author>
   <content type="html">&lt;p&gt;We all want the obvious answer. 
 When faced with a decision, we want that big red button because we all like
-to emphasize the moment. There’s just something sexy about it. 
-It’s simplicity and boldness makes decision making easier; even for a Time Lord.&lt;/p&gt;
+to emphasize the moment we come to a decision. There’s just something sexy about it. 
+It’s simplicity and boldness makes deciding much easier (even for Time Lords).&lt;/p&gt;
 &lt;figure&gt;
 	&lt;img src=&quot;/images/Button/doctor-who.png&quot; /&gt;
 	&lt;figcaption&gt;Doctor Who&lt;/figcaption&gt;
@@ -37,12 +339,12 @@ It’s simplicity and boldness makes decision making easier; even for a Time Lor
 &lt;h2 id=&quot;a-photobooth-trigger&quot;&gt;A Photobooth Trigger&lt;/h2&gt;
 
 &lt;p&gt;An application of such a button is to take pictures with a photobooth. 
-You’re about to take a selfie with your best friends. It’s going to be epic, so why not?
+You’re about to take an epic selfie with your friends, so why not?
 &lt;br /&gt;&lt;br /&gt;
 The idea is to use a button paired with an &lt;a href=&quot;http://arduino.cc/en/Main/ArduinoBoardMicro&quot;&gt;Arduino Micro&lt;/a&gt; 
 to emulate a mouse click to start a Photobooth application. The Micro is the perfect microprocessor because of it’s size and the built-in USB communication. So after ordering a 
 &lt;a href=&quot;http://www.karlssonrobotics.com/cart/big-dome-push-button-red/&quot;&gt;dome button from Karlsson Robotics&lt;/a&gt;
-I began designing.&lt;/p&gt;
+I began programming.&lt;/p&gt;
 &lt;figure&gt;
 	&lt;img src=&quot;/images/Button/button.jpg&quot; /&gt;
 &lt;/figure&gt;
@@ -50,30 +352,29 @@ I began designing.&lt;/p&gt;
 I understood the reasoning behind a normally open (NO) or normally closed (NC) switch. 
 In terms of digital logic, a NO switches from a 0 to 1 and a NC switches from a 1 to 0.
 &lt;br /&gt;&lt;br /&gt;
-Since the button uses a LED, the operating voltage of 5V the Arduino operates at can be used
-to power the button as well. To initialize the mouse button functionality is as simple as
+Since we are essentially powering an LED, the Arduino operating voltage (5V) is sufficent 
+to power the button as well. Initializing the mouse button functionality is as simple as
 adding this to the setup function:&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;pinMode(mouseButton, INPUT);
 Mouse.begin();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;After connecting the NO pin to a digital input on the Arduino Micro, I setup the Arduino so 
-whenever the big red button is pressed, I can emulate a particular mouse click. For this case,
-I triggered in the left-click. &lt;/p&gt;
+whenever the big red button is pressed, I can emulate a particular mouse click. I triggered a mouse left-click by adding:&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;if (clickState == HIGH) {
     Mouse.press(MOUSE_LEFT); 
 }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
+&lt;p&gt;It’s as simple as that. Even the doctor himself thinks it’s cool.&lt;/p&gt;
+
 &lt;figure&gt;
-And that&#39;s it. Even the doctor thinks it cool.
 	&lt;img src=&quot;http://28.media.tumblr.com/tumblr_lofhnlEdGv1qmm6ylo1_500.gif&quot; /&gt;
 	&lt;figcaption&gt;Doctor Who&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;The processes is pretty straight-forward. There are many USB functions you could set up such as 
-mouse movement or triggering keyboard keys. So the possibilites are endless! I’ll post a circuit schematic and video soon.&lt;/p&gt;
-
+&lt;p&gt;The process is pretty straight-forward. There are a lot of USB functions you could set up such as 
+mouse movement or triggering keyboard keys. The possibilites are only limited to your imagination!  I’ll post a circuit schematic and video soon.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;/%5B%5D/big-red-button/&quot;&gt;Why Is There Never A Big Red Button?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
 </entry>

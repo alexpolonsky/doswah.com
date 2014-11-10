@@ -14,8 +14,8 @@ share: true
 ---
 We all want the obvious answer. 
 When faced with a decision, we want that big red button because we all like
-to emphasize the moment. There's just something sexy about it. 
-It's simplicity and boldness makes decision making easier (even for Time Lords).
+to emphasize the moment we come to a decision. There's just something sexy about it. 
+It's simplicity and boldness makes deciding much easier (even for Time Lords).
 <figure>
 	<img src="/images/Button/doctor-who.png">
 	<figcaption>Doctor Who</figcaption>
@@ -37,7 +37,7 @@ By using the Karlsson Robotics [tutorial](http://play.karlssonrobotics.com/tutor
 I understood the reasoning behind a normally open (NO) or normally closed (NC) switch. 
 In terms of digital logic, a NO switches from a 0 to 1 and a NC switches from a 1 to 0.
 <br><br>
-Since the button uses a LED, the operating voltage of 5V the Arduino operates at can be used
+Since we are essentially powering an LED, the Arduino operating voltage (5V) is sufficent 
 to power the button as well. Initializing the mouse button functionality is as simple as
 adding this to the setup function:
 
