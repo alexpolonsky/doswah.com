@@ -14,7 +14,7 @@ share:
 
 ---
 <figure>
-	<img src="/images/ed-sheeran/concert-3.jpg">
+	<img src="/images/ed-sheeran/concert-3.JPG">
 </figure>
 
 Las Vegas. The Chelsea at The Cosmopolitan in Las Vegas. A stop on Ed Sheeran's *Multiply* tour. 
@@ -29,7 +29,7 @@ An Ed Sheeran show is simple. No dancers, no background singers, no band, but in
 a loop pedal, and his guitar. His setlist composed of his hits first two albums, *+* (Plus) and *x* (Multiply).
 
 <figure>
-	<img src="/images/ed-sheeran/concert-2.png">
+	<img src="/images/ed-sheeran/concert-2.PNG">
 	<figcaption>"Thinking Out Loud" goes well with a blue lightshow</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ a loop pedal, and his guitar. His setlist composed of his hits first two albums,
 * Sing
 
 <figure>
-	<img src="/images/ed-sheeran/concert-1.png">
+	<img src="/images/ed-sheeran/concert-1.PNG">
 	<figcaption>Ed climbs onto a speaker to get the crowd to sing along to "A-Team"</figcaption>
 </figure>
 
