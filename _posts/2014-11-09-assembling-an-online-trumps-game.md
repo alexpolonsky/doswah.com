@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Online Trumps Game - Part I: What Is Trumps?"
+title: "What Is Trumps?"
 modified: 2014-11-09 17:08:28 -1000
 description: "Re-creating the classic card game."
 category: [Coding]

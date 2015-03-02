@@ -93,11 +93,7 @@
 		        
 				<li><a href="/posts/" >Posts</a></li>
 		        
-				<li><a href="http://dl.dropboxusercontent.com/u/27716941/Joshua-Rivera-Resume.pdf" target="_blank">Resume</a></li>
-		        
-				<li><a href="/portfolio/" >Portfolio</a></li>
-		        
-				<li><a href="/links/" >Links</a></li>
+				<li><a href="/moviemarch2015/" >Movie March 2015</a></li>
 		        
 				<li><a href="http://joshuatrivera.com" target="_blank">JoshuaTRivera.com</a></li>
 		        
@@ -114,7 +110,7 @@
 	<img src="/images/bio-photo.jpg" class="bio-photo" alt="Joshua T. Rivera bio photo"></a>
 
 <h3>Joshua T. Rivera</h3>
-<p>My thoughts on Code, Tech, Lifestyle, & Sports</p>
+<p>Teach Yo' Self</p>
 <a href="http://twitter.com/doswah" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
 <a href="http://facebook.com/doswah" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
 <a href="https://plus.google.com/114578016273192306559?rel=author" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
@@ -145,7 +141,7 @@ Essentially this process is to generate my site locally then rsync to a static-o
 
 <p class="notice"><strong>Important!</strong> In the tutorial, it is not mentioned to install the ‘therubyracer’ gem. But you do need to install it.</p>
 
-<div class="highlight"><pre><code class="html">$ export GEM_HOME=$HOME/gems
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ export GEM_HOME=$HOME/gems
 $ source ./bashrc
 $ gem2.0 install jekyll
 $ gem2.0 install RedCloth
@@ -155,19 +151,19 @@ $ source .bashrc</code></pre></div>
 
 <p>Next I set up a bare git repository where we will put our git hook as seen here.</p>
 
-<div class="highlight"><pre><code class="html">$ cd webapps/git/repos/
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ cd webapps/git/repos/
 $ mkdir doswah.git
 $ cd doswah.git
 $ git init bare</code></pre></div>
 
 <p>Afterwards, I created a ‘post-update’ file in the hooks folder.</p>
 
-<div class="highlight"><pre><code class="html">$ cd hooks
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ cd hooks
 $ vi post-update</code></pre></div>
 
 <p>It should have these following lines. For your specific project you will need to edit line 3 and change the path of ‘REPOSITORY_DIR’ to your project .git folder you just created. On line 12, you must edit the last path to where your web application is. In my case, it is in the ‘webapps’ folder. In all other instances you see ‘doswah’ change it to your username.</p>
 
-<div class="highlight"><pre><code class="html"><span class="lineno"> 1</span> #!/bin/bash
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="lineno"> 1</span> #!/bin/bash
 <span class="lineno"> 2</span> # Declare variables
 <span class="lineno"> 3</span> REPOSITORY_DIR=&quot;/home/doswah/git/repos/doswah.git&quot;
 <span class="lineno"> 4</span> DEPLOY_FIR=&quot;/home/doswah/tmp/jekyll-tmp&quot;
@@ -182,7 +178,7 @@ $ vi post-update</code></pre></div>
 
 <p>After that is done. You can create your git remote on your machine locally.</p>
 
-<div class="highlight"><pre><code class="html">$ git remote add webfaction doswah@web351.webfaction.com:/home/doswah/git/repos/doswah.git
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ git remote add webfaction doswah@web351.webfaction.com:/home/doswah/git/repos/doswah.git
 $ git push doswah</code></pre></div>
 
 
@@ -193,7 +189,7 @@ $ git push doswah</code></pre></div>
 	<img src="/images/bio-photo.jpg" class="bio-photo" alt="Joshua T. Rivera bio photo"></a>
 
 <h3>Joshua T. Rivera</h3>
-<p>My thoughts on Code, Tech, Lifestyle, & Sports</p>
+<p>Teach Yo' Self</p>
 <a href="http://twitter.com/doswah" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
 <a href="http://facebook.com/doswah" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
 <a href="https://plus.google.com/114578016273192306559?rel=author" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
@@ -223,17 +219,17 @@ $ git push doswah</code></pre></div>
   <h4>You might also enjoy <small class="pull-right">(<a href="/posts/">View all posts</a>)</small></h4>
     <ul>
     
-      <li><a href="/%5B%22coding%22%5D/assembling-an-online-trumps-game/" title="Online Trumps Game - Part I: What Is Trumps?">Online Trumps Game - Part I: What Is Trumps?</a></li>
+      <li><a href="/coding/assembling-an-online-trumps-game/" title="What Is Trumps?">What Is Trumps?</a></li>
     
-      <li><a href="/%5B%5D/ed-sheeran-live/" title="Ed Sheeran: The one-man act">Ed Sheeran: The one-man act</a></li>
+      <li><a href="/ed-sheeran-live/" title="Ed Sheeran: The one-man act">Ed Sheeran: The one-man act</a></li>
     
-      <li><a href="/%5B%5D/big-red-button/" title="Why Is There Never A Big Red Button?">Why Is There Never A Big Red Button?</a></li>
+      <li><a href="/big-red-button/" title="Why Is There Never A Big Red Button?">Why Is There Never A Big Red Button?</a></li>
     
     </ul>
     <hr />
   </div><!-- /.related-articles -->
   <footer>
-    <span>&copy; 2014 Joshua T. Rivera</span>
+    <span>&copy; 2015 Joshua T. Rivera</span>
 
   </footer>
 </div><!-- /.footer-wrap -->

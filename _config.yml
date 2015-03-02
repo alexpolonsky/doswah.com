@@ -1,15 +1,15 @@
 title:           Doswah
-description:     Life is a story. Make it a great one.
+description:     We're all going to be stores in the end, so make it a great one.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:
-#url: 		 http://doswah.com
+#url:
+url: 		 http://doswah.com
 disqus_shortname: doswah
 
 # Owner/author information
 owner:
   name:           Joshua T. Rivera 
   avatar:         bio-photo.jpg
-  bio:            "My thoughts on Code, Tech, Lifestyle, & Sports"
+  bio:            "Teach Yo' Self"
   email:          doswah@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: doswah
@@ -40,13 +40,8 @@ links:
     url: /about/
   - title: Posts 
     url: /posts/
-  - title: Resume
-    url: http://dl.dropboxusercontent.com/u/27716941/Joshua-Rivera-Resume.pdf 
-    external: true
-  - title: Portfolio
-    url: /portfolio/
-  - title: Links
-    url: /links/
+  - title: Movie March 2015
+    url: /moviemarch2015/
   - title: JoshuaTRivera.com
     url: http://joshuatrivera.com
     external: true

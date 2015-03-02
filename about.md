@@ -12,18 +12,17 @@ image:
   creditlink:
 ---
 
-## Who I Am
-
-<i>Doswah</i> is my blogger handle derived from saying my first name in a filipino accent. My real name is [Joshua Rivera](http://joshuatrivera.com). I am a recent Computer Engineering graduate from the University of Hawaii at Manoa. I am a fan of technology, creative user experiences, and bringing fresh and exciting ideas to life. 
-
-## What I Do
-
-I spend my time being a freelance website developer and learning how to develop sophisticated mobile applications. All this, while I try to find a entry-level software development job to start my career.
-
-## The Fun Stuff 
-
-I am a huge fan of sports. I play golf (<i>+15 handicap</i>), basketball (<i>5'2" Point Guard</i>), and Disc Golf (<i>2-time Nuke Disc Champion</i>). In addition, I root for the Denver Broncos and Miami Heat. I'm also am a huge fan of [hiking](http://hike2grind.com), musicals, Childish Gambino, life hacks, and Doctor Who. I even play guitar in my free time, but I'll save that for <i>later</i>.
-
-## Motivation (<i>sort of</i> )
-Just because. I aspire to code as good as [Kenny Luong](http://kennyluong.com), be better at everything than everyone like [Jake Tsuyemura](http://jaketsuyemura.com), and keep pace with [Matthew Inouye](http://mkinouye.com).
-
+I live my life as a combination of characters from NBC's *Park and Recreation*.
+<br><br>
+<img src="/images/about/parksandrec/pr1.jpg">
+<img src="/images/about/parksandrec/pr2.jpg">
+<img src="/images/about/parksandrec/pr3.jpg">
+<img src="/images/about/parksandrec/pr4.jpg">
+<img src="/images/about/parksandrec/pr5.jpg">
+<img src="/images/about/parksandrec/pr6.jpg">
+<img src="/images/about/parksandrec/pr7.jpg">
+<img src="/images/about/parksandrec/pr8.jpg">
+<img src="/images/about/parksandrec/pr9.jpg">
+<img src="/images/about/parksandrec/pr10.jpg">
+<br><br>
+Images from [r-grimes.tumblr.com](http://r-grimes.tumblr.com)

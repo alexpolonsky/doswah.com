@@ -93,11 +93,7 @@
 		        
 				<li><a href="/posts/" >Posts</a></li>
 		        
-				<li><a href="http://dl.dropboxusercontent.com/u/27716941/Joshua-Rivera-Resume.pdf" target="_blank">Resume</a></li>
-		        
-				<li><a href="/portfolio/" >Portfolio</a></li>
-		        
-				<li><a href="/links/" >Links</a></li>
+				<li><a href="/moviemarch2015/" >Movie March 2015</a></li>
 		        
 				<li><a href="http://joshuatrivera.com" target="_blank">JoshuaTRivera.com</a></li>
 		        
@@ -114,7 +110,7 @@
 	<img src="/images/bio-photo.jpg" class="bio-photo" alt="Joshua T. Rivera bio photo"></a>
 
 <h3>Joshua T. Rivera</h3>
-<p>My thoughts on Code, Tech, Lifestyle, & Sports</p>
+<p>Teach Yo' Self</p>
 <a href="http://twitter.com/doswah" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
 <a href="http://facebook.com/doswah" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
 <a href="https://plus.google.com/114578016273192306559?rel=author" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
@@ -143,7 +139,7 @@
 
 <p>First I created a local respository titled <code>joshuatrivera</code> and initalized a git repository with a <code>index.html</code> file.</p>
 
-<div class="highlight"><pre><code class="html">$ mkdir joshuatrivera 
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ mkdir joshuatrivera 
 $ cd joshuatrivera
 $ git init
 $ echo &quot;Hello, world!&quot; &gt; index.html
@@ -162,30 +158,30 @@ $ git commit -m &quot;First commit&quot;</code></pre></div>
 
 <p>When I ssh into my WebFaction and visit the <code>webapps</code> folder,  I see the two applications I created <code>Git</code> and <code>joshuatrivera</code>. Then I created a bare .git folder within the git app to generate the post-receive files used to update files in <code>joshuatrivera</code>.</p>
 
-<div class="highlight"><pre><code class="html">$ cd git/repos
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ cd git/repos
 $ mkdir joshuatrivera.git 
 $ cd joshuatrivera.git
 $ git init --bare</code></pre></div>
 
 <p>This creates the necessary files and folders for our git setup. Inside the <code>joshuatrivera.git</code> folder we just created, there is a <code>hooks</code> folder where you will create a file named <code>post-receive</code> where the scripts will go.</p>
 
-<div class="highlight"><pre><code class="html">$ cd hooks
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ cd hooks
 $ vi post-receive</code></pre></div>
 
 <p>I added these lines in the <code>post-receive</code> file I just created and opened</p>
 
-<div class="highlight"><pre><code class="html"><span class="lineno">1</span> #!/bin/sh
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="lineno">1</span> #!/bin/sh
 <span class="lineno">2</span> GIT_WORK_TREE=/path/to/webapp git checkout -f master</code></pre></div>
 
 <p>For my case, <code>path/to/webapp</code> for me was <code>/home/doswah/webapps/joshuatrivera</code>. Then I needed to provide the necessary permissions so the post-receive script can write to the appropriate file. So after creating the <code>post-receive</code> file, type</p>
 
-<div class="highlight"><pre><code class="html">$ chmod +x post-receive</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ chmod +x post-receive</code></pre></div>
 
 <h3 id="connect-to-post-receive-file-through-ssh">Connect To Post-Receive File Through SSH</h3>
 
 <p>After that setup in our WebFaction setup, now we need to create the functionality I wanted on my local machine. I created a remote to the .git repository I made in WebFaction.</p>
 
-<div class="highlight"><pre><code class="html">$ git remote add joshuatrivera ssh://<span class="nt">&lt;webfaction_login&gt;</span>/home/doswah/webapps/git/repos/joshuatrivera.git
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ git remote add joshuatrivera ssh://<span class="nt">&lt;webfaction_login&gt;</span>/home/doswah/webapps/git/repos/joshuatrivera.git
 $ git push joshuatrivera +master:refs/heads/master</code></pre></div>
 
 <p>In my case, my <code>&lt;webfaction_login&gt;</code> is <code>doswah@web351.webfaction.com</code> . Now the files I push through the git push command will appear in the <code>joshuatrivera</code> application.</p>
@@ -194,7 +190,7 @@ $ git push joshuatrivera +master:refs/heads/master</code></pre></div>
 
 <p>Finally. Now when I make changes on my local machine, to update this to the WebFaction server I can just run</p>
 
-<div class="highlight"><pre><code class="html">$ git push joshuatrivera</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ git push joshuatrivera</code></pre></div>
 
 <p>This transfers any pushed commits from my local repository where the <code>post-receive</code> hook will update <code>joshuatrivera</code> for me!</p>
 
@@ -202,7 +198,7 @@ $ git push joshuatrivera +master:refs/heads/master</code></pre></div>
 
 <p>I then setup a GitHub repository then added a remote. Since I created a commit already, I made a commit to the master.</p>
 
-<div class="highlight"><pre><code class="html">$ git remote add origin git@github.com:Doswah/joshuatrivera.com.git
+<div class="highlight"><pre><code class="language-html" data-lang="html">$ git remote add origin git@github.com:Doswah/joshuatrivera.com.git
 $ git push -u origin master</code></pre></div>
 
 
@@ -213,7 +209,7 @@ $ git push -u origin master</code></pre></div>
 	<img src="/images/bio-photo.jpg" class="bio-photo" alt="Joshua T. Rivera bio photo"></a>
 
 <h3>Joshua T. Rivera</h3>
-<p>My thoughts on Code, Tech, Lifestyle, & Sports</p>
+<p>Teach Yo' Self</p>
 <a href="http://twitter.com/doswah" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
 <a href="http://facebook.com/doswah" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
 <a href="https://plus.google.com/114578016273192306559?rel=author" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
@@ -243,17 +239,17 @@ $ git push -u origin master</code></pre></div>
   <h4>You might also enjoy <small class="pull-right">(<a href="/posts/">View all posts</a>)</small></h4>
     <ul>
     
-      <li><a href="/%5B%22coding%22%5D/assembling-an-online-trumps-game/" title="Online Trumps Game - Part I: What Is Trumps?">Online Trumps Game - Part I: What Is Trumps?</a></li>
+      <li><a href="/coding/assembling-an-online-trumps-game/" title="What Is Trumps?">What Is Trumps?</a></li>
     
-      <li><a href="/%5B%5D/ed-sheeran-live/" title="Ed Sheeran: The one-man act">Ed Sheeran: The one-man act</a></li>
+      <li><a href="/ed-sheeran-live/" title="Ed Sheeran: The one-man act">Ed Sheeran: The one-man act</a></li>
     
-      <li><a href="/%5B%5D/big-red-button/" title="Why Is There Never A Big Red Button?">Why Is There Never A Big Red Button?</a></li>
+      <li><a href="/big-red-button/" title="Why Is There Never A Big Red Button?">Why Is There Never A Big Red Button?</a></li>
     
     </ul>
     <hr />
   </div><!-- /.related-articles -->
   <footer>
-    <span>&copy; 2014 Joshua T. Rivera</span>
+    <span>&copy; 2015 Joshua T. Rivera</span>
 
   </footer>
 </div><!-- /.footer-wrap -->

@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-11-09T21:32:42-10:00</updated>
+<updated>2015-03-02T00:35:54-10:00</updated>
 <id>/</id>
 <author>
   <name>Joshua T. Rivera</name>
@@ -14,9 +14,9 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Online Trumps Game - Part I: What Is Trumps?]]></title>
-  <link rel="alternate" type="text/html" href="/%5B%22coding%22%5D/assembling-an-online-trumps-game/" />
-  <id>/%5B%22coding%22%5D/assembling-an-online-trumps-game</id>
+  <title type="html"><![CDATA[What Is Trumps?]]></title>
+  <link rel="alternate" type="text/html" href="/coding/assembling-an-online-trumps-game/" />
+  <id>/coding/assembling-an-online-trumps-game</id>
   <updated>2014-11-09 17:08:28 -1000T00:00:00-00:00</updated>
   <published>2014-11-09T00:00:00-10:00</published>
   
@@ -46,7 +46,7 @@ rules over the years).&lt;/p&gt;
 	&lt;figcaption&gt;Typical deal setup for Trumps&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;The game consists of a 4 player, 2 vs. 2 system. In the figure above, Hands &lt;strong&gt;A&lt;/strong&gt; &amp;amp; &lt;strong&gt;C&lt;/strong&gt; are 
+&lt;p&gt;The game consists of a 4-player, 2 vs. 2 system. In the figure above, Hands &lt;strong&gt;A&lt;/strong&gt; &amp;amp; &lt;strong&gt;C&lt;/strong&gt; are 
 teammates and vice-versa, Hands &lt;strong&gt;B&lt;/strong&gt; &amp;amp; &lt;strong&gt;D&lt;/strong&gt; are teammates. With 52 cards in a deck, each lettered
 player is dealt 12 cards and 4 cards are placed at the center of the table called the &lt;em&gt;Kit&lt;/em&gt; 
 (12+12+12+12+4=52).&lt;/p&gt;
@@ -54,20 +54,15 @@ player is dealt 12 cards and 4 cards are placed at the center of the table calle
 &lt;h3 id=&quot;bidding-war&quot;&gt;Bidding War&lt;/h3&gt;
 
 &lt;p&gt;Once the hands are dealt, &lt;em&gt;the player &lt;strong&gt;left&lt;/strong&gt; of the dealer makes a “bid” to 1) win the kit 
-and 2) declare what suit trumps is&lt;/em&gt;. Each player has the chance to bid with the dealer getting 
-to bid last. A player can overbid the previous bid by bidding a higher number. &lt;/p&gt;
+2) declare what suit trumps is and 3) Designate how many packs the other team must make to win&lt;/em&gt;. 
+Each player has the chance to bid with the dealer getting to bid last. A player can overbid 
+the previous bid by bidding a higher number. &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;In accordance to 
-a bidding number, each bid declares either &lt;strong&gt;LOW&lt;/strong&gt; or &lt;strong&gt;HIGH&lt;/strong&gt;. &lt;em&gt;A LOW bid 
-over-rules a HIGH bid.&lt;/em&gt; For example, player A starts the bidding at “4 HIGH”, if the following player bids “4 LOW” and
-they now hold the current winning bid.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;LOW&lt;/strong&gt; bid declares lower valued cards in a suit are stronger in the game, while vice-versa, 
-a &lt;strong&gt;HIGH&lt;/strong&gt; bid declares higher valued cards in a suit are stronger. In all cases, the Ace card 
+&lt;p&gt;In accordance to the bidding number, each bid is either &lt;strong&gt;LOW&lt;/strong&gt; or &lt;strong&gt;HIGH&lt;/strong&gt;. A &lt;strong&gt;LOW&lt;/strong&gt; bid declares 
+lower valued cards in a suit are stronger in the game, while vice-versa, a &lt;strong&gt;HIGH&lt;/strong&gt; bid declares 
+higher valued cards in a suit are stronger. In all games, the ACE card 
 is the strongest card of the suit. In the following table, the higher the card is in the table, 
 the stronger it is during the game.&lt;/p&gt;
 
@@ -107,12 +102,30 @@ the stronger it is during the game.&lt;/p&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
     &lt;/tr&gt;
+     &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;To explain the bidding system again, the winning bid determines how much packs the other 
+&lt;p&gt;&lt;em&gt;It’s important to note: a LOW bid over-rules a HIGH bid.&lt;/em&gt; For example, consider Player A starts 
+the bidding at &lt;em&gt;4 HIGH&lt;/em&gt;. If the following player bids &lt;em&gt;4 LOW&lt;/em&gt;, then
+he or she now holds the current winning bid.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As I mentioned earlier, the winning bid determines how much packs the other 
 team needs to make to win the game. Here is what each bidding number represents.&lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Packs&lt;/strong&gt; are considered as a round where all four players contribute a card in play. Since 
@@ -159,7 +172,7 @@ each player has 12-cards, there are 12 rounds or “packs”.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 Once a player wins the bid he or she uses the “Kit” to add/remove cards to improve their 
-12-card hand. Once that happens, the player declares what “trumps” is and then the game
+12-card hand. Once that’s done, the player declares what “trumps” is and then the game
 begins.&lt;/p&gt;
 
 &lt;h2 id=&quot;how-trumps-works&quot;&gt;How Trumps Works&lt;/h2&gt;
@@ -172,13 +185,14 @@ who throws first for the next round. Now introducing trumps. “Trumps” repres
 overpowers cards from the other three suits. 
 &lt;br /&gt;&lt;br /&gt;
 In a game, the player who throws first declares the suit “in play”. Each player must throw 
-the suit in play. In the scenario where a person does not have the suit in play, they can 
-throw a stronger card, the trump, to win the pack. According to rules, the trump suit cannot 
-be played unless previously used in the above scenario.
+the suit in play. When a person does not have the suit in play, they can 
+throw a trump, to better their chances to win the pack. According to the rules, the trump suit cannot 
+be used to start a round unless previous scenario occurs (due to lack of “in play” suit in someone’s hand). This is commonly referred to as “Breaking Trumps”.
 &lt;br /&gt;&lt;br /&gt;
-Those are the basic rules of Trumps. Let’s run through a few examples&lt;/p&gt;
+Those are the basic rules of Trumps. Let’s examine a few rounds.&lt;/p&gt;
 
-&lt;h2 id=&quot;example-game-of-trumps&quot;&gt;Example Game of Trumps&lt;/h2&gt;
+&lt;h2 id=&quot;an-example-game-of-trumps&quot;&gt;An Example Game of Trumps&lt;/h2&gt;
+
 &lt;p&gt;The great Christian Damo (&lt;a href=&quot;https://twitter.com/HenryHanakahi&quot;&gt;@HenryHanakahi&lt;/a&gt;) taught me 
 that introducing a scenario is a productive way to explain people new things. So let’s consider
 this scenario.&lt;/p&gt;
@@ -206,10 +220,9 @@ this scenario.&lt;/p&gt;
 	&lt;img src=&quot;/images/trumps/trumps-hand-1.png&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;What we can say happen is that after Player C threw, Player D could not beat
-the 4 of HEARTS. Next Player A throws a 9 of HEARTS because he
-assumes the 4 of HEARTS his partner threw will win. Now Player B throws the 2 of HEARTS, thus winning a pack 
-for his team. Just a taste of how rough this game can be. Since Player B won, he will start the next round.&lt;/p&gt;
+&lt;p&gt;Player C throws and declares HEARTS as the suit in play. Player D could not beat the 4 of HEARTS so he throws any heart, in this scenario he throws the 6 of HEARTS. 
+Next Player A throws a 9 of HEARTS because heassumes the 4 of HEARTS his partner threw will win. 
+Now Player B throws the 2 of HEARTS, resulting in his team winning a pack. Just a taste of how rough this game can be. Since Player B won, he will start the next round.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Player B throws 7 of DIAMONDS&lt;/li&gt;
@@ -222,12 +235,11 @@ for his team. Just a taste of how rough this game can be. Since Player B won, he
 	&lt;img src=&quot;/images/trumps/trumps-hand-2.png&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;After Player B declares DIAMONDS as the suit in play, Player C 
-attempts to win the hand by playing the ACE of DIAMONDS (the strongest number of a suit). It appears 
+&lt;p&gt;Player B declares DIAMONDS as the suit in play. Player C attempts to win the hand by playing the ACE of DIAMONDS (the strongest number of a suit). It appears 
 Player D does not have any DIAMONDS in his hand so Player D is entitled to throw a “trump” card. 
 Like I mentioned earlier, the trumps suit overpowers any of the other three suits. So although 
 Player C threw an ACE, Player D’s 10 of SPADES is stronger since it is a “trump”. Unfortunately for 
-Player A, he cannot throw a trump to beat Player D’s 10 of SPADES because he still has DIAMONDS. 
+Player A, he cannot throw a trump to beat Player D’s 10 of SPADES because he or she still has DIAMONDS. 
 As a reminder since the first player, Player B, started out with a DIAMOND, everyone must throw a 
 DIAMOND unless they don’t have any.&lt;/p&gt;
 
@@ -238,14 +250,14 @@ how to organize a card deck in a coding viewpoint using classes. Also I will dis
 technology stack I could use for the game. I am at an early stage and have a lot to plan and 
 research. Until next time.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/%5B%22coding%22%5D/assembling-an-online-trumps-game/&quot;&gt;Online Trumps Game - Part I: What Is Trumps?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on November 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/coding/assembling-an-online-trumps-game/&quot;&gt;What Is Trumps?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on November 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Ed Sheeran: The one-man act]]></title>
-  <link rel="alternate" type="text/html" href="/%5B%5D/ed-sheeran-live/" />
-  <id>/%5B%5D/ed-sheeran-live</id>
+  <link rel="alternate" type="text/html" href="/ed-sheeran-live/" />
+  <id>/ed-sheeran-live</id>
   <updated>2014-09-01 18:31:46 -1000T00:00:00-00:00</updated>
   <published>2014-09-01T00:00:00-10:00</published>
   
@@ -255,7 +267,7 @@ research. Until next time.&lt;/p&gt;
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;figure&gt;
-	&lt;img src=&quot;/images/ed-sheeran/concert-3.jpg&quot; /&gt;
+	&lt;img src=&quot;/images/ed-sheeran/concert-3.JPG&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Las Vegas. The Chelsea at The Cosmopolitan in Las Vegas. A stop on Ed Sheeran’s &lt;em&gt;Multiply&lt;/em&gt; tour. 
@@ -270,7 +282,7 @@ An Ed Sheeran show is simple. No dancers, no background singers, no band, but in
 a loop pedal, and his guitar. His setlist composed of his hits first two albums, &lt;em&gt;+&lt;/em&gt; (Plus) and &lt;em&gt;x&lt;/em&gt; (Multiply).&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/ed-sheeran/concert-2.png&quot; /&gt;
+	&lt;img src=&quot;/images/ed-sheeran/concert-2.PNG&quot; /&gt;
 	&lt;figcaption&gt;&quot;Thinking Out Loud&quot; goes well with a blue lightshow&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -300,7 +312,7 @@ a loop pedal, and his guitar. His setlist composed of his hits first two albums,
 &lt;/ul&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/ed-sheeran/concert-1.png&quot; /&gt;
+	&lt;img src=&quot;/images/ed-sheeran/concert-1.PNG&quot; /&gt;
 	&lt;figcaption&gt;Ed climbs onto a speaker to get the crowd to sing along to &quot;A-Team&quot;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -311,14 +323,14 @@ from the concert of “Thinking Out Loud.” Enjoy.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;340&quot; src=&quot;//www.youtube.com/embed/USH66UfcvFE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/%5B%5D/ed-sheeran-live/&quot;&gt;Ed Sheeran: The one-man act&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on September 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/ed-sheeran-live/&quot;&gt;Ed Sheeran: The one-man act&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on September 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why Is There Never A Big Red Button?]]></title>
-  <link rel="alternate" type="text/html" href="/%5B%5D/big-red-button/" />
-  <id>/%5B%5D/big-red-button</id>
+  <link rel="alternate" type="text/html" href="/big-red-button/" />
+  <id>/big-red-button</id>
   <updated>2014-08-24 19:58:26 -1000T00:00:00-00:00</updated>
   <published>2014-08-24T00:00:00-10:00</published>
   
@@ -356,13 +368,13 @@ Since we are essentially powering an LED, the Arduino operating voltage (5V) is 
 to power the button as well. Initializing the mouse button functionality is as simple as
 adding this to the setup function:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;pinMode(mouseButton, INPUT);
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;pinMode(mouseButton, INPUT);
 Mouse.begin();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;After connecting the NO pin to a digital input on the Arduino Micro, I setup the Arduino so 
 whenever the big red button is pressed, I can emulate a particular mouse click. I triggered a mouse left-click by adding:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;if (clickState == HIGH) {
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;if (clickState == HIGH) {
     Mouse.press(MOUSE_LEFT); 
 }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
@@ -376,14 +388,14 @@ whenever the big red button is pressed, I can emulate a particular mouse click. 
 &lt;p&gt;The process is pretty straight-forward. There are a lot of USB functions you could set up such as 
 mouse movement or triggering keyboard keys. The possibilites are only limited to your imagination!  I’ll post a circuit schematic and video soon.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/%5B%5D/big-red-button/&quot;&gt;Why Is There Never A Big Red Button?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/big-red-button/&quot;&gt;Why Is There Never A Big Red Button?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[First Take: Webpage PHP Modules]]></title>
-  <link rel="alternate" type="text/html" href="/%5B%5D/first-take-website-php-modules/" />
-  <id>/%5B%5D/first-take-website-php-modules</id>
+  <link rel="alternate" type="text/html" href="/first-take-website-php-modules/" />
+  <id>/first-take-website-php-modules</id>
   <updated>2014-08-09 00:31:48 -1000T00:00:00-00:00</updated>
   <published>2014-08-09T00:00:00-10:00</published>
   
@@ -409,7 +421,7 @@ by converting pages from .html to .php
 &lt;br /&gt;&lt;br /&gt; 
 Here is a snippet of my &lt;em&gt;cumbersome&lt;/em&gt; navigation bar at the beginning of all my pages.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navbar navbar-default navbar-fixed-top&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navigation&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navbar navbar-default navbar-fixed-top&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navigation&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
       &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;container&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
         &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navbar-header&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
           &lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;button&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navbar-toggle&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-toggle=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;collapse&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-target=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;.navbar-collapse&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
@@ -439,13 +451,13 @@ Here is a snippet of my &lt;em&gt;cumbersome&lt;/em&gt; navigation bar at the be
 &lt;p&gt;I placed this snippet as a .php file in a folder of modules. 
 Now to include the navigation bar in my index.php page, I just need to have:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;?&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;php&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;modules/menubar.php&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;?&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;?&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;php&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;modules/menubar.php&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;?&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;That’s it. Pretty awesome right? This method helps my pages become modular and makes reading my webpage code easier for me.&lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Remember!&lt;/strong&gt; Rename &lt;em&gt;both&lt;/em&gt; your module snippet and webpage to a .php file&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/%5B%5D/first-take-website-php-modules/&quot;&gt;First Take: Webpage PHP Modules&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/first-take-website-php-modules/&quot;&gt;First Take: Webpage PHP Modules&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -851,7 +863,7 @@ Essentially this process is to generate my site locally then rsync to a static-o
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Important!&lt;/strong&gt; In the tutorial, it is not mentioned to install the ‘therubyracer’ gem. But you do need to install it.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ export GEM_HOME=$HOME/gems
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ export GEM_HOME=$HOME/gems
 $ source ./bashrc
 $ gem2.0 install jekyll
 $ gem2.0 install RedCloth
@@ -861,19 +873,19 @@ $ source .bashrc&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Next I set up a bare git repository where we will put our git hook as seen here.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ cd webapps/git/repos/
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ cd webapps/git/repos/
 $ mkdir doswah.git
 $ cd doswah.git
 $ git init bare&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Afterwards, I created a ‘post-update’ file in the hooks folder.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ cd hooks
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ cd hooks
 $ vi post-update&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;It should have these following lines. For your specific project you will need to edit line 3 and change the path of ‘REPOSITORY_DIR’ to your project .git folder you just created. On line 12, you must edit the last path to where your web application is. In my case, it is in the ‘webapps’ folder. In all other instances you see ‘doswah’ change it to your username.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; #!/bin/bash
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; #!/bin/bash
 &lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; # Declare variables
 &lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; REPOSITORY_DIR=&amp;quot;/home/doswah/git/repos/doswah.git&amp;quot;
 &lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; DEPLOY_FIR=&amp;quot;/home/doswah/tmp/jekyll-tmp&amp;quot;
@@ -888,7 +900,7 @@ $ vi post-update&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;After that is done. You can create your git remote on your machine locally.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ git remote add webfaction doswah@web351.webfaction.com:/home/doswah/git/repos/doswah.git
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ git remote add webfaction doswah@web351.webfaction.com:/home/doswah/git/repos/doswah.git
 $ git push doswah&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
@@ -913,7 +925,7 @@ $ git push doswah&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;First I created a local respository titled &lt;code&gt;joshuatrivera&lt;/code&gt; and initalized a git repository with a &lt;code&gt;index.html&lt;/code&gt; file.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ mkdir joshuatrivera 
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ mkdir joshuatrivera 
 $ cd joshuatrivera
 $ git init
 $ echo &amp;quot;Hello, world!&amp;quot; &amp;gt; index.html
@@ -932,30 +944,30 @@ $ git commit -m &amp;quot;First commit&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/di
 
 &lt;p&gt;When I ssh into my WebFaction and visit the &lt;code&gt;webapps&lt;/code&gt; folder,  I see the two applications I created &lt;code&gt;Git&lt;/code&gt; and &lt;code&gt;joshuatrivera&lt;/code&gt;. Then I created a bare .git folder within the git app to generate the post-receive files used to update files in &lt;code&gt;joshuatrivera&lt;/code&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ cd git/repos
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ cd git/repos
 $ mkdir joshuatrivera.git 
 $ cd joshuatrivera.git
 $ git init --bare&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;This creates the necessary files and folders for our git setup. Inside the &lt;code&gt;joshuatrivera.git&lt;/code&gt; folder we just created, there is a &lt;code&gt;hooks&lt;/code&gt; folder where you will create a file named &lt;code&gt;post-receive&lt;/code&gt; where the scripts will go.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ cd hooks
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ cd hooks
 $ vi post-receive&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;I added these lines in the &lt;code&gt;post-receive&lt;/code&gt; file I just created and opened&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; #!/bin/sh
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; #!/bin/sh
 &lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; GIT_WORK_TREE=/path/to/webapp git checkout -f master&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;For my case, &lt;code&gt;path/to/webapp&lt;/code&gt; for me was &lt;code&gt;/home/doswah/webapps/joshuatrivera&lt;/code&gt;. Then I needed to provide the necessary permissions so the post-receive script can write to the appropriate file. So after creating the &lt;code&gt;post-receive&lt;/code&gt; file, type&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ chmod +x post-receive&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ chmod +x post-receive&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;connect-to-post-receive-file-through-ssh&quot;&gt;Connect To Post-Receive File Through SSH&lt;/h3&gt;
 
 &lt;p&gt;After that setup in our WebFaction setup, now we need to create the functionality I wanted on my local machine. I created a remote to the .git repository I made in WebFaction.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ git remote add joshuatrivera ssh://&lt;span class=&quot;nt&quot;&gt;&amp;lt;webfaction_login&amp;gt;&lt;/span&gt;/home/doswah/webapps/git/repos/joshuatrivera.git
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ git remote add joshuatrivera ssh://&lt;span class=&quot;nt&quot;&gt;&amp;lt;webfaction_login&amp;gt;&lt;/span&gt;/home/doswah/webapps/git/repos/joshuatrivera.git
 $ git push joshuatrivera +master:refs/heads/master&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;In my case, my &lt;code&gt;&amp;lt;webfaction_login&amp;gt;&lt;/code&gt; is &lt;code&gt;doswah@web351.webfaction.com&lt;/code&gt; . Now the files I push through the git push command will appear in the &lt;code&gt;joshuatrivera&lt;/code&gt; application.&lt;/p&gt;
@@ -964,7 +976,7 @@ $ git push joshuatrivera +master:refs/heads/master&lt;/code&gt;&lt;/pre&gt;&lt;/
 
 &lt;p&gt;Finally. Now when I make changes on my local machine, to update this to the WebFaction server I can just run&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ git push joshuatrivera&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ git push joshuatrivera&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;This transfers any pushed commits from my local repository where the &lt;code&gt;post-receive&lt;/code&gt; hook will update &lt;code&gt;joshuatrivera&lt;/code&gt; for me!&lt;/p&gt;
 
@@ -972,7 +984,7 @@ $ git push joshuatrivera +master:refs/heads/master&lt;/code&gt;&lt;/pre&gt;&lt;/
 
 &lt;p&gt;I then setup a GitHub repository then added a remote. Since I created a commit already, I made a commit to the master.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;$ git remote add origin git@github.com:Doswah/joshuatrivera.com.git
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;$ git remote add origin git@github.com:Doswah/joshuatrivera.com.git
 $ git push -u origin master&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
