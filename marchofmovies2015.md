@@ -21,9 +21,17 @@ Throughout the month of March I will watch and reflect upon a wide assortment of
 
 ---
 
+## 2. The Sound of Music
+
+3 hours! T_T
+<figure>
+	<img src="/images/moviemarch2015/soundofmusic.jpg">
+</figure>
+---
+
 ## 1. Whiplash
 <figure>
 	<img src="/images/moviemarch2015/whiplash-1.jpg">
-	<figcaption>A rollercoaster of an aspiring drummer and his clash with an intense teacher. Two gut-wrenching performances by Miles Teller and J.K. Simmons. It was Drumline for adults. 
+	<figcaption>I loved how J.K. Simmons plays a douchebag. Real world Drumline for adults. 
 	</figcaption>
 </figure>
