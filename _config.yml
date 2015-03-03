@@ -9,7 +9,7 @@ disqus_shortname: doswah
 owner:
   name:           Joshua T. Rivera 
   avatar:         bio-photo.jpg
-  bio:            "Teach Yo' Self"
+  bio:            ""
   email:          doswah@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: doswah
@@ -19,7 +19,7 @@ owner:
   linkedin: joshua-rivera/57/89/769
   instagram: doswah
   lastfm:
-  tumblr: 
+  tumblr:
   pinterest:
   foursquare:
   steam:
@@ -40,8 +40,10 @@ links:
     url: /about/
   - title: Posts 
     url: /posts/
-  - title: Movie March 2015
+  - title: Movie March
     url: /moviemarch2015/
+  - title: Teach Yo Self
+    url: /teachyoself/
   - title: JoshuaTRivera.com
     url: http://joshuatrivera.com
     external: true

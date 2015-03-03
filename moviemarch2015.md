@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /moviemarch2015/
-title: Movie March 2015 
+title: Movie March 2015
 description: "Films and movies for the month of March"
 tags: [Movies]
 comments: true
@@ -23,15 +23,19 @@ Throughout the month of March I will watch and reflect upon a wide assortment of
 
 ## 2. The Sound of Music
 
-3 hours! T_T
+In honor of the film's 50th year anniversary when it was first released in theaters March 2nd, 1965.
 <figure>
-	<img src="/images/moviemarch2015/soundofmusic.jpg">
+<img src="/images/moviemarch2015/soundofmusic.jpg">
+<figcaption>It's weird how you can recongnize songs from a musical you've never seen.</figcaption>
 </figure>
+
 ---
 
 ## 1. Whiplash
+
+Starting off with an Oscar nominated film for Best Picture.
 <figure>
-	<img src="/images/moviemarch2015/whiplash-1.jpg">
-	<figcaption>I loved how J.K. Simmons plays a douchebag. Real world Drumline for adults. 
-	</figcaption>
+<img src="/images/moviemarch2015/whiplash-1.jpg">
+<figcaption>I loved J.K. Simmons as a douchebag teacher in this Drumline for adults. 
+</figcaption>
 </figure>
