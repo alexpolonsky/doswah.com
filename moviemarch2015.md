@@ -17,16 +17,29 @@ comments: true
 </div>
 </section><!-- /#table-of-contents -->
 
-Throughout the month of March I will watch and reflect upon a wide assortment of films that have recently caught my interest. They will range from Oscar nods to random films anyone could stumble upon Netflix. I don't have all my movies planned, so if you have a suggestion, please comment below! 
+Throughout the month of March I will watch a wide assortment of films that have recently caught my interest and have yet to see. They will range from Oscar nods to random films anyone could stumble upon Netflix. I don't have all my movies planned, so if you have a suggestion, please comment below! 
+
+---
+
+## 3. The Interview
+
+Never has a film attracted so much geopolitical controversy. It's showtime. 
+
+<figure>
+<img src="/images/moviemarch2015/theinterview.jpg">
+<figcaption>The James Franco and Seth Rogen connection. Relationship goals. 
+</figcaption>
+</figure>
 
 ---
 
 ## 2. The Sound of Music
 
-In honor of the film's 50th year anniversary when it was first released in theaters March 2nd, 1965.
+Today marks the 50th year anniversary of this popular musical's theatrical release.
+ 
 <figure>
 <img src="/images/moviemarch2015/soundofmusic.jpg">
-<figcaption>It's weird how you can recongnize songs from a musical you've never seen.</figcaption>
+<figcaption>It's weird how you can recongnize songs from a musical you've never seen. Thanks Family Guy.</figcaption>
 </figure>
 
 ---
