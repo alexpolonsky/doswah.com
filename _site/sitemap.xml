@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://doswah.com</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://doswah.com/404.html</loc>
+        <loc>/404.html</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/about/</loc>
+        <loc>/about/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/feed.xml</loc>
+        <loc>/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/index.html</loc>
+        <loc>/index.html</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/teachyoself/</loc>
+        <loc>/teachyoself/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/links/</loc>
+        <loc>/links/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/moviemarch2015/</loc>
+        <loc>/moviemarch2015/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/posts/</loc>
+        <loc>/posts/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/sitemap.xml</loc>
+        <loc>/sitemap.xml</loc>
     </url>
     
 
     
     <url>
-        <loc>http://doswah.com/coding/assembling-an-online-trumps-game/</loc>
+        <loc>/coding/assembling-an-online-trumps-game/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/ed-sheeran-live/</loc>
+        <loc>/ed-sheeran-live/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/big-red-button/</loc>
+        <loc>/big-red-button/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/first-take-website-php-modules/</loc>
+        <loc>/first-take-website-php-modules/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/DCOM-rank/</loc>
+        <loc>/DCOM-rank/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/lanikai-pillboxes-hike/</loc>
+        <loc>/lanikai-pillboxes-hike/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/the-fault-in-our-stars/</loc>
+        <loc>/the-fault-in-our-stars/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/updating-a-jekyll-blog-on-webfaction/</loc>
+        <loc>/updating-a-jekyll-blog-on-webfaction/</loc>
     </url>
     
     <url>
-        <loc>http://doswah.com/git-hook-static-websites/</loc>
+        <loc>/git-hook-static-websites/</loc>
     </url>
     
 </urlset>

@@ -21,6 +21,18 @@ Throughout the month of March I will watch a wide assortment of films that have 
 
 ---
 
+## 4. Horrible Bosses 2
+
+Bateman, Day, and Sudekis were hillarious in *Horrible Bosses*. It's funny to me  when best friends argue and dig a hole together.
+
+<figure>
+<img src="/images/moviemarch2015/horriblebosses2.jpg">
+<figcaption>"Bend you over and show you the 50 states states" has now been used in two films. I'm all in when comedy sequels build from what made it's predecessor funny.
+</figcaption>
+</figure>
+
+---
+
 ## 3. The Interview
 
 Never has a film attracted so much geopolitical controversy. It's showtime. 
