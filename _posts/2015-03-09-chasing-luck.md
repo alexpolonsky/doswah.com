@@ -1,15 +1,9 @@
 ---
 layout: post
-title: "Chasing Luck"
-description: "ANDREW M$@(#&*@#$!%# LUCK"
-category: []
-tags: []
-image:
-  feature: 
-  credit: 
-  creditlink: 
-comments: 
-share: 
+title: Chasing Luck
+description: "ANDREW M@($#&*@#$!%# LUCK"
+comments: true
+share: true
 ---
 
 I am an huge fan of NBC's Parks and Recreation and one my favorite episodes are when Ben and his friends each do something they have always wanted to do for their bachelor's party (but didn't have an opportunity to). Andy told his friends his impossible dream is to "catch a touchdown in the Super Bowl and watch the Colts beat the Patriots 49-nothing". Then the spectacular happened:
