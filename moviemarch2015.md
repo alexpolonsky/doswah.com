@@ -37,7 +37,7 @@ Back at it again. Sign me up for anytime for a standup by the man behind Ron Swa
 
 ## Meanwhile...
 
-**5. through 9. was derailed due to Call of Duty: Advance Warfare and [Andrew Luck](/chasing-luck/). It's okay though, marathons are about finishing what you started. I admit I thought I was done four movies in, but then I was reminded that it takes a lot dedication to finish a marathon.**
+**5. through 9. was derailed due to Call of Duty: Advance Warfare and [Andrew Luck](/chasing-luck/). It's okay though, marathons are about finishing what you started. I'll admit, I thought I was done four movies in, but then I was reminded that it takes a lot dedication to finish a marathon.**
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/Doswah">@Doswah</a> I was wondering what happened. I thought you just hadn&#39;t posted 5+. Takes a lot of dedication to be this unproductive I guess haha!</p>&mdash; Chris Fang (@shake808) <a href="https://twitter.com/shake808/status/575094226620297216">March 10, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
