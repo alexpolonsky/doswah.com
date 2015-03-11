@@ -19,6 +19,28 @@ comments: true
 
 Throughout the month of March I will watch a wide assortment of films that have recently caught my interest and have yet to see. They will range from Oscar nods to random films anyone could stumble upon Netflix. I don't have all my movies planned, so if you have a suggestion, please comment below! 
 
+
+---
+
+# 10. Nick Offerman: American Ham
+
+Back at it again. Sign me up for anytime for a standup by the man behind Ron Swanson. It was his  *10 Tips For A Prosperous Life* standup and "true talk" humor at it's finest. It was a reminder of how important it is to *Paddle Your Own Canoe*.
+
+<figure>
+<img src="/images/moviemarch2015/american-ham.jpg">
+<figcaption>"When we work hard, we have earned the right to use intoxicants...It's so great to strike a balance. Beer, wine, whiskey, and the lesser spirits. Taken in the proper doses, and used safely, intoxicants can provide some of the most beautiful and joyous moments of your life. They can certainly ignite your creativity, and just be really fucking fun." Nick Offerman, you son of a bitch.
+</figcaption>
+</figure>
+
+
+---
+
+## Meanwhile...
+
+**5. through 10. was derailed due to Call of Duty: Advance Warfare and [Andrew Luck](/chasing-luck/). All was lost, but then I was reminded that it takes a lot dedication to finish a marathon.**
+
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/Doswah">@Doswah</a> I was wondering what happened. I thought you just hadn&#39;t posted 5+. Takes a lot of dedication to be this unproductive I guess haha!</p>&mdash; Chris Fang (@shake808) <a href="https://twitter.com/shake808/status/575094226620297216">March 10, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 
 ## 4. Horrible Bosses 2
