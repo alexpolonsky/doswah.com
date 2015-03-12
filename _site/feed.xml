@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Doswah</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://doswah.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://doswah.com" />
-<updated>2015-03-11T07:40:56-10:00</updated>
-<id>http://doswah.com/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2015-03-11T17:03:30-10:00</updated>
+<id>/</id>
 <author>
   <name>Joshua T. Rivera</name>
-  <uri>http://doswah.com/</uri>
+  <uri>/</uri>
   <email>doswah@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Chasing Luck]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/chasing-luck/" />
-  <id>http://doswah.com/chasing-luck</id>
+  <link rel="alternate" type="text/html" href="/chasing-luck/" />
+  <id>/chasing-luck</id>
   <published>2015-03-09T00:00:00-10:00</published>
   <updated>2015-03-09T00:00:00-10:00</updated>
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I am an huge fan of NBC’s Parks and Recreation and one my favorite episodes are when Ben and his friends each do something they have always wanted to do for their bachelor’s party (but didn’t have an opportunity to). Andy told his friends his impossible dream is to “catch a touchdown in the Super Bowl and watch the Colts beat the Patriots 49-nothing”. Then the spectacular happened:&lt;/p&gt;
@@ -53,20 +53,20 @@ The USO Tour made a stop at Pearl Harbor so &lt;a href=&quot;http://twitter.com/
 &lt;p&gt;No such thing as an impossible dream.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/chasing-luck/&quot;&gt;Chasing Luck&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on March 09, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/chasing-luck/&quot;&gt;Chasing Luck&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on March 09, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What Is Trumps?]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/coding/assembling-an-online-trumps-game/" />
-  <id>http://doswah.com/coding/assembling-an-online-trumps-game</id>
+  <link rel="alternate" type="text/html" href="/coding/assembling-an-online-trumps-game/" />
+  <id>/coding/assembling-an-online-trumps-game</id>
   <updated>2014-11-09 17:08:28 -1000T00:00:00-00:00</updated>
   <published>2014-11-09T00:00:00-10:00</published>
   
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Starting in my high school days and going through my college years, I played a card game 
@@ -294,20 +294,20 @@ how to organize a card deck in a coding viewpoint using classes. Also I will dis
 technology stack I could use for the game. I am at an early stage and have a lot to plan and 
 research. Until next time.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/coding/assembling-an-online-trumps-game/&quot;&gt;What Is Trumps?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on November 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/coding/assembling-an-online-trumps-game/&quot;&gt;What Is Trumps?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on November 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Ed Sheeran: The one-man act]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/ed-sheeran-live/" />
-  <id>http://doswah.com/ed-sheeran-live</id>
+  <link rel="alternate" type="text/html" href="/ed-sheeran-live/" />
+  <id>/ed-sheeran-live</id>
   <updated>2014-09-01 18:31:46 -1000T00:00:00-00:00</updated>
   <published>2014-09-01T00:00:00-10:00</published>
   
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;figure&gt;
@@ -367,20 +367,20 @@ from the concert of “Thinking Out Loud.” Enjoy.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;340&quot; src=&quot;//www.youtube.com/embed/USH66UfcvFE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/ed-sheeran-live/&quot;&gt;Ed Sheeran: The one-man act&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on September 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/ed-sheeran-live/&quot;&gt;Ed Sheeran: The one-man act&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on September 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why Is There Never A Big Red Button?]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/big-red-button/" />
-  <id>http://doswah.com/big-red-button</id>
+  <link rel="alternate" type="text/html" href="/big-red-button/" />
+  <id>/big-red-button</id>
   <updated>2014-08-24 19:58:26 -1000T00:00:00-00:00</updated>
   <published>2014-08-24T00:00:00-10:00</published>
   
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;We all want the obvious answer. 
@@ -432,20 +432,20 @@ whenever the big red button is pressed, I can emulate a particular mouse click. 
 &lt;p&gt;The process is pretty straight-forward. There are a lot of USB functions you could set up such as 
 mouse movement or triggering keyboard keys. The possibilites are only limited to your imagination!  I’ll post a circuit schematic and video soon.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/big-red-button/&quot;&gt;Why Is There Never A Big Red Button?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/big-red-button/&quot;&gt;Why Is There Never A Big Red Button?&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[First Take: Webpage PHP Modules]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/first-take-website-php-modules/" />
-  <id>http://doswah.com/first-take-website-php-modules</id>
+  <link rel="alternate" type="text/html" href="/first-take-website-php-modules/" />
+  <id>/first-take-website-php-modules</id>
   <updated>2014-08-09 00:31:48 -1000T00:00:00-00:00</updated>
   <published>2014-08-09T00:00:00-10:00</published>
   
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;After a few months of developing my web development skills, I slowly realized
@@ -501,20 +501,20 @@ Now to include the navigation bar in my index.php page, I just need to have:&lt;
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Remember!&lt;/strong&gt; Rename &lt;em&gt;both&lt;/em&gt; your module snippet and webpage to a .php file&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/first-take-website-php-modules/&quot;&gt;First Take: Webpage PHP Modules&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on August 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/first-take-website-php-modules/&quot;&gt;First Take: Webpage PHP Modules&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on August 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Rank 'Em:  Disney Channel Original Movies]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/DCOM-rank/" />
-  <id>http://doswah.com/DCOM-rank</id>
+  <link rel="alternate" type="text/html" href="/DCOM-rank/" />
+  <id>/DCOM-rank</id>
   <updated>2014-06-25 09:33:40 -1000T00:00:00-00:00</updated>
   <published>2014-06-25T00:00:00-10:00</published>
   
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I recently stumbled upon a &lt;a href=&quot;http://www.buzzfeed.com/jaimieetkin/the-definitive-ranking-of-disney-channel-original-movies?bffbent&quot;&gt;BuzzFeed article&lt;/a&gt; ranking all Disney Channel Original Movies. At an early age, I have been a fan of these quirky, weird, underdog characters and stories.  They are filled with self-fulfilling moments, meaningful relationships, and inspirational stories (sometimes no-brainers). Since I’m turning 24 today, I’ve compiled a list of my top 24. I haven’t watched all the DCOMs so if you think I’m missing something from this list or got it wrong, please let me know in the comments below!&lt;/p&gt;
@@ -760,20 +760,20 @@ Soul Skating: skateing for the fun of it and not for the money. This was the fir
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/DCOM-rank/&quot;&gt;Rank 'Em:  Disney Channel Original Movies&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on June 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/DCOM-rank/&quot;&gt;Rank 'Em:  Disney Channel Original Movies&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on June 25, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Lanikai Pillboxes Hike]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/lanikai-pillboxes-hike/" />
-  <id>http://doswah.com/lanikai-pillboxes-hike</id>
+  <link rel="alternate" type="text/html" href="/lanikai-pillboxes-hike/" />
+  <id>/lanikai-pillboxes-hike</id>
   <updated>2014-06-12 15:04:55 -1000T00:00:00-00:00</updated>
   <published>2014-06-12T00:00:00-10:00</published>
   
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I recently completed the Lanikai Pillbox hike for the first time with Rachel. Here’s to completing more hikes this summer!
@@ -781,20 +781,20 @@ Soul Skating: skateing for the fun of it and not for the money. This was the fir
 &lt;a href=&quot;http://hike2grind.com/?p=44&quot;&gt;Visit my Hike2Grind post to view my experience&lt;/a&gt;.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/lanikai-pillboxes-hike/&quot;&gt;Lanikai Pillboxes Hike&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on June 12, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lanikai-pillboxes-hike/&quot;&gt;Lanikai Pillboxes Hike&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on June 12, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Fault In Our Stars: Metaphors and Misery]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/the-fault-in-our-stars/" />
-  <id>http://doswah.com/the-fault-in-our-stars</id>
+  <link rel="alternate" type="text/html" href="/the-fault-in-our-stars/" />
+  <id>/the-fault-in-our-stars</id>
   <updated>2014-06-07 23:46:33 -1000T00:00:00-00:00</updated>
   <published>2014-06-07T00:00:00-10:00</published>
   
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;!-- Table of Contents
@@ -809,7 +809,7 @@ Soul Skating: skateing for the fun of it and not for the money. This was the fir
 &lt;/section&gt; 
 --&gt;
 
-&lt;p class=&quot;image-pull-left&quot;&gt;&lt;img src=&quot;http://doswah.com/images/TFIOS/fault-in-our-stars-poster.jpg&quot; alt=&quot;MoviePoster&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-pull-left&quot;&gt;&lt;img src=&quot;/images/TFIOS/fault-in-our-stars-poster.jpg&quot; alt=&quot;MoviePoster&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
 I recently watched the &lt;em&gt;The Fault In Our Stars&lt;/em&gt; with my friends on opening night and I decided to write my reactions. The film stars Shailene Woodley and Ansel Elgort as the teenage duo Hazel Lancaster and Augustus (Gus) Waters. This highly anticipated book-to-film adaptation is a fresh installment that stands out in a plethora of romantic dramas over the years. One thing is for sure, the film’s tagline lives up it’s name. This definitely &lt;em&gt;one sick love story.&lt;/em&gt;&lt;/p&gt;
 
@@ -823,7 +823,7 @@ I recently watched the &lt;em&gt;The Fault In Our Stars&lt;/em&gt; with my frien
   &lt;p&gt;Hazel and Gus are two teenagers who share an acerbic wit, a disdain for the conventional, and a love that sweeps them on a journey. Their relationship is all the more miraculous given that Hazel has another other constant companion: an oxygen tank, Gus jokes about his prosthetic leg, and they met and fell in love at a cancer support group.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p class=&quot;image-pull-left&quot;&gt;&lt;img src=&quot;http://doswah.com/images/TFIOS/fault-in-our-stars-swingset.jpg&quot; alt=&quot;Swingset&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-pull-left&quot;&gt;&lt;img src=&quot;/images/TFIOS/fault-in-our-stars-swingset.jpg&quot; alt=&quot;Swingset&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;all-the-feels&quot;&gt;All The Feels&lt;/h3&gt;
 
@@ -835,7 +835,7 @@ Back to my missing back story thought. In the unraveling of a romance between a 
 &lt;br /&gt;&lt;br /&gt;
 The film works with light-hearted and entertaining scenes (&lt;em&gt;the virgin venn diagram XD&lt;/em&gt;). Nonetheless, the moments that hit you were the enlightening character growth: Hazel handling with herself when she meets her favorite author, Hazel’s parents making their future life plans, and Augustus helping his friend Isaac in impactful way.
 &lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://doswah.com/images/TFIOS/dinner.jpg&quot; alt=&quot;Dinner&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/TFIOS/dinner.jpg&quot; alt=&quot;Dinner&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;the-verdict&quot;&gt;The Verdict&lt;/h3&gt;
 
@@ -858,7 +858,7 @@ The film works with light-hearted and entertaining scenes (&lt;em&gt;the virgin 
 &lt;h3 id=&quot;metaphors&quot;&gt;1. Metaphors&lt;/h3&gt;
 &lt;p class=&quot;image-pull-left&quot;&gt;Within the first few scenes, you meet Augustus Waters. Shortly after getting Hazel to watch a movie with him, Gus places a cigarette in his mouth much to Hazel’s disgust. He tells her &lt;em&gt;“It’s a metaphor, see. You put the killing thing right between your teeth but you don’t give it the power to do it’s killing.”&lt;/em&gt;
 &lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://doswah.com/images/TFIOS/metaphor.jpg&quot; alt=&quot;Metaphor&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/TFIOS/metaphor.jpg&quot; alt=&quot;Metaphor&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
 This was a way for Gus to tell himself that he has control over his fate (up to a certain extent). We all have control over our fate to a certain degree. I found this powerful because our attitude toward of life can make the biggest of impacts. Metaphors give us the positive power to things just by looking at something in a creative way. Personally, I keep mementos to remind myself of people and events that changed me and remind me to do good. &lt;/p&gt;
 
@@ -883,20 +883,20 @@ So. We can choose to wish we have more numbers or we can perceive a set feel lik
 Augusts’ character uncovered that such great heights are fulfilling. Unfortunately they involve persistent courage and an outrageous amount of thought, hence, why Augusts Waters is a character in a book. Though fictional, anyone can collect what made him inspiration to living a quality way to live our lives.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/the-fault-in-our-stars/&quot;&gt;The Fault In Our Stars: Metaphors and Misery&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on June 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/the-fault-in-our-stars/&quot;&gt;The Fault In Our Stars: Metaphors and Misery&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on June 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Updating a Jekyll Blog on Webfaction]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/updating-a-jekyll-blog-on-webfaction/" />
-  <id>http://doswah.com/updating-a-jekyll-blog-on-webfaction</id>
+  <link rel="alternate" type="text/html" href="/updating-a-jekyll-blog-on-webfaction/" />
+  <id>/updating-a-jekyll-blog-on-webfaction</id>
   <updated>2014-06-02 12:26:59 -1000T00:00:00-00:00</updated>
   <published>2014-06-02T00:00:00-10:00</published>
   
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;After assembling &lt;a href=&quot;http://joshuatrivera.com&quot;&gt;joshuatrivera.com&lt;/a&gt; I figured it would be a good idea to figure out the best way to operate a blogging site using a git hook like in my &lt;a href=&quot;http://doswha.com/git-hook-static-websites&quot;&gt;earlier post&lt;/a&gt;.
@@ -948,19 +948,19 @@ $ vi post-update&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 $ git push doswah&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/updating-a-jekyll-blog-on-webfaction/&quot;&gt;Updating a Jekyll Blog on Webfaction&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/updating-a-jekyll-blog-on-webfaction/&quot;&gt;Updating a Jekyll Blog on Webfaction&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Using a Git Hook for Deploying Static Websites]]></title>
-  <link rel="alternate" type="text/html" href="http://doswah.com/git-hook-static-websites/" />
-  <id>http://doswah.com/git-hook-static-websites</id>
+  <link rel="alternate" type="text/html" href="/git-hook-static-websites/" />
+  <id>/git-hook-static-websites</id>
   <published>2014-05-09T00:00:00-10:00</published>
   <updated>2014-05-09T00:00:00-10:00</updated>
   <author>
     <name>Joshua T. Rivera</name>
-    <uri>http://doswah.com</uri>
+    <uri></uri>
     <email>doswah@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Having &lt;a href=&quot;http://blog.kennyluong.com&quot;&gt;Kenny&lt;/a&gt; tell me about his ability to make local edits to his personal websites and remotely push his changes to his Webfaction server through git, I thought I would give it a try for my &lt;a href=&quot;http://joshuatrivera.com&quot;&gt;personal website&lt;/a&gt;. With help from &lt;a href=&quot;http://toroid.org/ams/git-website-howto&quot;&gt;Totoid&lt;/a&gt;, I was able to implement this time-saving tool to make git pushes into a remote repository with a detached work tree where a &lt;i&gt;post-receive&lt;/i&gt; hook runs a &lt;code&gt;git checkout -f&lt;/code&gt;.&lt;/p&gt;
@@ -1032,7 +1032,7 @@ $ git push joshuatrivera +master:refs/heads/master&lt;/code&gt;&lt;/pre&gt;&lt;/
 $ git push -u origin master&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://doswah.com/git-hook-static-websites/&quot;&gt;Using a Git Hook for Deploying Static Websites&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;http://doswah.com&quot;&gt;Doswah&lt;/a&gt; on May 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/git-hook-static-websites/&quot;&gt;Using a Git Hook for Deploying Static Websites&lt;/a&gt; was originally published by Joshua T. Rivera at &lt;a href=&quot;&quot;&gt;Doswah&lt;/a&gt; on May 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
