@@ -10,7 +10,7 @@ comments: true
 
 <br><br>
 
-##Computer Engineering Graduate<br<br>Class of 2014
+##Computer Engineering Graduate<br><br>Class of 2014
 
 <br><br>
 
