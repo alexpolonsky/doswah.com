@@ -25,7 +25,7 @@ comments: true
 <br><br><br><br>
 
 # Having Fun With People
-<img src="/images/ieee/icecream.jpg"><br><br><br><br><br>
+<img src="/images/ieee/icecream.JPG"><br><br><br><br><br>
 <img src="/images/ieee/papaisky.jpg"><br><br><br><br><br>
 <img src="/images/ieee/tailgate.jpg"><br><br><br><br><br>
 <img src="/images/ieee/4.jpg"><br><br><br><br><br>
