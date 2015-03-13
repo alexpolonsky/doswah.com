@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /moviemarch2015/
+permalink: /mm15/
 title: Movie March 2015
 description: "Films and movies for the month of March"
 tags: [Movies]
@@ -17,13 +17,24 @@ comments: true
 </div>
 </section><!-- /#table-of-contents -->
 
-Throughout the month of March I will watch a wide assortment of films that have recently caught my interest and have yet to see. They will range from Oscar nods to random films anyone could stumble upon Netflix. I don't have all my movies planned, so if you have a suggestion, please comment below! 
+Throughout this month I aspire to watch a variety of films that attract me. They can range from Oscar nods, indie rom-coms, or pracically anything you could stumble upon Netflix. Huge nod to [Chris Fang](http://www.twitter.com/shake808) for inspiring me with his movie marathon. 
+
+---
+
+# 12. Laggies
+
+An awesome experience to watch a coming-of-age romcom under the stars at a HIFF showing at the Ward Village Courtyard Cinema. Even more awesome, the film's director [Lynn Shelton](http://twitter.com/lynnsheltonfilm) attended to answer questions about the film's title and her story on how she became a filmmaker.
+
+<figure>
+<img src="/images/moviemarch2015/laggies.jpg">
+<figcaption>Rule #2: You can't keep putting aside what you want for some imaginary future. You've gotta suck it up and go with you gut.</figcaption>
+</figure>
 
 ---
 
 # 11. The Lost Thing
 
-Winner of the Best Short Animation Film Oscar in 2011.
+Winner of the Best Short Animation Film Oscar in 2011. To be honest, I got home late, so yes, I decided to watch a 15-minue short film so I could catch up on sleep.
 
 <figure>
 <img src="/images/moviemarch2015/thelostthing.jpg">
