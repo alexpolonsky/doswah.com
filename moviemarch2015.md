@@ -23,7 +23,7 @@ Throughout this month I aspire to watch a variety of films that attract me. They
 
 # 12. Laggies
 
-An awesome experience to watch a coming-of-age romcom under the stars at a HIFF showing at the Ward Village Courtyard Cinema. Even more awesome, the film's director [Lynn Shelton](http://twitter.com/lynnsheltonfilm) attended to answer questions about the film's title and her story on how she became a filmmaker.
+I had an amazing experience watching this coming-of-age romcom under the stars at the Ward Village Courtyard Cinema in partnership with HIFF. What was even more amazing was that the film's director [Lynn Shelton](http://twitter.com/lynnsheltonfilm) attended the showing to answer questions about the film's title and her story on how she became a filmmaker.
 
 <figure>
 <img src="/images/moviemarch2015/laggies.jpg">
