@@ -21,6 +21,16 @@ Throughout this month I aspire to watch a variety of films that attract me. They
 
 ---
 
+# 13. Penguins of Madagascar
+
+Benedict Cumberbatch can't say [Penguins](http://www.youtube.com/watch?v=-GnLDJAgrwsi)
+
+<figure>
+<img src="/images/moviemarch2015/penguins.jpg">
+<figcaption>He says peng-wing.</figcaption>
+</figure>
+---
+
 # 12. Laggies
 
 I had an amazing experience watching this coming-of-age romcom under the stars at the Ward Village Courtyard Cinema in partnership with HIFF. What was even more amazing was that the film's director [Lynn Shelton](http://twitter.com/lynnsheltonfilm) attended the showing to answer questions about the film's title and her story on how she became a filmmaker.
