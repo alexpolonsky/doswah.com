@@ -21,6 +21,17 @@ Throughout this month I aspire to watch a variety of films that attract me. They
 
 ---
 
+# 14. The Imitation Game 
+
+A drama about Alan Turing staring the [thinking man's crumpet](http://en.wikipedia.org/wiki/Thinking_man%27s/woman%27s_crumpet) and the amazing Keira Knightly. Happy Pi Day to the founder of computer science. 
+
+<figure>
+<img src="/images/moviemarch2015/imitationgame.jpg">
+<figcaption>"Sometimes it is the people no one imagines anything of who do the things that no one can imagine."</figcaption>
+</figure>
+
+---
+
 # 13. Penguins of Madagascar
 
 Benedict Cumberbatch can't say [Penguins](http://www.youtube.com/watch?v=-GnLDJAgrwsi)
@@ -29,6 +40,7 @@ Benedict Cumberbatch can't say [Penguins](http://www.youtube.com/watch?v=-GnLDJA
 <img src="/images/moviemarch2015/penguins.jpg">
 <figcaption>He says peng-wing.</figcaption>
 </figure>
+
 ---
 
 # 12. Laggies
