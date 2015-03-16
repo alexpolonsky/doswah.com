@@ -21,9 +21,20 @@ Throughout this month I aspire to watch a variety of films that attract me. They
 
 ---
 
+# 15. Song One 
+
+A music-driven indie with Anne Hathaway.
+
+<figure>
+<img src="/images/moviemarch2015/songone.jpg">
+<figcaption>We all live in a world of songs and lyrics.</figcaption>
+</figure>
+
+---
+
 # 14. The Imitation Game 
 
-A drama about Alan Turing staring the [thinking man's crumpet](http://en.wikipedia.org/wiki/Thinking_man%27s/woman%27s_crumpet) and the amazing Keira Knightly. Happy Pi Day to the founder of computer science. 
+A drama about Alan Turing staring the [thinking woman's crumpet](http://en.wikipedia.org/wiki/Thinking_man%27s/woman%27s_crumpet) and the amazing Keira Knightly. Happy Pi Day to the founder of computer science. 
 
 <figure>
 <img src="/images/moviemarch2015/imitationgame.jpg">
