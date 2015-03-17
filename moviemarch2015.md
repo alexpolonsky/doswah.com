@@ -23,7 +23,7 @@ Throughout this month I aspire to watch a variety of films that attract me. They
 
 # 16. Top Five 
 
-It's been a while since I had a Chris Rock made me laugh since *The Longest Yard* and *Head of State*.
+It's been a while since Chris Rock made me laugh in *The Longest Yard* and *Head of State*.
 
 <figure>
 <img src="/images/moviemarch2015/topfive.jpg">
