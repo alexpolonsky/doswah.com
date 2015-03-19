@@ -1,8 +1,8 @@
 title:           Doswah
 description:     We're all going to be stores in the end, so make it a great one.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:
-url: 		 http://doswah.com
+url:
+#url: 		 http://doswah.com
 disqus_shortname: doswah
 
 # Owner/author information

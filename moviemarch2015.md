@@ -19,6 +19,29 @@ comments: true
 
 Throughout this month I aspire to watch a variety of films that attract me. They can range from Oscar nods, indie rom-coms, or pracically anything you could stumble upon Netflix. Huge nod to [Chris Fang](http://www.twitter.com/shake808) for inspiring me with his movie marathon. 
 
+
+---
+
+# 18. Flash and Arrow
+
+After a month hiatus, possibly the two greatest TV superhero shows in recent memory make a huge comeback.
+
+<figure>
+<img src="/images/moviemarch2015/flash-arrow.jpg">
+<figcaption>Reverse-Flash and Ra's Al Ghul storylines has nothing on the Barry-Linda-Iris-Eddie bowling drama.</figcaption>
+</figure>
+
+---
+
+# 17. Community: Age of Yahoo!
+
+Let's hope Season 6 keeps the meta going strong. #SixSeasonsAndAMovie
+
+<figure>
+<img src="/images/moviemarch2015/community.jpg">
+<figcaption>Montages are great. Community parady montages are even better.</figcaption>
+</figure>
+
 ---
 
 # 16. Top Five 
