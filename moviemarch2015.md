@@ -22,6 +22,17 @@ Throughout this month I aspire to watch a variety of films that attract me. They
 
 ---
 
+# 24. Playing It Cool
+
+A story about writer who writes a rom-com and along the way realizes that there are people in life who are so important that they dwarf everything else.
+
+<figure>
+<img src="/images/moviemarch2015/playingitcool.jpg">
+<figcaption>Love is like your 401k, it matches your investment, you love a little, you're loved a little.</figcaption>
+</figure>
+
+---
+
 # 18. Flash and Arrow
 
 After a month hiatus, possibly the two greatest TV superhero shows in recent memory make a huge comeback.
