@@ -18,9 +18,11 @@ comments: true
 </section><!-- /#table-of-contents -->
 
 
+15 movies in 31 days. It's a new personal record. Time for a montage.
+
 <iframe width="560" height="340" src="//www.youtube.com/embed/N8rvFCLsgZw" frameborder="0" allowfullscreen></iframe>
 <br>
-Throughout this month I aspire to watch a variety of films that attract me. They can range from Oscar nods, indie rom-coms, or pracically anything you could stumble upon Netflix. Huge nod to [Chris Fang](http://www.twitter.com/shake808) for inspiring me with his movie marathon. 
+Throughout this month I aspired to watch a variety of films ranging from Oscar nods to indie rom-coms. Huge nod to [Chris Fang](http://www.twitter.com/shake808) for inspiring me with his movie marathon. 
 
 ---
 
