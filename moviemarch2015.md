@@ -17,8 +17,43 @@ comments: true
 </div>
 </section><!-- /#table-of-contents -->
 
+
+<iframe width="560" height="340" src="//www.youtube.com/embed/N8rvFCLsgZw" frameborder="0" allowfullscreen></iframe>
+<br>
 Throughout this month I aspire to watch a variety of films that attract me. They can range from Oscar nods, indie rom-coms, or pracically anything you could stumble upon Netflix. Huge nod to [Chris Fang](http://www.twitter.com/shake808) for inspiring me with his movie marathon. 
 
+---
+
+# 31. What If
+
+It's not a Harry Potter rom-com, but this will do.
+
+<figure>
+<img src="/images/moviemarch2015/whatif.jpg">
+<figcaption>Assume we're all hopeless romantics. It's very easy to be cynical about love.</figcaption>
+</figure>
+
+---
+
+# 30. Harmontown
+
+Dan Harmon is the mad-scientist who created *Community* and *Rick and Morty*.
+
+<figure>
+<img src="/images/moviemarch2015/harmontown.jpg">
+<figcaption>A glance on how Dan Harmon's work speak to the outsiders of society.</figcaption>
+</figure>
+
+---
+
+# 29. The Book of Life
+
+There's a game called *Guacamelee! Super Turbo Championship Edition*, that uses a similar art to tell a story about the underworld. Oh and the film's trailer was pretty good.
+
+<figure>
+<img src="/images/moviemarch2015/thebookoflife.jpg">
+<figcaption>"Always play from the heart" she said. Oh Maria.</figcaption>
+</figure>
 
 ---
 
