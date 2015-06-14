@@ -22,19 +22,15 @@
     </url>
     
     <url>
-        <loc>/index.html</loc>
-    </url>
-    
-    <url>
         <loc>/teachyoself/</loc>
     </url>
     
     <url>
-        <loc>/links/</loc>
+        <loc>/index.html</loc>
     </url>
     
     <url>
-        <loc>/mm15/</loc>
+        <loc>/links/</loc>
     </url>
     
     <url>
@@ -46,6 +42,10 @@
     </url>
     
 
+    
+    <url>
+        <loc>/movies/movie-march-2015/</loc>
+    </url>
     
     <url>
         <loc>/chasing-luck/</loc>

@@ -12,17 +12,8 @@ image:
   creditlink:
 ---
 
-I live my life as a combination of characters from NBC's *Park and Recreation*.
-<br><br>
-<img src="/images/about/parksandrec/pr1.jpg">
-<img src="/images/about/parksandrec/pr2.jpg">
-<img src="/images/about/parksandrec/pr3.jpg">
-<img src="/images/about/parksandrec/pr4.jpg">
-<img src="/images/about/parksandrec/pr5.jpg">
-<img src="/images/about/parksandrec/pr6.jpg">
-<img src="/images/about/parksandrec/pr7.jpg">
-<img src="/images/about/parksandrec/pr8.jpg">
-<img src="/images/about/parksandrec/pr9.jpg">
-<img src="/images/about/parksandrec/pr10.jpg">
-<br><br>
-Images from [r-grimes.tumblr.com](http://r-grimes.tumblr.com)
+<figure>
+	<img src="/images/ieee/papaisky.jpg">
+</figure>
+
+Born and raised in Hawaii, I graduated with a BS in Computer Engineering from the University of Hawaii at Manoa. In 2015, I packed up my bags and moved to Seattle, Washington to work as a Software Test Engineer at Microsoft. I am a fan of technology and innovative user experiences; involving myself in the development of devices, applications, and media for visual and creative communication. 

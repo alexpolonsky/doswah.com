@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Is Trumps?"
+title: "Let's Talk Trumps"
 modified: 2014-11-09 17:08:28 -1000
 description: "Re-creating the classic card game."
 category: [Coding]

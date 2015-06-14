@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chasing Luck
-description: "ANDREW M@($#&*@#$!%# LUCK"
+description: "I'm a big fan, Mr. Luck"
 comments: true
 share: true
 ---
