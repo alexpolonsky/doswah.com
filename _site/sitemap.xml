@@ -22,11 +22,15 @@
     </url>
     
     <url>
+        <loc>/index.html</loc>
+    </url>
+    
+    <url>
         <loc>/teachyoself/</loc>
     </url>
     
     <url>
-        <loc>/index.html</loc>
+        <loc>/100cups/</loc>
     </url>
     
     <url>
@@ -42,6 +46,10 @@
     </url>
     
 
+    
+    <url>
+        <loc>/comic-con-2015-2/</loc>
+    </url>
     
     <url>
         <loc>/comic-con-2015/</loc>
