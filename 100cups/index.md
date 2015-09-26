@@ -22,12 +22,12 @@ I moved to Washington - home of large coffee chains and coffee shops that dedica
 
 # 3
 
-<img src="/images/100cups/3.png"><br>
+<img src="/images/100cups/3.png" style="width:100%"><br>
 Downpour latte.
 
 # 2
 
-<img src="/images/100cups/2.png"><br>
+<img src="/images/100cups/2.png" style="width:100%"><br>
 Early morning at work.
 
 
