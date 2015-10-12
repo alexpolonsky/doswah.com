@@ -6,6 +6,8 @@ tagline: A List of Posts
 tags: [coffee]
 ---
 
+<img src="../images/100cups/100cups.png" style="width:100%">
+
 <section id="table-of-contents" class="toc">
   <header>
     <h3>Cups</h3>
@@ -16,9 +18,7 @@ tags: [coffee]
 </div>
 </section><!-- /#table-of-contents -->
 
-Coffee prepares me for whatever happens next.
-<br><br>
-I moved to Washington - home of large coffee chains and coffee shops that dedicate themselves to the craft of coffee. Welcome to #100cupsofcoffee
+Washington is home to large coffee chains and coffee shops that dedicate themselves to the craft of coffee. This is based on a challenge I saw <a href="http://www.thenerdygirlie.com/p/100cupsofcoffee_22.html">thenerdiegirlie</a> do on her Instagram and the evident fact: I love coffee. #100cupsofcoffee
 
 
 # 19 
