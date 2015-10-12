@@ -2,8 +2,7 @@
 layout: post
 title: "Makapu'u Lighthouse: Aftercred"
 modified: 2015-10-19 20:16:12 -0700
-category: []
-tags: []
+
 description: "Hawaiian skills are everything."
 image: 
   feature:
