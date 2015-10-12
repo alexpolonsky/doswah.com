@@ -40,7 +40,7 @@ links:
     url: /about/
   - title: Posts 
     url: /posts/
-  - title: #100CupsOfCoffee
+  - title: "#100CupsOfCoffee"
     url: /100cups/  
     external: true
 
