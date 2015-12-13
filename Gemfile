@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'pygments.rb'
 gem 'jekyll'
 gem 'kramdown'
 gem 'coderay'

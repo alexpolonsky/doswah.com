@@ -91,9 +91,7 @@
 		        
 				<li><a href="/about/" >About</a></li>
 		        
-				<li><a href="/posts/" >Posts</a></li>
-		        
-				<li><a href="/100cups/" target="_blank">#100CupsOfCoffee</a></li>
+				<li><a href="/posts/" target="_blank">Blog</a></li>
 		        
 		    </ul>
 		</nav>
@@ -137,12 +135,12 @@
 
 <p>First I created a local respository titled <code>joshuatrivera</code> and initalized a git repository with a <code>index.html</code> file.</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">$ mkdir joshuatrivera 
+<figure class="highlight"><pre><code class="language-html" data-lang="html">$ mkdir joshuatrivera 
 $ cd joshuatrivera
 $ git init
 $ echo &quot;Hello, world!&quot; &gt; index.html
 $ git add index.html
-$ git commit -m &quot;First commit&quot;</code></pre></div>
+$ git commit -m &quot;First commit&quot;</code></pre></figure>
 
 <h3 id="performing-the-web-host-setup">Performing the Web Host Setup</h3>
 
@@ -156,31 +154,36 @@ $ git commit -m &quot;First commit&quot;</code></pre></div>
 
 <p>When I ssh into my WebFaction and visit the <code>webapps</code> folder,  I see the two applications I created <code>Git</code> and <code>joshuatrivera</code>. Then I created a bare .git folder within the git app to generate the post-receive files used to update files in <code>joshuatrivera</code>.</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">$ cd git/repos
+<figure class="highlight"><pre><code class="language-html" data-lang="html">$ cd git/repos
 $ mkdir joshuatrivera.git 
 $ cd joshuatrivera.git
-$ git init --bare</code></pre></div>
+$ git init --bare
+    </code></pre></figure>
 
 <p>This creates the necessary files and folders for our git setup. Inside the <code>joshuatrivera.git</code> folder we just created, there is a <code>hooks</code> folder where you will create a file named <code>post-receive</code> where the scripts will go.</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">$ cd hooks
-$ vi post-receive</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">$ cd hooks
+$ vi post-receive
+    </code></pre></figure>
 
 <p>I added these lines in the <code>post-receive</code> file I just created and opened</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="lineno">1</span> #!/bin/sh
-<span class="lineno">2</span> GIT_WORK_TREE=/path/to/webapp git checkout -f master</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="lineno">1</span>     #!/bin/sh
+<span class="lineno">2</span> GIT_WORK_TREE=/path/to/webapp git checkout -f master
+<span class="lineno">3</span>     </code></pre></figure>
 
 <p>For my case, <code>path/to/webapp</code> for me was <code>/home/doswah/webapps/joshuatrivera</code>. Then I needed to provide the necessary permissions so the post-receive script can write to the appropriate file. So after creating the <code>post-receive</code> file, type</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">$ chmod +x post-receive</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">    $ chmod +x post-receive
+    </code></pre></figure>
 
 <h3 id="connect-to-post-receive-file-through-ssh">Connect To Post-Receive File Through SSH</h3>
 
 <p>After that setup in our WebFaction setup, now we need to create the functionality I wanted on my local machine. I created a remote to the .git repository I made in WebFaction.</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">$ git remote add joshuatrivera ssh://<span class="nt">&lt;webfaction_login&gt;</span>/home/doswah/webapps/git/repos/joshuatrivera.git
-$ git push joshuatrivera +master:refs/heads/master</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">    $ git remote add joshuatrivera ssh://<span class="nt">&lt;webfaction_login&gt;</span>/home/doswah/webapps/git/repos/joshuatrivera.git
+$ git push joshuatrivera +master:refs/heads/master
+    </code></pre></figure>
 
 <p>In my case, my <code>&lt;webfaction_login&gt;</code> is <code>doswah@web351.webfaction.com</code> . Now the files I push through the git push command will appear in the <code>joshuatrivera</code> application.</p>
 
@@ -188,7 +191,8 @@ $ git push joshuatrivera +master:refs/heads/master</code></pre></div>
 
 <p>Finally. Now when I make changes on my local machine, to update this to the WebFaction server I can just run</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">$ git push joshuatrivera</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">    $ git push joshuatrivera
+    </code></pre></figure>
 
 <p>This transfers any pushed commits from my local repository where the <code>post-receive</code> hook will update <code>joshuatrivera</code> for me!</p>
 
@@ -196,8 +200,9 @@ $ git push joshuatrivera +master:refs/heads/master</code></pre></div>
 
 <p>I then setup a GitHub repository then added a remote. Since I created a commit already, I made a commit to the master.</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">$ git remote add origin git@github.com:Doswah/joshuatrivera.com.git
-$ git push -u origin master</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">$ git remote add origin git@github.com:Doswah/joshuatrivera.com.git
+$ git push -u origin master
+    </code></pre></figure>
 
 
       <hr />
@@ -237,11 +242,11 @@ $ git push -u origin master</code></pre></div>
   <h4>You might also enjoy <small class="pull-right">(<a href="/posts/">View all posts</a>)</small></h4>
     <ul>
     
+      <li><a href="/indy-damn-good-steak-and-football/" title="Indy 2015: St. Elmo &amp; Lucas Oil">Indy 2015: St. Elmo &amp; Lucas Oil</a></li>
+    
       <li><a href="/makapuu-lighthouse-aftercred/" title="Makapu'u Lighthouse: Aftercred">Makapu'u Lighthouse: Aftercred</a></li>
     
       <li><a href="/comic-con-2015-aftercred/" title="Comic Con 2015: Aftercred">Comic Con 2015: Aftercred</a></li>
-    
-      <li><a href="/comic-con-2015-2/" title="Comic Con 2015: Part 2">Comic Con 2015: Part 2</a></li>
     
     </ul>
     <hr />
