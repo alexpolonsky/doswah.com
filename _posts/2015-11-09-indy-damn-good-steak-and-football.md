@@ -10,7 +10,7 @@ image:
   credit: 
   creditlink: 
 comments: true
-share: 
+share: true
 ---
 
 Four guys ventured to Indianapolis, Indiana to embark on a weekend of food and football. Week 9 of the NFL. The Denver Broncos at the Indianapolis Colts. Josh, Jake, Karlo, and Damo - a Bronco fan, Colts fan, Eagles fan, and the guy who promised the Colts guy tickets.

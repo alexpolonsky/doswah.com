@@ -1,8 +1,8 @@
 title:           Doswah
 description:     Let's see how high this rocket can fly.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:
-#url: 		 http://doswah.com
+#url:
+url: 		 http://doswah.com
 disqus_shortname: doswah
 
 # Owner/author information
