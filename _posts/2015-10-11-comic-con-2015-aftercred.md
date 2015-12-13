@@ -11,13 +11,13 @@ image:
 comments: true
 share: true
 ---
-
-Here's a compilation of video shots I took at Comic Con this year along to <i>Seven Nation Army</i> performed by The White Stripes.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uyp03IPZq1o" frameborder="0" allowfullscreen></iframe>
-
 <br>
 <a href="/comic-con-2015">Comic Con: Part 1</a>
 <br><br>
 <a href="/comic-con-2015-2">Comic Con: Part 2</a>
+
+<br>Here's a compilation of video shots I took at Comic Con this year along to <i>Seven Nation Army</i> performed by The White Stripes.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uyp03IPZq1o" frameborder="0" allowfullscreen></iframe>
+

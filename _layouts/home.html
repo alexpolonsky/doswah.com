@@ -36,8 +36,18 @@
 
 <div id="index">
    <!-- <a href="../100cups/"><img src="../images/100cups/100cups.png" style="width:85%"></a> -->
+
+<h3><a href="{{ site.url}}/posts/">Latest Adventure</a></h3>
+<figure>
+  <a href="/indy-damn-good-steak-and-football/">
+  <img src="/images/home/indy.png" style="max-width:100%; max-height:100">
+  </a>
+  </a>
+</figure>
+
+<!--
   <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-  {% for post in site.posts limit:6 %}    
+  {% for post in site.posts limit:3 %}    
   <article>
     {% if post.link %}
       <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="icon-link"></i></h2>
@@ -46,8 +56,8 @@
       <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
     {% endif %}
   </article>
-  {% endfor %}
-</div><!-- /#index -->
+  {% endfor %} /#index -->
+</div>
 
 <div class="footer-wrap">
   <footer>

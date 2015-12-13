@@ -41,8 +41,10 @@ links:
   - title: Blog 
     url: /posts/
   #- title: "#100CupsOfCoffee"
-  #  url: /100cups/  
-    external: true
+  #  url: /100cups/
+  - title: Resume
+    url: /resume/
+  #  external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Pacific/Honolulu

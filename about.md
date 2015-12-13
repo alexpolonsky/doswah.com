@@ -11,13 +11,15 @@ image:
   credit: 
   creditlink:
 ---
+**dos·wah**
+<br>[doss waah]<br>
+*NOUN*<br><br>
+   1. The name Joshua pronounced by in a filipino accent. <br>2. A state of mind.
 
-<!-- <figure>
-	<figure class="third">
-	<img src="/images/about/aloha.png">
-	<img src="/images/about/oyster.png">
-	<img src="/images/about/tardis.png">
-</figure>
--->
+<hr>
 
-Born and raised in Hawaii, I graduated with a BS in Computer Engineering from the University of Hawaii at Manoa. In 2015, I packed up my bags and moved to Seattle, Washington to work as a Software Test Engineer at Microsoft.
+Born and raised in Hawaii. In 2015, I packed up my bags and moved to Redmond, Washington to work as a Software Test Engineer at Microsoft. 
+<br><br>
+Using TV show quotes and song lyrics daily to navigate life.
+
+
