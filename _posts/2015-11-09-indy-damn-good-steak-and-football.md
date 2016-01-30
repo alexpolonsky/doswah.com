@@ -46,8 +46,9 @@ This city was spacious and rich in government buildings and historic monuments. 
 </figure>
 
 As an avid fan of NBC's Parks and Recreation, a trip to to Indy would only feel complete if we dined at St. Elmo's Steakhouse. Dudes night out - it's what you do.
-
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Ds2bwPAuP0" frameborder="0" allowfullscreen></iframe>
+</figure>
 <figure>
 	<img src="/images/indy-2015/stelmos-1.png">
 </figure>
