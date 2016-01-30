@@ -13,7 +13,7 @@ AFC Championship: Manning vs. Brady
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="/doswah/videos/vb.606927949/10153531720282950/?type=3"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/doswah/videos/10153531720282950/"><a href="https://www.facebook.com/doswah/videos/10153531720282950/"></a><p>Cheering and agonizing with thousands of fans as the Broncos punched their ticket to the Super Bowl. Feeling like I was where I needed to be. Climb the mountain so you can see the world. #broncos #onto50 #unitedinorange #broncoscountryplayoffs</p>Posted by <a href="https://www.facebook.com/doswah">Joshua T. Rivera</a> on Saturday, January 30, 2016</blockquote></div></div>
 <br><br>
-The matchup that has sent shivers down my sign for years. The team my heart has tirelessly rooted for since the start of my love for football (which is a story for another day) was labeled as underdogs to the titan New England Patriots. Being in the pacific northwest, I've never been closer to watching a Broncos home game in Denver. It crossed my mind it may very will be last year of conference championships, home-field advantages, and "Omahas!". The window was closing as many know: the carousel of NFL dominance does not come so easily.
+The matchup that has sent shivers down my sign for years. The team my heart has tirelessly rooted for since the start of my love for football (which is a story for another day) was labeled as underdogs to the titan New England Patriots. Being in the pacific northwest, I've never been closer to watching a Broncos home game in Denver. It crossed my mind it may very well be last year of conference championships, home-field advantages, and "Omahas!". The window was closing and as many know: the carousel of NFL dominance does not come so easily.
 <figure>
 	<img src="/images/onto50/flight.png">
 </figure>
@@ -43,7 +43,7 @@ Shiloh Keo recovers on the 38.
 <figure>
 	<img src="/images/onto50/confetti.png">
 </figure>
-Orange, blue, and white confetti filled the sky. I was a mile high - feeling on top the world. To be part of something so magical, so pleasing justified making this journey. Pat Bowlen, Broncos owner stepped down from CEO because he was underoing symptoms of Alzheimer disease. As his wife Annabel accepted the Lamar Hunt trophy, she glared up at the stands, then at the players and passionately says "Let's get it done for Pat and Go Broncos!" 
+Orange, blue, and white confetti filled the sky. I was a mile high - feeling on top the world. To be part of something so magical, so pleasing justified making this journey. Pat Bowlen, Broncos owner stepped down from CEO because he was underoing symptoms of Alzheimer's disease. As his wife Annabel accepted the Lamar Hunt trophy, she glared up at the stands, then at the players and shouts "Let's get it done for Pat and Go Broncos!" 
 <figure>
 	<img src="/images/onto50/forpat.png">
 </figure>
