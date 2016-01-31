@@ -3,6 +3,7 @@ layout: page
 permalink: /broncos-on-to-50/
 title: Broncos On To 50
 description: Broncos vs. Patriots AFC Championship - January 24th, 2016
+comments: true
 ---
 
 AFC Championship: Manning vs. Brady
@@ -17,19 +18,19 @@ The matchup that has sent shivers down my sign for years. The team my heart has 
 <figure>
 	<img src="/images/onto50/flight.png">
 </figure>
-The night before the game, I bought round-trip tickets to the rocky mountains of Denver, Colorado. Hey, if it's not too late - then you can still do it. After two-hour flight and big Mike with the Uber ride talking about rocky mountain oysters (still on my to eat list) and prairie dogs, I was surrounded by a sea of orange and nothing could steal the grin on my face.
+The night before the game, I bought round-trip tickets to the rocky mountains of Denver, Colorado. Hey, if it's not too late - then you can still do it. After my two-hour flight and a lovely converstion with big Mike (my Uber driver) about rocky mountain oysters and prairie dogs, I found myself surrounded by a sea of orange and nothing could steal the grin from my face.
 <figure>
 	<img src="/images/onto50/sportsauthority.png">
 </figure>
 <figure>
 	<img src="/images/onto50/smith-sharpe-davis-atwater.png">
 </figure>
-I stood among statues of Broncos hall-of-game and the great Pat Bowlen. As I my expensive credentials let me into the stadium, my heart sank with awe in the sights and sounds. Players from the championship teams were here - Sharpe, Davis, McCaffrey. Also in attendance were T.I. and Standford phenom running back Christian McCaffrey. I was finally here - thousands people with different stories on why and how they got here but all with the singular purpose: kick and scream their beloved Broncos to the Super Bowl.
+I stood among statues of Broncos hall-of-game and the great Pat Bowlen. As I my expensive credentials granted into the stadium, my heart sank with awe in the sights and sounds. Players from the championship teams were here - Sharpe, Davis, and more. Also in attendance were T.I.and Standford phenom running back Christian McCaffrey. It hit me. I was finally here - amongst thousands with the singular purpose: kick and scream their beloved Broncos to the Super Bowl.
 <figure>
 	<img src="/images/onto50/seat.png">
 	<figcaption>Club level 306, Row 2, Seat 3.</figcaption>
 </figure>
-National Anthem by Andy Grammer and kickoff started. I blew up my snapchat throughout the game as I was on the edge of my seat with every ticking minute going by. I've attended a Seahawks regular-season game at Century Link, known to be the loudest stadium in the NFL. I joined a Broncos crowd that was even *louder*. Every defensive possession, fans were on their feet - shouted to the top of their lungs. There were five pre-snap offensive penalties by the Patriots - I witnessed the power of home field advantage. I cheered "IN-COM-PLETE!" as Brady's passes didn't connect. In what proved to be a valuable possession, I put on my Broncos beanie at the 2 minute warning - Manning marched the offensive to a McManus field goal to end the half. I found myself a new superstition.
+National Anthem was sung by Andy Grammer and kickoff started. I blew up my snapchat throughout the game because was on the edge of my seat with every ticking minute going by. I've attended a Seahawks regular-season game at Century Link Field, known to be the loudest stadium in the NFL. This Broncos crowd that was even *louder*. Every defensive possession, fans were on their feet - shouted to the top of their lungs. There were five pre-snap offensive penalties by the Patriots - I witnessed the power of home field advantage. I cheered "IN-COM-PLETE!" as Brady's passes didn't connect. In what proved to be a valuable possession, I put on my Broncos beanie at the 2 minute warning - Manning marched the offense which led to a McManus field goal to end the half.
 <figure>
 	<img src="/images/onto50/field.png">
 </figure>
@@ -43,7 +44,7 @@ Shiloh Keo recovers on the 38.
 <figure>
 	<img src="/images/onto50/confetti.png">
 </figure>
-Orange, blue, and white confetti filled the sky. I was a mile high - feeling on top the world. To be part of something so magical, so pleasing justified making this journey. Pat Bowlen, Broncos owner stepped down from CEO because he was underoing symptoms of Alzheimer's disease. As his wife Annabel accepted the Lamar Hunt trophy, she glared up at the stands, then at the players and shouts "Let's get it done for Pat and Go Broncos!" 
+Orange, blue, and white confetti filled the sky. I was feeling a mile high. Literally too (the stadium is 5280 feet above sea level). To be part of something so magical justified making this journey. Pat Bowlen, Broncos owner, stepped down from CEO duties this year because he was underoing symptoms of Alzheimer's disease. As his wife Annabel accepted the Lamar Hunt trophy, she glared up at the stands, then at the players and shouts "Let's get it done for Pat and Go Broncos!" 
 <figure>
 	<img src="/images/onto50/forpat.png">
 </figure>
