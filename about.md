@@ -20,6 +20,6 @@ image:
 
 Born and raised in Hawaii. In 2015, I packed up my bags and moved to Redmond, Washington to work as a Software Test Engineer at Microsoft. 
 <br><br>
-TV show quotes and song lyrics daily to pilot the wonders of everyday life.
+TV show quotes and song lyrics pilot life on the daily.
 
 
