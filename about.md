@@ -20,7 +20,7 @@ image:
 		<b>dos·wah</b>
 		<br>[doss waah]<br>
 		<i>NOUN</i><br><br>
-		   1. The name Joshua pronounced by in a filipino accent. <br>2. <a href="https://www.instagram.com/doswah/">Let me show you</a> (with Instagram).
+		   1. The name Joshua pronounced in a filipino accent. <br>2. <a href="https://www.instagram.com/doswah/">Let me show you</a> (with Instagram).
 	</div>
 
 </div>
