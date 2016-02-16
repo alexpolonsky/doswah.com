@@ -2,13 +2,17 @@
 layout: page
 permalink: /broncos-on-to-50/
 title: Broncos On To 50
-description: Broncos vs. Patriots AFC Championship - January 24th, 2016
+description: Broncos vs. Patriots AFC Championship 
+image:
+  feature: onto50/feature.png
+  credit: 
+  creditlink: 
 comments: true
 ---
 
 AFC Championship: Manning vs. Brady
 <br>
-**Denver Broncos vs. New England Patriots**
+**Denver Broncos vs. New England Patriots - January 24th, 2016**
 <br>
 *Sports Authority Field at Mile High - Denver, Colorado*
 

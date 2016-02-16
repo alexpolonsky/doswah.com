@@ -2,12 +2,11 @@
 layout: post
 title: "Comic Con 2015: Aftercred"
 modified: 2015-10-11 19:57:00 -0700
-
-description: "3 minutes of how Comic Con 2015 really went down"
 image:
-  feature: 
+  feature: comiccon15/feature.png
   credit: 
   creditlink: 
+description: "3 minutes of how Comic Con 2015 really went down"
 comments: true
 share: true
 ---

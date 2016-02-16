@@ -14,12 +14,5 @@ image:
 **dos·wah**
 <br>[doss waah]<br>
 *NOUN*<br><br>
-   1. The name Joshua pronounced by in a filipino accent. <br>2. A state of mind.
-
-<hr>
-
-Born and raised in Hawaii. In 2015, I packed up my bags and moved to Redmond, Washington to work as a Software Test Engineer at Microsoft. 
-<br><br>
-Using TV show quotes and song lyrics to pilot life on the daily.
-
+   1. The name Joshua pronounced by in a filipino accent. <br>2. [Let me show you](https://www.instagram.com/doswah/) (with Instagram).
 
