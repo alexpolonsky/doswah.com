@@ -46,16 +46,19 @@
 
   {% for post in site.posts %}  
   {% unless post.next %}
-    <h2>{{ post.date | date: '%Y' }}</h2>
+    <h3 align="center">{{ post.date | date: '%Y' }}</h3>
     {% else %}
+     <br>
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
       {% if year != nyear %}
-        <h3>{{ post.date | date: '%Y' }}</h3>
+      <br>
+        <h3 align="center">{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
     <article>
-      {% if post.image.feature %}
+    <br>
+    {% if post.image.feature %}
               <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
               <img src=
                 {% if post.image.feature contains 'http://' %}
@@ -68,13 +71,24 @@
               alt="{{ post.title }} feature image">
             </a>
           </a>
-          <h2 align="right" ><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p align="right">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+          <div style="background-color: #ECEEF1; padding-top: 5px; padding-bottom:1px; padding-right:px">
+          <h2 align="left" style="padding-left:15px; padding-right:15px" ><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p align="left"style="padding-left:15px; padding-right:15px">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+      </div>
         {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+        <div style="background-color: #ECEEF1; padding-top: 5px; padding-bottom:1px; padding-right:3px">
+          <h2 align="left" style="padding-left:15px; padding-right:15px" ><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p align="left"style="padding-left:15px; padding-right:15px">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+      </div>
       {% endif %}
-    </article>
+    <!--
+    {% if post.link %}
+      <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="icon-link"></i></h2>
+    {% else %}
+      <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+    {% endif %}-->
+  </article>
   {% endfor %}
 </div><!-- /#index -->
 

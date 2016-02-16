@@ -46,6 +46,7 @@
   <br>
   {% for post in site.posts limit:3 %}    
   <article>
+    <br>
     {% if post.image.feature %}
               <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
               <img src=
@@ -59,11 +60,15 @@
               alt="{{ post.title }} feature image">
             </a>
           </a>
-          <h2 align="right" ><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p align="right">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+          <div style="background-color: #ECEEF1; padding-top: 5px; padding-bottom:1px; padding-right:px">
+          <h2 align="left" style="padding-left:15px; padding-right:15px"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p align="left"style="padding-left:15px; padding-right:15px">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+      </div>
         {% else %}
-        <h2 align="left"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p align="left">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+        <div style="background-color: #ECEEF1; padding-top: 5px; padding-bottom:1px; padding-right:3px">
+          <h2 align="left" style="padding-left:15px; padding-right:15px" ><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p align="left"style="padding-left:15px; padding-right:15px">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+      </div>
       {% endif %}
     <!--
     {% if post.link %}
@@ -74,6 +79,7 @@
     {% endif %}-->
   </article>
   {% endfor %}
+  <br><br>
   <h3>Let's Connect</h3>
 
 <div class="post">
