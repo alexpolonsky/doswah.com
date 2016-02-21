@@ -25,39 +25,22 @@ image:
 
 </div>
 
+<br><br>
+<hr>
+<div style="text-align:center;">
+    <div style="display:inline-block;margin-right:15px">
+        <h2>Let's Connect</h2>
+    </div>
+    <div style="display:inline-block;">
+        <a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i></a>
+        <a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i></a>
+        <a href="http://instagram.com/{{ site.owner.instagram }}" class="author-social" target="_blank"><i class="icon-instagram"></i></a>
+        <a href="http://www.pinterest.com/{{ site.owner.pinterest }}" class="author-social" target="_blank"><i class="icon-pinterest"></i><a>
+        <a href="http://{{ site.owner.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="icon-tumblr"></i></a>
+    </div>
+</div>  
 
-<div class="post">
-	<br><br><br>
-	<hr>
-
-	
-	<h3>Let's Connect</h3>
-
-	<div style="float:left;width:25%">
-	<b style="padding-bottom:10px">Coding</b>
-	{% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>{% endif %}
-	</div>
-
-	<div style="width:50%; padding 0px 100px 5px 100px; margin: 0px">
-	<b style="padding:1px">Professional</b>
-	{% if site.owner.linkedin %}<a href="http://linkedin.com/pub/{{ site.owner.linkedin }}" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>{% endif %}
-	</div>
-
-	<br>
-
-	<div style="float:left;width:25%">
-	<b style="padding:1px">Social</b>
-	{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>{% endif %}
-	{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>{% endif %}
-	{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" class="author-social" target="_blank"><i class="icon-instagram"></i> Instagram</a>{% endif %}
-	</div>
-
-	<div style="width:50%; padding 0px 100px 5px 100px; margin: 0px">
-	<br>
-	{% if site.owner.pinterest %}<a href="http://www.pinterest.com/{{ site.owner.pinterest }}" class="author-social" target="_blank"><i class="icon-pinterest"></i> Pinterest</a>{% endif %}
-	{% if site.owner.tumblr %}<a href="http://{{ site.owner.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="icon-tumblr"></i> Tumblr</a>{% endif %}
-	{% if site.owner.stackoverflow %}<a href="http://stackoverflow.com/users/{{ site.owner.stackoverflow }}" class="author-social" target="_blank"><i class="icon-stackoverflow"></i> Stackoverflow</a>{% endif %}
-	</div>
+<br>
 <!--
 <div style="float:right;width:20%">
 <br>

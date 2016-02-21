@@ -11,7 +11,10 @@
 
 {% include _browser-upgrade.html %}
 
+<!--<div class="container" style="background-image: url('../images/header2.png'); max-width:100%; max-height:100%">-->
+
 {% include _navigation.html %}
+</div>
 
 {% if page.image.feature %}
   <!--<div class="image-wrap">
@@ -38,15 +41,12 @@
    <!-- <a href="../100cups/"><img src="../images/100cups/100cups.png" style="width:85%"></a> -->
 
 
-
-  <!--<img src="/images/header2.png" style="max-width:100%; max-height:100">-->
-<br><br>
-
-  <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-  <br>
+<hr>
+  <img src="/images/moviemarch2016/movie-march-2016.png" style="max-width:100%; max-height:10; margin-bottom:0px">
+<hr>
+  <h1><a href="{{ site.url}}/posts/">Recent Posts</a></h1>
   {% for post in site.posts limit:3 %}    
   <article>
-    <br>
     {% if post.image.feature %}
               <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
               <img src=
@@ -77,48 +77,43 @@
       <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
       <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
     {% endif %}-->
+    <br>
   </article>
   {% endfor %}
-  <br><br>
-  <h3>Let's Connect</h3>
 
-<div class="post">
 <br>
-<div style="float:left;width:30%">
-<b style="padding-bottom:100px">Coding</b>
-{% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>{% endif %}
-<br>
-</div>
 
-<div style="width:50%; padding 0px 100px 5px 100px; margin: 0px">
+  
+  
 
-<b style="padding:1px">Professional</b>
-{% if site.owner.linkedin %}<a href="http://linkedin.com/pub/{{ site.owner.linkedin }}" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>{% endif %}
-</div>
+<!--
+<div style="float:right;width:20%">
 <br>
-<div style="float:left;width:30%">
-<b style="padding:1px">Social</b>
-{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>{% endif %}
-{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>{% endif %}
-{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" class="author-social" target="_blank"><i class="icon-instagram"></i> Instagram</a>{% endif %}
-</div>
 
-<div style="width:50%; padding 0px 100px 5px 100px; margin: 0px">
-<br>
 {% if site.owner.pinterest %}<a href="http://www.pinterest.com/{{ site.owner.pinterest }}" class="author-social" target="_blank"><i class="icon-pinterest"></i> Pinterest</a>{% endif %}
 {% if site.owner.tumblr %}<a href="http://{{ site.owner.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="icon-tumblr"></i> Tumblr</a>{% endif %}
 {% if site.owner.stackoverflow %}<a href="http://stackoverflow.com/users/{{ site.owner.stackoverflow }}" class="author-social" target="_blank"><i class="icon-stackoverflow"></i> Stackoverflow</a>{% endif %}
 </div>
-</div>
 
-</div>
+-->
+<hr>
+<div style="text-align:center;">
+    <div style="display:inline-block;margin-right:15px">
+        <h2>Let's Connect</h2>
+    </div>
+    <div style="display:inline-block;">
+        <a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i></a>
+        <a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i></a>
+        <a href="http://instagram.com/{{ site.owner.instagram }}" class="author-social" target="_blank"><i class="icon-instagram"></i></a>
+        <a href="http://www.pinterest.com/{{ site.owner.pinterest }}" class="author-social" target="_blank"><i class="icon-pinterest"></i><a>
+        <a href="http://{{ site.owner.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="icon-tumblr"></i></a>
+    </div>
+</div>  
 
 
-<div class="footer-wrap">
-  <footer>
+<br>
     {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+
 
 {% include _scripts.html %}
   

@@ -26,11 +26,15 @@
     </url>
     
     <url>
+        <loc>/portfolio/</loc>
+    </url>
+    
+    <url>
         <loc>/resume/</loc>
     </url>
     
     <url>
-        <loc>/portfolio/</loc>
+        <loc>/resume/</loc>
     </url>
     
     <url>

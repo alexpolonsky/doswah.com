@@ -38,16 +38,16 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Blog 
+  - title: Posts 
     url: /posts/
-  #- title: "#100CupsOfCoffee"
-  #  url: /100cups/
-  - title: Resume
-    url: /resume/
-  #  external: true
+  #- title: "Movie March 2016"
+  #  url: /moviemarch2016/
+  - title: JoshuaTRivera.com
+    url: http://joshuatrivera.com
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Pacific/Honolulu
+timezone:    Pacific/Los_Angeles
 future:      true
 highlighter: pygments
 markdown:    kramdown
