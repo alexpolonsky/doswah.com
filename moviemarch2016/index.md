@@ -20,7 +20,7 @@ March marks the start of a movie-filled month of rom-coms and oscar nods. <a hre
 ---
 
 ## 1. Grease Live!
-Having never seen the 1978 classic, the impressive Pink Ladies cast got my attention (in Carly Rae Jepsen and Vanessa Hudgens). From the catchy "Summer Loving" number, this cast and crew pulled off an an fun 2-hours with plenty to love for the musical fan in me.
+Having never seen the 1978 classic, the impressive Pink Ladies cast got my attention (in Carly Rae Jepsen and Vanessa Hudgens). From the catchy "Summer Loving" number, this cast and crew pulled off a fun 2-hours with plenty to love for the musical fan in me.
 <figure>
 <img src="/images/moviemarch2016/1-greaselive.jpg">
 <figcaption>It must have been a Wednesday.
