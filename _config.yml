@@ -42,8 +42,8 @@ links:
     url: /posts/
   #- title: "Movie March 2016"
   #  url: /moviemarch2016/
-  - title: JoshuaTRivera.com
-    url: http://joshuatrivera.com
+  #- title: JoshuaTRivera.com
+   # url: http://joshuatrivera.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
