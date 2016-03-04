@@ -19,6 +19,17 @@ March marks the start of a movie-filled month from rom-coms to oscar nods.  <a h
 
 ---
 
+## 3. Hercules
+
+<figure>
+<img src="/images/moviemarch2016/3-hercules.jpg">
+<figcaption>Fact: Dwayne Johnson eats 800 pounds of cod each year.
+</figcaption>
+</figure>
+
+
+---
+
 ## 2. Wish I Was Here
 
 <figure>
