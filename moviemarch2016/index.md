@@ -19,6 +19,16 @@ March marks the start of a movie-filled month from rom-coms to oscar nods.  <a h
 
 ---
 
+## 4. The Giant Mechanical Man
+
+<figure>
+<img src="/images/moviemarch2016/4-thegiantmechanicalman.jpg">
+<figcaption>"Life is crazy, right? Maybe if you see a giant mechanical man, you know, wandering down the street toward you, maybe that it could put it into perspective for you."
+</figcaption>
+</figure>
+
+---
+
 ## 3. Hercules
 
 <figure>
@@ -26,7 +36,6 @@ March marks the start of a movie-filled month from rom-coms to oscar nods.  <a h
 <figcaption>Fact: Dwayne Johnson eats 800 pounds of cod each year.
 </figcaption>
 </figure>
-
 
 ---
 
