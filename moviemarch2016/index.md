@@ -5,7 +5,7 @@ title: Movie March 2016
 comments: true
 ---
 <img src="/images/moviemarch2016/movie-march-2016-2.jpg">
-March 1st marks the start of a movie-filled month. From rom-coms to oscar nods and missed hits to indies - the Movie March is the annual immersion of provoking and entertaining motion pictures. #moviemarch2016
+March 1st marks the start of a movie-filled month. From rom-coms to oscar nods and missed hits to indies, the Movie March is the annual immersion of motion pictures. #moviemarch2016
 <br><br>
 <a href="/movie-march-2015">Click here to check out last year!</a> 
 
@@ -19,6 +19,26 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 </div>
 </section><!-- /#table-of-contents -->
 
+---
+
+
+## Furious 7.
+<figure>
+<img src="/images/moviemarch2016/7-furious7.jpg">
+<figcaption>We've come a long way from where we began. Oh, I'll tell you all about it when I see you again.
+</figcaption>
+</figure>
+
+
+---
+
+
+## Fast & Furious 6.
+<figure>
+<img src="/images/moviemarch2016/6-fast&furious6.jpg">
+<figcaption>"You don't turn you back on family. Even when they do."
+</figcaption>
+</figure>
 
 ---
 
