@@ -21,6 +21,17 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
+## 8. Focus
+<figure>
+<img src="/images/moviemarch2016/8-focus.jpg">
+<figcaption>There's two kinds of people in this world. There's hammers and there's nails. You decide which one you want to be.
+</figcaption>
+</figure>
+
+
+
+---
+
 
 ## Furious 7.
 <figure>
