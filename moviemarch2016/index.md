@@ -21,14 +21,42 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
-## 8. Focus
+## 10. The Big Short
+<div>
+	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/oscar.png"></div>
+	<div><b>Directory Adam McKay and Writer Charles Randolph won the Oscar for Best Writing, Adapted Screenplay.</b></div>
+</div>
 <figure>
-<img src="/images/moviemarch2016/8-focus.jpg">
-<figcaption>There's two kinds of people in this world. There's hammers and there's nails. You decide which one you want to be.
+<img src="/images/moviemarch2016/10-thebigshort.jpg">
+<figcaption>It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.
 </figcaption>
 </figure>
 
 
+
+
+---
+
+## 9. Steve Jobs
+<div>
+	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/goldenglobe.jpg"></div>
+	<div><b>Michael Fassbender, Kate Winslet, and Seth Rogen team up for Danny Boyle drama. No Oscar wins but Aaron Sorkin took home Best Screenplay at the Golden Globes.</b></div>
+</div>
+<figure>
+<img src="/images/moviemarch2016/9-stevejobs.jpg">
+<figcaption>"Musicians play their instruments. I play the orchestra."
+</figcaption>
+</figure>
+
+
+---
+
+## 8. Focus
+<figure>
+<img src="/images/moviemarch2016/8-focus.jpg">
+<figcaption>"It's about distraction. It's about focus. The brain is slow and it can't multitask. Tap him here, take from there.""
+</figcaption>
+</figure>
 
 ---
 
@@ -36,7 +64,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 ## Furious 7.
 <figure>
 <img src="/images/moviemarch2016/7-furious7.jpg">
-<figcaption>We've come a long way from where we began. Oh, I'll tell you all about it when I see you again.
+<figcaption>We've come a long way from where we began - Oh, I'll tell you all about it when I see you again.
 </figcaption>
 </figure>
 
