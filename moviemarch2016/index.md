@@ -19,6 +19,15 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 </div>
 </section><!-- /#table-of-contents -->
 
+
+---
+
+## 10. The Spongebob Movie: Sponge Out of Water
+<figure>
+<img src="/images/moviemarch2016/11-spongebob.jpg">
+<figcaption>The quest for the Krabby Patty secret formula.
+</figcaption>
+</figure>
 ---
 
 ## 10. The Big Short
@@ -31,8 +40,6 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 <figcaption>It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.
 </figcaption>
 </figure>
-
-
 
 
 ---
@@ -54,7 +61,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 ## 8. Focus
 <figure>
 <img src="/images/moviemarch2016/8-focus.jpg">
-<figcaption>"It's about distraction. It's about focus. The brain is slow and it can't multitask. Tap him here, take from there.""
+<figcaption>"It's about distraction. It's about focus. The brain is slow and it can't multitask. Tap him here, take from there."
 </figcaption>
 </figure>
 
