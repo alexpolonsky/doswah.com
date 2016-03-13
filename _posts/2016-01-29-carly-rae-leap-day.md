@@ -12,7 +12,8 @@ comments: true
 
 Leap day is observed because a complete revlution around the sun takes approximately 365 days and 6 hours. This leap day, the Gimmie Love tour made a stop in Seattle for a 2-hour Carly Rae Jepsen show. Fairground Saints and Cardinox opened.
 <br><br>
-*Video coming soon...*
+
+<iframe width="560" height="340" src="//www.youtube.com/embed/PonVfZs-Lp4" frameborder="0" allowfullscreen></iframe>
 
 ## The Setlist
 
