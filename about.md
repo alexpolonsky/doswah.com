@@ -12,7 +12,7 @@ image:
 ---
 <div class="post">
 	<div style="float:left;width:200px;padding-right:30px">
-		<img src="/images/about/aloha.png" style="max-width:100%; max-height:100%">
+		<img src="/images/about/aloha.jpg" style="max-width:100%; max-height:100%">
 	</div>
 
 	<div>
@@ -20,7 +20,7 @@ image:
 		<b>dos·wah</b>
 		<br>[doss waah]<br>
 		<i>NOUN</i><br><br>
-		   1. The name Joshua pronounced in a filipino accent. <br>2. <a href="https://www.instagram.com/doswah/">Let me show you</a> (with Instagram).
+		   1. My story of living life in beta. <br>2. The name Joshua pronounced in a filipino accent. 
 	</div>
 
 </div>

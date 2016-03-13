@@ -50,7 +50,7 @@
   {% for post in site.posts limit:3 %}    
   <article>
     {% if post.image.feature %}
-              <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+            <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
               <img src=
                 {% if post.image.feature contains 'http://' %}
                   "{{ post.image.feature }}"
@@ -61,15 +61,15 @@
                 {% endif %}
               alt="{{ post.title }} feature image">
             </a>
-          </a>
-          <div style="background-color: #ECEEF1; padding-top: 5px; padding-bottom:1px; padding-right:px">
-          <h2 align="left" style="padding-left:15px; padding-right:15px"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p align="left"style="padding-left:15px; padding-right:15px">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+    
+          <div style=" padding-top: 1px; padding-bottom:1px; padding-right:0px">
+          <h2 style="font-size: 23px" align="left" style="padding-left:1px; padding-right:2px"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p align="left"style="padding-left:1px; padding-right:2px">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </div>
         {% else %}
-        <div style="background-color: #ECEEF1; padding-top: 5px; padding-bottom:1px; padding-right:3px">
-          <h2 align="left" style="padding-left:15px; padding-right:15px" ><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p align="left"style="padding-left:15px; padding-right:15px">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+        <div style=" padding-top: 1px; padding-bottom:1px; padding-right:0px">
+          <h2 align="left" style="padding-left:1px; padding-right:2px" ><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p align="left"style="padding-left:1px; padding-right:2px">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </div>
       {% endif %}
     <!--

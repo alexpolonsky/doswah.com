@@ -6,7 +6,7 @@ modified: 2015-11-09 06:48:57 -0800
 category: []
 tags: []
 image:
-  feature: indy-2015/feature.png
+  feature: indy-2015/feature.jpg
   credit: 
   creditlink: 
 comments: true

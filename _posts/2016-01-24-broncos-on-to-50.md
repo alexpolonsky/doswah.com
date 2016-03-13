@@ -4,7 +4,7 @@ permalink: /broncos-on-to-50/
 title: Broncos On To 50
 description: Broncos vs. Patriots AFC Championship 
 image:
-  feature: onto50/feature.png
+  feature: onto50/feature.jpg
   credit: 
   creditlink: 
 comments: true
