@@ -10,7 +10,7 @@ image:
 comments: true
 ---
 
-Leap day is observed because for earth, a complete revolution around the sun takes approximately 365 days and 6 hours. This leap day, the Gimmie Love tour made a stop in Seattle for a 2-hour Carly Rae Jepsen concert. Fairground Saints and Cardinox opened. 
+Leap day is observed because the earth's  complete revolution around the sun takes approximately 365 days and 6 hours. On this leap day, the Gimmie Love tour made a stop in Seattle for a Carly Rae Jepsen concert featuring Fairground Saints and Cardinox. 
 <br>
 
 <iframe width="560" height="340" src="//www.youtube.com/embed/PonVfZs-Lp4" frameborder="0" allowfullscreen></iframe>
