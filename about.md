@@ -20,7 +20,8 @@ image:
 		<b>dos·wah</b>
 		<br>[doss waah]<br>
 		<i>NOUN</i><br><br>
-		   1. My story of living life in beta. <br>2. The name Joshua pronounced in a filipino accent. 
+		   1. The name Joshua pronounced in a filipino accent. 
+       2. Some kind of way of life.
 	</div>
 
 </div>
