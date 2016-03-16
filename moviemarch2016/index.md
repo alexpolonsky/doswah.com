@@ -21,6 +21,17 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
+## 15. Straight Outta Compton
+<figure>
+<img src="/images/moviemarch2016/15-straightouttacompton.jpg">
+<figcaption>Say that shit like you believe it man. Like it's your words - feel that shit.
+</figcaption>
+</figure>
+
+
+
+---
+
 ## 14. Creed
 <div>
 	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/goldenglobe.jpg"></div>
@@ -28,7 +39,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 </div>
 <figure>
 <img src="/images/moviemarch2016/14-creed.jpg">
-<figcaption>You can't learn anything when you're talking. That's a fact of life. As long as you're talking, you're not listening.
+<figcaption>"You can't learn anything when you're talking. That's a fact of life. As long as you're talking, you're not listening."
 </figcaption>
 </figure>
 
@@ -37,7 +48,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 ## 13. Room
 <div>
 	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/oscar.png"></div>
-	<div><b>Brie Larson is one-for-one at the Academy Awards winning Best Actress starring in this indie drama. A huge step up from her role 21 Jump Street.</b></div>
+	<div><b>Brie Larson is one-for-one at the Academy Awards winning Best Actress starring in this indie drama. A huge step up from her role in 21 Jump Street.</b></div>
 </div>
 <figure>
 <img src="/images/moviemarch2016/13-room.jpg">
@@ -106,9 +117,10 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 
 ## Furious 7.
+****
 <figure>
 <img src="/images/moviemarch2016/7-furious7.jpg">
-<figcaption>We've come a long way from where we began - Oh, I'll tell you all about it when I see you again.
+<figcaption>We've come a long way from where we began. Oh, I'll tell you all about it when I see you again.
 </figcaption>
 </figure>
 
@@ -117,6 +129,8 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 
 ## Fast & Furious 6.
+**Five years after watching Fast Five during finals week, it was time to revisit the Fast & Furious franchise.**<br><br>
+
 <figure>
 <img src="/images/moviemarch2016/6-fast&furious6.jpg">
 <figcaption>"You don't turn you back on family. Even when they do."
