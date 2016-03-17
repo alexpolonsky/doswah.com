@@ -19,6 +19,17 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 </div>
 </section><!-- /#table-of-contents -->
 
+
+---
+
+# 16. Laggies
+
+<figure>
+<img src="/images/moviemarch2015/laggies.jpg">
+<figcaption>Rule #2: You can't keep putting aside what you want for some imaginary future. You've gotta suck it up and go with you gut.</figcaption>
+</figure>
+
+
 ---
 
 ## 15. Straight Outta Compton
