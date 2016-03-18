@@ -22,6 +22,16 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
+# 17. Coraline
+
+<figure>
+<img src="/images/moviemarch2016/17-coraline.jpg">
+<figcaption>Fairy tales are more than true - not because they tell us that dragons exist, but because they tell us that dragons can be beaten.</figcaption>
+</figure>
+
+
+---
+
 # 16. Laggies
 
 <figure>
