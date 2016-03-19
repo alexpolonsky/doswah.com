@@ -22,6 +22,15 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
+# 18. Everything Must Go
+
+<figure>
+<img src="/images/moviemarch2016/18-everythingmustgo.jpg">
+<figcaption>"You know they say that the dining room is the least utilized room in the house? I think it's the front lawn."</figcaption>
+</figure>
+
+---
+
 # 17. Coraline
 
 <figure>
