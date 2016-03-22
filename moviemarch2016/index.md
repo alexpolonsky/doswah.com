@@ -21,6 +21,19 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
+## 21. Spotlight
+<div>
+	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/oscar.png"></div>
+	<div><b>Winner of this year's Best Picture at the Academy Awards.</b></div>
+</div>
+<figure>
+<img src="/images/moviemarch2016/21-spotlight.jpg">
+<figcaption>Sometimes it's easy to forget that we spend most of our time stumbling around the dark.
+</figcaption>
+</figure>
+
+---
+
 ## 20. The Theory of Everything
 <div>
 	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/oscar.png"></div>
