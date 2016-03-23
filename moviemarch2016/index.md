@@ -21,6 +21,19 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
+## 22. Spectre
+<div>
+	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/oscar.png"></div>
+	<div><b>Sam Smith won the Oscar for Best Original Song with <i>Writing's on the Wall</i></b></div>
+</div>
+<figure>
+<img src="/images/moviemarch2016/22-spectre.jpg">
+<figcaption>A man lives inside his head. That's where the seed of his soul is.
+</figcaption>
+</figure>
+
+---
+
 ## 21. Spotlight
 <div>
 	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/oscar.png"></div>
