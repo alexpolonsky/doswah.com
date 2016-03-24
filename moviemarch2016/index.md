@@ -21,6 +21,21 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
+## 23. Birdman or (The Unexpected Virtue of Ignorance)
+<div>
+	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/oscar.png"></div>
+	<div><b>Winner of Best Picture in 2015.</b></div>
+	
+</div>
+<figure>
+<img src="/images/moviemarch2016/23-birdman.jpg">
+<figcaption>A man becomes a critic when he cannot be an artist, the same way that a man becomes an informer when he cannot be a soldier.
+</figcaption>
+</figure>
+
+
+---
+
 ## 22. Spectre
 <div>
 	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/oscar.png"></div>
