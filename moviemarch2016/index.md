@@ -20,7 +20,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 </section><!-- /#table-of-contents -->
 
 
-# 28. Trainwreck
+## 28. Trainwreck
 
 <figure>
 <img src="/images/moviemarch2016/28-trainwreck.jpg">
@@ -31,7 +31,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 ---
 
 
-# 27. The Martian
+## 27. The Martian
 <div>
 	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/goldenglobe.jpg"></div>
 	<div><b>Matt Damon is Iron Man. The cast is near-perfect.</b></div>
@@ -47,7 +47,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 ---
 
 
-# 26. The Hunger Games: Mockingjay Part 2
+## 26. The Hunger Games: Mockingjay Part 2
 
 <figure>
 <img src="/images/moviemarch2016/26-mockingjay.jpg">
@@ -58,7 +58,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 ---
 
 
-# 25. Get A Job
+## 25. Get A Job
 
 <figure>
 <img src="/images/moviemarch2016/25-getajob.jpg">
@@ -132,7 +132,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
-# 19. The Secret of Kells
+## 19. The Secret of Kells
 
 <figure>
 <img src="/images/moviemarch2016/19-thesecretofkells.jpg">
@@ -142,7 +142,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
-# 18. Everything Must Go
+## 18. Everything Must Go
 
 <figure>
 <img src="/images/moviemarch2016/18-everythingmustgo.jpg">
@@ -151,7 +151,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
-# 17. Coraline
+## 17. Coraline
 
 <figure>
 <img src="/images/moviemarch2016/17-coraline.jpg">
@@ -161,7 +161,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 ---
 
-# 16. Laggies
+## 16. Laggies
 
 <figure>
 <img src="/images/moviemarch2015/laggies.jpg">
