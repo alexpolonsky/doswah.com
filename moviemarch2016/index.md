@@ -20,6 +20,43 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 </section><!-- /#table-of-contents -->
 
 
+# 28. Trainwreck
+
+<figure>
+<img src="/images/moviemarch2016/28-trainwreck.jpg">
+<figcaption>"What I'm sayin' is you gotta go for it. You need to focus if you want to take it to the next level."</figcaption>
+</figure>
+
+
+---
+
+
+# 27. The Martian
+<div>
+	<div><img style="float: left; margin: 0px 15px 15px 0px;"  src="/images/moviemarch2016/goldenglobe.jpg"></div>
+	<div><b>Matt Damon is Iron Man. The cast is near-perfect.</b></div>
+</div>
+<figure>
+<img src="/images/moviemarch2016/27-themartian.jpg">
+<figcaption>"In the face of overwhelming odds, I'm left with only one option, I'm gonna have to science the shit out of this."
+</figcaption>
+</figure>
+
+
+
+---
+
+
+# 26. The Hunger Games: Mockingjay Part 2
+
+<figure>
+<img src="/images/moviemarch2016/26-mockingjay.jpg">
+<figcaption>"May her arrow signify the end of tyranny and the beginning of a new era. Mockingjay, may your aim be as true as your heart is pure."</figcaption>
+</figure>
+
+
+---
+
 
 # 25. Get A Job
 
