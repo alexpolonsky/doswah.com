@@ -24,7 +24,7 @@ March 1st marks the start of a movie-filled month. From rom-coms to oscar nods a
 
 <figure>
 <img src="/images/moviemarch2016/29-whilewereyoung.jpg">
-<figcaption>"A month is still in the realm of spontaneity."</figcaption>
+<figcaption>"We didn't know the answers. We discovered them."</figcaption>
 </figure>
 
 
