@@ -21,7 +21,6 @@ image:
 		<br>[doss waah]<br>
 		<i>NOUN</i><br><br>
 		   1. The name Joshua pronounced in a filipino accent. 
-       2. Some kind of way of life.
 	</div>
 
 </div>
