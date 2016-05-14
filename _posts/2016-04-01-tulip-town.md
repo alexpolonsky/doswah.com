@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /tulip-town/
-title: Tulips & Cherry Blossoms
-description: Nothing more Spring than flower overload.
+title: Cherry Blossoms & Tulip Town
+description: Spring af.
 image:
   feature: tulip-town/feature.jpg
   credit: 
@@ -20,10 +20,10 @@ comments: true
 <br><br>
 <img src="/images/tulip-town/UW-3.jpg">
 <br>
-
+<br>
 *Skagit Valley, Washington* | 
 <a href="http://tuliptown.com/wordpress/">tuliptown.com</a>
-<br>
+<br><br>
 <img src="/images/tulip-town/feature.old.jpg">
 <br><br>
 <img src="/images/tulip-town/yellow-tulip.jpg">
